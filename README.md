@@ -108,6 +108,19 @@ A few selected utilities to make life easier.
 - [Xaero's World Map](https://modrinth.com/mod/xaeros-world-map)
 - [You're in Grave Danger](https://modrinth.com/mod/yigd)
 - [Bayi's Hungarian Translations](https://modrinth.com/resourcepack/bayis-translations)
+- [Advancement Plaques](https://modrinth.com/mod/advancement-plaques)
+- [Ambient Environment](https://modrinth.com/mod/ambient-environment)
+- [BetterF3](https://modrinth.com/mod/betterf3)
+- [Data Loader](https://modrinth.com/mod/dataloader)
+- [Disable Custom Worlds Advice](https://modrinth.com/mod/dcwa)
+- [Do a Barrel Roll](https://modrinth.com/mod/do-a-barrel-roll)
+- [Item Borders](https://modrinth.com/mod/item-borders)
+- [Legendary Tooltips](https://modrinth.com/mod/legendary-tooltips)
+- [Mod Menu](https://modrinth.com/mod/modmenu)
+- [Not Enough Animations](https://modrinth.com/mod/not-enough-animations)
+- [Particular](https://modrinth.com/mod/particular)
+- [Sound Physics Remastered](https://modrinth.com/mod/sound-physics-remastered)
+- [Wakes](https://modrinth.com/mod/wakes)
 </details>
 
 ## Optimizations
