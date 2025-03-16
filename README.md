@@ -80,7 +80,6 @@ Build beautiful structures with furniture and extra decorative blocks.
 - [Chipped](https://modrinth.com/mod/chipped)
 - [Handcrafted](https://modrinth.com/mod/handcrafted)
 - [Immersive Paintings](https://modrinth.com/mod/immersive-paintings)
-- [Paladin's Furniture Mod](https://modrinth.com/mod/paladins-furniture)
 - [Macaw's Bridges](https://modrinth.com/mod/macaws-bridges)
 - [Macaw's Doors](https://modrinth.com/mod/macaws-doors)
 - [Macaw's Fences and Walls](https://modrinth.com/mod/macaws-fences-and-walls)
