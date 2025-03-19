@@ -2,7 +2,7 @@
 
 ![Icon](https://raw.githubusercontent.com/bayi/Lilla-s-Create-Pack/refs/heads/main/assets/Lilla-Create128.png)
 
-A simple Fabric modpack centered around Create, ComputerCraft, Farmer's Delight and Applied Energistics 2. 
+A simple Forge modpack centered around Create, ComputerCraft, Farmer's Delight and Applied Energistics 2. 
 We play this together with friends on a private server, and maybe others would enjoy it too.
 
 The main goal of the modpack is automation while still allowing players to build fancy structures with ease. The modpack also includes my resource pack with Hungarian translations, where I strive to provide translations for most of the included mods.
@@ -142,6 +142,8 @@ Everyone loves optimizations, right? Includes shaders for those who want to use 
 
 ## Other
 Other mods are mostly libraries or dependencies of the above. See the full list once you download the pack.
+
+Modpack was on Fabric until version v1.4, will update to Create 6.0 as soon as all the mods are compatible, then move to neoforge when all mods are ready for 1.21.
 
 # Feedback
 
