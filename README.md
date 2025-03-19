@@ -145,6 +145,15 @@ Other mods are mostly libraries or dependencies of the above. See the full list 
 
 Modpack was on Fabric until version v1.4, will update to Create 6.0 as soon as all the mods are compatible, then move to neoforge when all mods are ready for 1.21.
 
+# Servers
+For servers ensure that the following mods are disabled: 
+- oculus
+- embeddium
+- ImmediatelyFast
+- MakeUp-UltraFast
+- freecam
+- radium
+
 # Feedback
 
 I have tried to balance everything as much as possible, but feedback is always welcome if you think something needs adjustments. 
