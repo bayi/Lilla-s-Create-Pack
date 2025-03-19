@@ -20,14 +20,14 @@ The core mods this modpack is centered around.
 Because we love Create! ;) This includes New Age and Crafts & Additions for energy generation, Jetpack for utilities, and a bunch of building and decoration add-ons for nice trains.
   </summary>
   
-- [Create](https://modrinth.com/mod/create-fabric)  
+- [Create](https://modrinth.com/mod/create)  
 - [Create Crafts & Additions](https://modrinth.com/mod/createaddition)
 - [Create Deco](https://modrinth.com/mod/create-deco)
 - [Create Jetpack](https://modrinth.com/mod/create-jetpack)
 - [Create: Bells & Whistles](https://modrinth.com/mod/bellsandwhistles)
 - [Create: Enchantment Industry](https://modrinth.com/mod/create-enchantment-industry)
 - [Create: New Age](https://modrinth.com/mod/create-new-age)
-- [Create: Power Loader](https://modrinth.com/mod/create-power-loader-fabric)
+- [Create: Power Loader](https://modrinth.com/mod/create-power-loader)
 - [Create: Steam 'n' Rails](https://modrinth.com/mod/create-steam-n-rails)
 - [Create Slice & Dice](https://modrinth.com/mod/slice-and-dice)
 </details>
@@ -40,7 +40,7 @@ All your storage needs covered by AE2 and Backpacks.
 
 - [Applied Energistics 2](https://modrinth.com/mod/ae2)
 - [Applied Energistics 2 Wireless Terminals](https://modrinth.com/mod/applied-energistics-2-wireless-terminals)
-- [Sophisticated Backpacks](https://modrinth.com/mod/sophisticated-backpacks-(unoffical-fabric-port))
+- [Sophisticated Backpacks](https://modrinth.com/mod/sophisticated-backpacks)
 </details>
 
 ### Computers
@@ -51,7 +51,7 @@ Computers for automation with integration into AE2 and some extra peripherals.
 
 - [CC:Tweaked](https://modrinth.com/mod/cc-tweaked)
 - [Tom's Peripherals](https://modrinth.com/mod/toms-peripherals)
-- [PowerAE2CC Bridge](https://modrinth.com/mod/powerae2cc)
+- [Advanced Peripherals](https://modrinth.com/mod/advancedperipherals)
 </details>
 
 
@@ -62,7 +62,7 @@ World generation, extra animals, and of course, the beloved food mod. For conven
   </summary>
 
 - [Ad Astra](https://modrinth.com/mod/ad-astra)
-- [Farmer's Delight](https://modrinth.com/mod/farmers-delight-refabricated)
+- [Farmer's Delight](https://modrinth.com/mod/farmers-delight)
 - [Naturalist](https://modrinth.com/mod/naturalist)
 - [Easy Mob Farm](https://modrinth.com/mod/easy-mob-farm)
 - [Waystones](https://modrinth.com/mod/waystones)
@@ -75,10 +75,10 @@ Build beautiful structures with furniture and extra decorative blocks.
   </summary>
 
 - [AntiBlocksReChiseled](https://modrinth.com/mod/antiblocksrechiseled)
-- [Beautify](https://modrinth.com/mod/beautify-refabricated)
-- [Building Wands](https://modrinth.com/mod/building-wands)
+- [Beautify](https://modrinth.com/mod/beautify)
 - [Chipped](https://modrinth.com/mod/chipped)
 - [Handcrafted](https://modrinth.com/mod/handcrafted)
+- [Paladin's Furniture Mod](https://modrinth.com/mod/paladins-furniture)
 - [Immersive Paintings](https://modrinth.com/mod/immersive-paintings)
 - [Macaw's Bridges](https://modrinth.com/mod/macaws-bridges)
 - [Macaw's Doors](https://modrinth.com/mod/macaws-doors)
@@ -100,27 +100,28 @@ A few selected utilities to make life easier.
 - [Elytra Slot](https://modrinth.com/mod/elytra-slot)
 - [Freecam](https://modrinth.com/mod/freecam)
 - [Jade](https://modrinth.com/mod/jade)
+- [Jade Addons](https://modrinth.com/mod/jade-addons-forge)
 - [Lootr](https://modrinth.com/mod/lootr)
-- [REI](https://modrinth.com/mod/rei)
+- [JEI](https://modrinth.com/mod/jei/)
 - [Simple Voice Chat](https://modrinth.com/plugin/simple-voice-chat)
-- [Trinkets](https://modrinth.com/mod/trinkets)
+- [Curios API](https://modrinth.com/mod/curios)
 - [Xaero's Minimap](https://modrinth.com/mod/xaeros-minimap)
 - [Xaero's World Map](https://modrinth.com/mod/xaeros-world-map)
-- [You're in Grave Danger](https://modrinth.com/mod/yigd)
+- [GraveStone Mod](https://modrinth.com/mod/gravestone-mod)
 - [Bayi's Hungarian Translations](https://modrinth.com/resourcepack/bayis-translations)
 - [Advancement Plaques](https://modrinth.com/mod/advancement-plaques)
 - [Ambient Environment](https://modrinth.com/mod/ambient-environment)
 - [BetterF3](https://modrinth.com/mod/betterf3)
-- [Data Loader](https://modrinth.com/mod/dataloader)
-- [Disable Custom Worlds Advice](https://modrinth.com/mod/dcwa)
+- [Open Loader](https://modrinth.com/mod/open-loader)
 - [Do a Barrel Roll](https://modrinth.com/mod/do-a-barrel-roll)
 - [Item Borders](https://modrinth.com/mod/item-borders)
 - [Legendary Tooltips](https://modrinth.com/mod/legendary-tooltips)
-- [Mod Menu](https://modrinth.com/mod/modmenu)
 - [Not Enough Animations](https://modrinth.com/mod/not-enough-animations)
 - [Particular](https://modrinth.com/mod/particular)
 - [Sound Physics Remastered](https://modrinth.com/mod/sound-physics-remastered)
-- [Wakes](https://modrinth.com/mod/wakes)
+- [Shrink](https://modrinth.com/mod/shrink)
+- [What Are They Up To (Watut)](https://modrinth.com/mod/what-are-they-up-to)
+- [Discord Integration](https://modrinth.com/plugin/dcintegration)
 </details>
 
 ## Optimizations
@@ -130,12 +131,12 @@ Everyone loves optimizations, right? Includes shaders for those who want to use 
   </summary>
   
 - [Distant Horizons](https://modrinth.com/mod/distanthorizons)
-- [Sodium](https://modrinth.com/mod/sodium)
-- [Lithium](https://modrinth.com/mod/lithium)
-- [Indium](https://modrinth.com/mod/indium)
+- [Embeddium](https://modrinth.com/mod/embeddium)
+- [Radium](https://modrinth.com/mod/radium)
 - [ImmediatelyFast](https://modrinth.com/mod/immediatelyfast)
 - [Entity Culling](https://modrinth.com/mod/entityculling)
-- [Enhanced Block Entities](https://modrinth.com/mod/ebe)
+- [Fusion](https://modrinth.com/mod/fusion-connected-textures)
+- [Oculus](https://modrinth.com/mod/oculus)
 - [MakeUp - Ultra Fast](https://modrinth.com/shader/makeup-ultra-fast-shaders)
 </details>
 
