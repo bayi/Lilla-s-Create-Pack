@@ -153,6 +153,7 @@ For servers ensure that the following mods are disabled:
 - MakeUp-UltraFast
 - freecam
 - radium
+- distanthorizons ?
 
 # Feedback
 
