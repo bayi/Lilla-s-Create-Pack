@@ -62,12 +62,12 @@ Computers for automation with integration into AE2 and some extra peripherals.
 ### Engineering & Technology
 <details>
     <summary>
-Realistic pwoer generation, multiblock machines, modular tools and weapons
+Realistic power generation, multiblock machines, modular tools and weapons
     </summary>
 
 - [Immersive Engineering](https://modrinth.com/mod/immersiveengineering) - Adds realistic power generation, multiblock machines, and wiring systems.
 - [Tinkers' Construct](https://modrinth.com/mod/tinkers-construct) - A modular tool and weapon system for customization and progression.
-</details
+</details>
 
 ### World & Misc
 <details>
