@@ -123,7 +123,6 @@ A few selected utilities to make life easier.
 - [Sound Physics Remastered](https://modrinth.com/mod/sound-physics-remastered)
 - [Shrink](https://modrinth.com/mod/shrink)
 - [What Are They Up To (Watut)](https://modrinth.com/mod/what-are-they-up-to)
-- [Discord Integration](https://modrinth.com/plugin/dcintegration)
 </details>
 
 ## Optimizations
