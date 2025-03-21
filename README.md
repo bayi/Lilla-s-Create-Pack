@@ -1,9 +1,14 @@
 # Lilla's Create Tech Pack
 
-A simple Forge modpack centered around Create, ComputerCraft, Farmer's Delight and Applied Energistics 2. 
-We play this together with friends on a private server, and maybe others would enjoy it too.
+This is a simple Forge-based modpack designed to offer a seamless blend of automation, engineering, and creativity. Originally developed for private multiplayer sessions with friends, this pack has been fine-tuned to provide an engaging experience that others can enjoy as well.
 
-The main goal of the modpack is automation while still allowing players to build fancy structures with ease. The modpack also includes my resource pack with Hungarian translations, where I strive to provide translations for most of the included mods.
+At its core, the modpack revolves around the powerful Create mod and its many expansions, enabling players to construct intricate contraptions and automate complex tasks in a visually appealing way. Whether you’re designing advanced machinery, setting up sophisticated production lines, or creating stunning architectural marvels, this pack provides the tools to bring your ideas to life.
+
+Beyond Create, the modpack features a carefully curated selection of technology-focused mods that enhance automation, energy systems, and engineering possibilities. Immersive Engineering introduces realistic power generation, multiblock machines, and a structured approach to industrialization, while Tinkers' Construct allows for deep customization of tools and weapons, ensuring players can craft the perfect equipment for any situation.
+
+Storage and automation are also key aspects of the pack. Applied Energistics 2 manages high-tech inventory systems and auto-crafting, while ComputerCraft enables programmable automation for those who enjoy scripting and logic-based solutions. Farmer’s Delight alongside with Naturalist enriches the survival experience with expanded food mechanics, adding another layer of depth to farming and cooking.
+
+To top it all off, a custom resource pack included provides Hungarian translations for most included mods, making the experience more accessible to Hungarian-speaking players.
 
 ![Icon](https://raw.githubusercontent.com/bayi/Lilla-s-Create-Pack/refs/heads/main/assets/Lilla-Create128.png)
 
@@ -11,7 +16,7 @@ The main goal of the modpack is automation while still allowing players to build
 
 ## Core
 
-The core mods this modpack is centered around.
+These are the foundational mods around which the modpack is built.
 
 ### Create n stuff
 
@@ -21,15 +26,15 @@ Because we love Create! ;) This includes New Age and Crafts & Additions for ener
   </summary>
   
 - [Create](https://modrinth.com/mod/create)  
-- [Create Crafts & Additions](https://modrinth.com/mod/createaddition)
-- [Create Deco](https://modrinth.com/mod/create-deco)
-- [Create Jetpack](https://modrinth.com/mod/create-jetpack)
-- [Create: Bells & Whistles](https://modrinth.com/mod/bellsandwhistles)
-- [Create: Enchantment Industry](https://modrinth.com/mod/create-enchantment-industry)
-- [Create: New Age](https://modrinth.com/mod/create-new-age)
-- [Create: Power Loader](https://modrinth.com/mod/create-power-loader)
-- [Create: Steam 'n' Rails](https://modrinth.com/mod/create-steam-n-rails)
-- [Create Slice & Dice](https://modrinth.com/mod/slice-and-dice)
+- [Create Crafts & Additions](https://modrinth.com/mod/createaddition) - Expands Create with electrical energy generation.
+- [Create Deco](https://modrinth.com/mod/create-deco) - Adds more decorative blocks for stylish builds.
+- [Create Jetpack](https://modrinth.com/mod/create-jetpack) - A steampunk jetpack to navigate large builds.
+- [Create: Bells & Whistles](https://modrinth.com/mod/bellsandwhistles) - Enhances Create with additional gadgets.
+- [Create: Enchantment Industry](https://modrinth.com/mod/create-enchantment-industry) -  Brings automation to enchanting and XP processing.
+- [Create: New Age](https://modrinth.com/mod/create-new-age) -  Adds modern-style automation tools and more power options.
+- [Create: Power Loader](https://modrinth.com/mod/create-power-loader) - Chunk loading the create way
+- [Create: Steam 'n' Rails](https://modrinth.com/mod/create-steam-n-rails) - Adds more train features
+- [Create Slice & Dice](https://modrinth.com/mod/slice-and-dice) - Expands food processing and automation.
 </details>
 
 ### Storage
@@ -38,9 +43,9 @@ Because we love Create! ;) This includes New Age and Crafts & Additions for ener
 All your storage needs covered by AE2 and Backpacks.
  </summary>
 
-- [Applied Energistics 2](https://modrinth.com/mod/ae2)
-- [Applied Energistics 2 Wireless Terminals](https://modrinth.com/mod/applied-energistics-2-wireless-terminals)
-- [Sophisticated Backpacks](https://modrinth.com/mod/sophisticated-backpacks)
+- [Applied Energistics 2](https://modrinth.com/mod/ae2) - The ultimate storage and auto-crafting solution.
+- [Applied Energistics 2 Wireless Terminals](https://modrinth.com/mod/applied-energistics-2-wireless-terminals) - Adds wireless (cross dimensional) access to AE2 networks.
+- [Sophisticated Backpacks](https://modrinth.com/mod/sophisticated-backpacks) - pgradeable backpacks with automation features.
 </details>
 
 ### Computers
@@ -49,11 +54,20 @@ All your storage needs covered by AE2 and Backpacks.
 Computers for automation with integration into AE2 and some extra peripherals.
   </summary>
 
-- [CC:Tweaked](https://modrinth.com/mod/cc-tweaked)
-- [Tom's Peripherals](https://modrinth.com/mod/toms-peripherals)
-- [Advanced Peripherals](https://modrinth.com/mod/advancedperipherals)
+- [CC:Tweaked](https://modrinth.com/mod/cc-tweaked) - Computers!
+- [Tom's Peripherals](https://modrinth.com/mod/toms-peripherals) - More peripherals
+- [Advanced Peripherals](https://modrinth.com/mod/advancedperipherals) - Even more peripherals
 </details>
 
+### Engineering & Technology
+<details>
+    <summary>
+Realistic pwoer generation, multiblock machines, modular tools and weapons
+    </summary>
+
+- [Immersive Engineering](https://modrinth.com/mod/immersiveengineering) - Adds realistic power generation, multiblock machines, and wiring systems.
+- [Tinkers' Construct](https://modrinth.com/mod/tinkers-construct) - A modular tool and weapon system for customization and progression.
+</details
 
 ### World & Misc
 <details>
@@ -61,13 +75,11 @@ Computers for automation with integration into AE2 and some extra peripherals.
 World generation, extra animals, and of course, the beloved food mod. For convenience, we have Waystones, and for easy and automatable mob farming, there's a solution too.
   </summary>
 
-- [Ad Astra](https://modrinth.com/mod/ad-astra)
-- [Farmer's Delight](https://modrinth.com/mod/farmers-delight)
-- [Immersive Engineering](https://modrinth.com/mod/immersiveengineering)
-- [Tinkers' Construct](https://modrinth.com/mod/tinkers-construct)
-- [Naturalist](https://modrinth.com/mod/naturalist)
-- [Easy Mob Farm](https://modrinth.com/mod/easy-mob-farm)
-- [Waystones](https://modrinth.com/mod/waystones)
+- [Ad Astra](https://modrinth.com/mod/ad-astra) - Explore space and build futuristic bases.
+- [Farmer's Delight](https://modrinth.com/mod/farmers-delight) - Adds an expanded food system with realistic cooking mechanics.
+- [Naturalist](https://modrinth.com/mod/naturalist) - Introduces diverse wildlife and ecosystem interactions.
+- [Easy Mob Farm](https://modrinth.com/mod/easy-mob-farm) - Provides simple automation for mob farming.
+- [Waystones](https://modrinth.com/mod/waystones) - Teleport between locations with craftable waystones. (cross-dimensional travel disabled)
 </details>
 
 ## Building & Deco
@@ -142,9 +154,9 @@ Everyone loves optimizations, right? Includes shaders for those who want to use 
 </details>
 
 ## Other
-Other mods are mostly libraries or dependencies of the above. See the full list once you download the pack.
+Additional dependencies and libraries are included to support the above mods. The full list is available when downloading the pack.
 
-Modpack was on Fabric until version v1.4, will update to Create 6.0 as soon as all the mods are compatible, then move to neoforge when all mods are ready for 1.21.
+Modpack was on Fabric until version v1.4. It will be updated to Create 6.0 as soon as all mods are compatible and will eventually move to NeoForge when all mods are ready for Minecraft 1.21.
 
 # Servers
 For servers ensure that the following mods are disabled: 
@@ -158,7 +170,6 @@ For servers ensure that the following mods are disabled:
 
 # Feedback
 
-I have tried to balance everything as much as possible, but feedback is always welcome if you think something needs adjustments. 
+I've done my best to balance everything, but feedback is always welcome! If you have suggestions or adjustments, feel free to use the issue tracker or contact me directly on Discord. (Username: `bayi`)
 
-You can use the linked issue tracker or contact me directly on discord. (Username: `bayi`)
-
+Happy automating and building!
