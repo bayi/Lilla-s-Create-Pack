@@ -63,6 +63,8 @@ World generation, extra animals, and of course, the beloved food mod. For conven
 
 - [Ad Astra](https://modrinth.com/mod/ad-astra)
 - [Farmer's Delight](https://modrinth.com/mod/farmers-delight)
+- [Immersive Engineering](https://modrinth.com/mod/immersiveengineering)
+- [Tinkers' Construct](https://modrinth.com/mod/tinkers-construct)
 - [Naturalist](https://modrinth.com/mod/naturalist)
 - [Easy Mob Farm](https://modrinth.com/mod/easy-mob-farm)
 - [Waystones](https://modrinth.com/mod/waystones)
