@@ -10,6 +10,8 @@ Storage and automation are also key aspects of the pack. Applied Energistics 2 m
 
 To top it all off, a custom resource pack included provides Hungarian translations for most included mods, making the experience more accessible to Hungarian-speaking players.
 
+**IMPORTANT**: This modpack needs at least __6Gb+ RAM__ allocated to Java. __8Gb__ is recommended.
+
 ![Icon](https://raw.githubusercontent.com/bayi/Lilla-s-Create-Pack/refs/heads/main/assets/Lilla-Create128.png)
 
 # List of mods
@@ -25,7 +27,7 @@ These are the foundational mods around which the modpack is built.
 Because we love Create! ;) This includes New Age and Crafts & Additions for energy generation, Jetpack for utilities, and a bunch of building and decoration add-ons for nice trains.
   </summary>
   
-- [Create](https://modrinth.com/mod/create)  
+- [Create](https://modrinth.com/mod/create)
 - [Create Crafts & Additions](https://modrinth.com/mod/createaddition) - Expands Create with electrical energy generation.
 - [Create Deco](https://modrinth.com/mod/create-deco) - Adds more decorative blocks for stylish builds.
 - [Create Jetpack](https://modrinth.com/mod/create-jetpack) - A steampunk jetpack to navigate large builds.
@@ -69,7 +71,7 @@ Realistic power generation, multiblock machines, modular tools and weapons
 - [Immersive Engineering](https://modrinth.com/mod/immersiveengineering) - Adds realistic power generation, multiblock machines, and wiring systems.
 - [Tinkers' Construct](https://modrinth.com/mod/tinkers-construct) - A modular tool and weapon system for customization and progression.
 - [Powah](https://modrinth.com/mod/powah) - Power generation 
-- [RFTools](https://modrinth.com/mod/rftools-base) - Base mod for RFTools
+- [RFTools](https://modrinth.com/mod/rftools-base) - Dimensional power needs
 - [RFTools Utility](https://modrinth.com/mod/rftools-utility/) - General tools and utilities
 - [RFTools Power](https://modrinth.com/mod/rftools-power/) - Power generation and storage
 - [RFTools Dimensions](https://modrinth.com/mod/rftools-dimensions/) - When the world is not enough
@@ -84,7 +86,7 @@ World generation, extra animals, and of course, the beloved food mod. For conven
 
 - [Ad Astra](https://modrinth.com/mod/ad-astra) - Explore space and build futuristic bases.
 - [Farmer's Delight](https://modrinth.com/mod/farmers-delight) - Adds an expanded food system with realistic cooking mechanics.
-- [Delightful](https://modrinth.com/mod/delightful) - Even more foods
+- [Delightful](https://modrinth.com/mod/delightful) - Even more food
 - [Naturalist](https://modrinth.com/mod/naturalist) - Introduces diverse wildlife and ecosystem interactions.
 - [Easy Mob Farm](https://modrinth.com/mod/easy-mob-farm) - Provides simple automation for mob farming.
 - [Waystones](https://modrinth.com/mod/waystones) - Teleport between locations with craftable waystones. (cross-dimensional travel disabled)
@@ -145,10 +147,10 @@ A few selected utilities to make life easier.
 - [Sound Physics Remastered](https://modrinth.com/mod/sound-physics-remastered)
 - [Shrink](https://modrinth.com/mod/shrink)
 - [What Are They Up To (Watut)](https://modrinth.com/mod/what-are-they-up-to)
+- [Emotecraft](https://modrinth.com/plugin/emotecraft)
+- [Almost Unified](https://modrinth.com/mod/almost-unified/)
 - [GuideME](https://modrinth.com/mod/guideme)
 - [Better Advancements](https://modrinth.com/mod/better-advancements)
-- [Almost Unified](https://modrinth.com/mod/almost-unified/)
-- [Emotecraft](https://modrinth.com/plugin/emotecraft)
 </details>
 
 ## Optimizations
@@ -176,7 +178,6 @@ Modpack was on Fabric until version v1.4. It will be updated to Create 6.0 as so
 # Servers
 For servers ensure that the following mods are disabled: 
 - oculus
-- embeddium
 - ImmediatelyFast
 
 # Feedback
