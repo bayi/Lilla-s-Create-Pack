@@ -68,6 +68,12 @@ Realistic power generation, multiblock machines, modular tools and weapons
 
 - [Immersive Engineering](https://modrinth.com/mod/immersiveengineering) - Adds realistic power generation, multiblock machines, and wiring systems.
 - [Tinkers' Construct](https://modrinth.com/mod/tinkers-construct) - A modular tool and weapon system for customization and progression.
+- [Powah](https://modrinth.com/mod/powah) - Power generation 
+- [RFTools](https://modrinth.com/mod/rftools-base) - Base mod for RFTools
+- [RFTools Utility](https://modrinth.com/mod/rftools-utility/) - General tools and utilities
+- [RFTools Power](https://modrinth.com/mod/rftools-power/) - Power generation and storage
+- [RFTools Dimensions](https://modrinth.com/mod/rftools-dimensions/) - When the world is not enough
+- [XNet](https://modrinth.com/mod/xnet) - Fancy cables
 </details>
 
 ### World & Misc
@@ -105,6 +111,7 @@ Build beautiful structures with furniture and extra decorative blocks.
 - [Nature's Compass](https://modrinth.com/mod/natures-compass)
 - [Supplementaries](https://modrinth.com/mod/supplementaries)
 - [Amendments](https://modrinth.com/mod/amendments)
+- [Factory Blocks](https://modrinth.com/mod/factory-blocks)
 </details>
 
 ## Utilities & QOL
@@ -140,6 +147,8 @@ A few selected utilities to make life easier.
 - [What Are They Up To (Watut)](https://modrinth.com/mod/what-are-they-up-to)
 - [GuideME](https://modrinth.com/mod/guideme)
 - [Better Advancements](https://modrinth.com/mod/better-advancements)
+- [Almost Unified](https://modrinth.com/mod/almost-unified/)
+- [Emotecraft](https://modrinth.com/plugin/emotecraft)
 </details>
 
 ## Optimizations
