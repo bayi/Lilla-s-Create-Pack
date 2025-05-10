@@ -176,7 +176,7 @@ Additional dependencies and libraries are included to support the above mods. Th
 Modpack was on Fabric until version v1.4. It will be updated to Create 6.0 as soon as all mods are compatible and will eventually move to NeoForge when all mods are ready for Minecraft 1.21.
 
 # Servers
-For servers ensure that the following mods are disabled: 
+For servers ensure that the following mods are disabled:
 - oculus
 - ImmediatelyFast
 
