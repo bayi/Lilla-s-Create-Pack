@@ -45,6 +45,7 @@ All your storage needs covered by AE2 and Backpacks.
 
 - [Applied Energistics 2](https://modrinth.com/mod/ae2) - The ultimate storage and auto-crafting solution.
 - [Applied Energistics 2 Wireless Terminals](https://modrinth.com/mod/applied-energistics-2-wireless-terminals) - Adds wireless (cross dimensional) access to AE2 networks.
+- [MEGA Cells](https://modrinth.com/mod/mega) - For when kilobytes just won't do.
 - [Sophisticated Backpacks](https://modrinth.com/mod/sophisticated-backpacks) - pgradeable backpacks with automation features.
 </details>
 
@@ -77,6 +78,7 @@ World generation, extra animals, and of course, the beloved food mod. For conven
 
 - [Ad Astra](https://modrinth.com/mod/ad-astra) - Explore space and build futuristic bases.
 - [Farmer's Delight](https://modrinth.com/mod/farmers-delight) - Adds an expanded food system with realistic cooking mechanics.
+- [Delightful](https://modrinth.com/mod/delightful) - Even more foods
 - [Naturalist](https://modrinth.com/mod/naturalist) - Introduces diverse wildlife and ecosystem interactions.
 - [Easy Mob Farm](https://modrinth.com/mod/easy-mob-farm) - Provides simple automation for mob farming.
 - [Waystones](https://modrinth.com/mod/waystones) - Teleport between locations with craftable waystones. (cross-dimensional travel disabled)
@@ -101,6 +103,8 @@ Build beautiful structures with furniture and extra decorative blocks.
 - [Macaw's Lights and Lamps](https://modrinth.com/mod/macaws-lights-and-lamps)
 - [Macaw's Windows](https://modrinth.com/mod/macaws-windows)
 - [Nature's Compass](https://modrinth.com/mod/natures-compass)
+- [Supplementaries](https://modrinth.com/mod/supplementaries)
+- [Amendments](https://modrinth.com/mod/amendments)
 </details>
 
 ## Utilities & QOL
@@ -109,14 +113,13 @@ Build beautiful structures with furniture and extra decorative blocks.
 A few selected utilities to make life easier.
   </summary>
 
-- [Bayi's Recipes](https://modrinth.com/datapack/bayis-recipes)
 - [Carry On](https://modrinth.com/mod/carry-on)
 - [Elytra Slot](https://modrinth.com/mod/elytra-slot)
-- [Freecam](https://modrinth.com/mod/freecam)
 - [Jade](https://modrinth.com/mod/jade)
 - [Jade Addons](https://modrinth.com/mod/jade-addons-forge)
 - [Lootr](https://modrinth.com/mod/lootr)
 - [JEI](https://modrinth.com/mod/jei/)
+- [JER](https://modrinth.com/mod/just-enough-resources-jer)
 - [Simple Voice Chat](https://modrinth.com/plugin/simple-voice-chat)
 - [Curios API](https://modrinth.com/mod/curios)
 - [Xaero's Minimap](https://modrinth.com/mod/xaeros-minimap)
@@ -135,6 +138,8 @@ A few selected utilities to make life easier.
 - [Sound Physics Remastered](https://modrinth.com/mod/sound-physics-remastered)
 - [Shrink](https://modrinth.com/mod/shrink)
 - [What Are They Up To (Watut)](https://modrinth.com/mod/what-are-they-up-to)
+- [GuideME](https://modrinth.com/mod/guideme)
+- [Better Advancements](https://modrinth.com/mod/better-advancements)
 </details>
 
 ## Optimizations
@@ -146,11 +151,12 @@ Everyone loves optimizations, right? Includes shaders for those who want to use 
 - [Distant Horizons](https://modrinth.com/mod/distanthorizons)
 - [Embeddium](https://modrinth.com/mod/embeddium)
 - [Radium](https://modrinth.com/mod/radium)
+- [Nosium](https://modrinth.com/mod/noisium)
 - [ImmediatelyFast](https://modrinth.com/mod/immediatelyfast)
 - [Entity Culling](https://modrinth.com/mod/entityculling)
 - [Fusion](https://modrinth.com/mod/fusion-connected-textures)
 - [Oculus](https://modrinth.com/mod/oculus)
-- [MakeUp - Ultra Fast](https://modrinth.com/shader/makeup-ultra-fast-shaders)
+- [FerriteCore](https://modrinth.com/mod/ferrite-core)
 </details>
 
 ## Other
@@ -163,10 +169,6 @@ For servers ensure that the following mods are disabled:
 - oculus
 - embeddium
 - ImmediatelyFast
-- MakeUp-UltraFast
-- freecam
-- radium
-- distanthorizons ?
 
 # Feedback
 
