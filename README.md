@@ -48,6 +48,7 @@ All your storage needs covered by AE2 and Backpacks.
 - [Applied Energistics 2](https://modrinth.com/mod/ae2) - The ultimate storage and auto-crafting solution.
 - [Applied Energistics 2 Wireless Terminals](https://modrinth.com/mod/applied-energistics-2-wireless-terminals) - Adds wireless (cross dimensional) access to AE2 networks.
 - [MEGA Cells](https://modrinth.com/mod/mega) - For when kilobytes just won't do.
+- [ME Requester](https://modrinth.com/mod/merequester) - Stock management
 - [Sophisticated Backpacks](https://modrinth.com/mod/sophisticated-backpacks) - pgradeable backpacks with automation features.
 </details>
 
@@ -151,6 +152,8 @@ A few selected utilities to make life easier.
 - [Almost Unified](https://modrinth.com/mod/almost-unified/)
 - [GuideME](https://modrinth.com/mod/guideme)
 - [Better Advancements](https://modrinth.com/mod/better-advancements)
+- [Complementary Shaders - Reimagined](https://modrinth.com/shader/complementary-reimagined)
+- [Midnighttigger's Default Connected Textures](https://modrinth.com/resourcepack/mt-ct-d)
 </details>
 
 ## Optimizations
@@ -162,12 +165,13 @@ Everyone loves optimizations, right? Includes shaders for those who want to use 
 - [Distant Horizons](https://modrinth.com/mod/distanthorizons)
 - [Embeddium](https://modrinth.com/mod/embeddium)
 - [Radium](https://modrinth.com/mod/radium)
-- [Nosium](https://modrinth.com/mod/noisium)
+- [Noisium](https://modrinth.com/mod/noisium)
 - [ImmediatelyFast](https://modrinth.com/mod/immediatelyfast)
 - [Entity Culling](https://modrinth.com/mod/entityculling)
 - [Fusion](https://modrinth.com/mod/fusion-connected-textures)
 - [Oculus](https://modrinth.com/mod/oculus)
 - [FerriteCore](https://modrinth.com/mod/ferrite-core)
+- [ModernFix](https://modrinth.com/mod/modernfix)
 </details>
 
 ## Other
