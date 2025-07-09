@@ -91,6 +91,7 @@ World generation, extra animals, and of course, the beloved food mod. For conven
 - [Naturalist](https://modrinth.com/mod/naturalist) - Introduces diverse wildlife and ecosystem interactions.
 - [Easy Mob Farm](https://modrinth.com/mod/easy-mob-farm) - Provides simple automation for mob farming.
 - [Waystones](https://modrinth.com/mod/waystones) - Teleport between locations with craftable waystones. (cross-dimensional travel disabled)
+- [Vanilla Backport](https://modrinth.com/mod/vanillabackport) - Backports features from 1.21.x (Happy Ghast, Creaking, etc.)
 </details>
 
 ## Building & Deco
