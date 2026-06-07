@@ -8,6 +8,7 @@ RecipeViewerEvents.removeEntries('item', event => {
 	  'sophisticatedbackpacks:stack_downgrade_tier_1',
 	  'sophisticatedbackpacks:stack_downgrade_tier_2',
 	  'sophisticatedbackpacks:stack_downgrade_tier_3',
+    'sophisticatedcore:xp_bucket',
   ]
 
   event.remove(itemsToHide)
