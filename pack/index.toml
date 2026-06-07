@@ -34,7 +34,7 @@ hash = "e00a67922942660d77c213379b5128a46c5abc894178b0be04006d325ff5f6b3"
 
 [[files]]
 file = "kubejs/config/defaultoptions.txt"
-hash = "3681f6a9f80dc48d220bcffe0efc73889afc8cfede54150c61283a1ba36fb16e"
+hash = "72c3d547e2152cf8a183cec2e111749f9f6cf3a60ff3430091431e328f645e28"
 
 [[files]]
 file = "kubejs/config/web_server.json"
