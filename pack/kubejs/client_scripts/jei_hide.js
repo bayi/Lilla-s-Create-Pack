@@ -9,6 +9,7 @@ RecipeViewerEvents.removeEntries('item', event => {
 	  'sophisticatedbackpacks:stack_downgrade_tier_2',
 	  'sophisticatedbackpacks:stack_downgrade_tier_3',
     'sophisticatedcore:xp_bucket',
+    'moonlight:spawn_box',
   ]
 
   event.remove(itemsToHide)
