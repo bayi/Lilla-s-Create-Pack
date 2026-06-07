@@ -1,6 +1,7 @@
 RecipeViewerEvents.removeEntries('item', event => {
 
   const itemsToHide = [
+    /^sophisticatedbackpacks:(?!upgrade_base|stack_upgrade_(starter_tier|tier_1|tier_2|tier_3|tier_4)).*upgrade.*/,
     /^.*:.*incomplete.*/,
     /^.*:.*_spawn_egg$/,
     'sophisticatedbackpacks:stack_upgrade_tier_4',
