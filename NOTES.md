@@ -9,6 +9,7 @@
 - iris
 
 # QoL
+- almostunified
 - 3dskinlayers
 - advancement-plaques
 - ambient-environment
@@ -22,6 +23,7 @@
 - gravestone-mod
 - gravestone-x-curios-api-compat
 - inventory-essentials
+- item-borders
 - jade
 - kubejs (+kubejs-create)
 - legendary-tooltips
@@ -36,7 +38,6 @@
 
 
 # Add
-    item-borders
     chatplus ?
     cc:tweaked
     create
