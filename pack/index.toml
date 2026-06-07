@@ -73,6 +73,16 @@ hash = "92a2077fb3d27df20550d579d14c43b1feaa605796b217efb7a9d4bdd727f3bf"
 metafile = true
 
 [[files]]
+file = "mods/amendments.pw.toml"
+hash = "ca7ccbfc12a2103e8a155731eb03f94b243cc07fe9fae2f22c9ab04656109544"
+metafile = true
+
+[[files]]
+file = "mods/antiblocksrechiseled.pw.toml"
+hash = "edbc76a45f4d2fcf052d0e680700c55559374af38c0e9a8145e0df9f4b09d5e0"
+metafile = true
+
+[[files]]
 file = "mods/balm.pw.toml"
 hash = "392901b7f79963442553456af846d06f48b4057a054a928adb8a76eea13c6383"
 metafile = true
@@ -153,6 +163,11 @@ hash = "3d47b1d933d04934a606be1cbb67481860c3d68c9ed4efc387c7745d23b732a7"
 metafile = true
 
 [[files]]
+file = "mods/immersive-paintings.pw.toml"
+hash = "75b43f1a86593360f10703b7625da4e0a3c435bf13bf8b5b75fa383a0338dade"
+metafile = true
+
+[[files]]
 file = "mods/inventory-essentials.pw.toml"
 hash = "702a028e2d428d352b4d664a21b0fb6182c20a930888a6c962f557aeba05871f"
 metafile = true
@@ -205,6 +220,11 @@ metafile = true
 [[files]]
 file = "mods/modernfix.pw.toml"
 hash = "e16a311d5197e286f0955f2ebfb46a72d711050e589224f60fcb8e931eb3a386"
+metafile = true
+
+[[files]]
+file = "mods/moonlight.pw.toml"
+hash = "4e93b2710a407b1a518aba64e77d97fd5a2f853b54e2133eac0768ba90bdc5d6"
 metafile = true
 
 [[files]]

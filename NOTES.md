@@ -1,3 +1,5 @@
+# Core
+
 # Optimizations
 - sodium
 - lithium
@@ -22,6 +24,7 @@
 - jei
 - gravestone-mod
 - gravestone-x-curios-api-compat
+- immersive-paintings
 - inventory-essentials
 - item-borders
 - jade
@@ -35,6 +38,10 @@
 - sound-physics-remastered
 - what-are-they-up-to
 - xaeros-world-map
+
+# Extra Blocks
+- amendments
+- antiblocksrechiseled
 
 
 # Add
