@@ -11,7 +11,7 @@
 // Remove by Output
 // - Add the item id of the output item of the recipe and all recipes with that output will be removed
 const byOutput = [
-	/^sophisticatedbackpacks:(?!upgrade_base|stack_upgrade_(starter_tier|tier_1|tier_2|tier_3|tier_4)).*upgrade.*/,
+	/^sophisticatedbackpacks:(?!upgrade_base|crafting_upgrade|stonecutter_upgrade|anvi_upgrade|smithing_upgrade|stack_upgrade_(starter_tier|tier_1|tier_2|tier_3|tier_4)).*upgrade.*/,
 	'sophisticatedbackpacks:stack_upgrade_tier_4',
 	'sophisticatedbackpacks:stack_downgrade_tier_1',
 	'sophisticatedbackpacks:stack_downgrade_tier_2',
