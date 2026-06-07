@@ -42,6 +42,7 @@
 # Extra Blocks
 - amendments
 - antiblocksrechiseled
+- supplementaries
 
 
 # Add
