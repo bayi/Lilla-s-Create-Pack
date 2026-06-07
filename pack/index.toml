@@ -22,7 +22,7 @@ hash = "f7c5c74625973db16b2567bc58e963379a6abaa70f197f0a187e30578f50e1e5"
 
 [[files]]
 file = "kubejs/client_scripts/jei_hide.js"
-hash = "1d9db139f53b945828bdc80663a924c6c9568f5a9eabb8b4cc4e0b438be3e4dd"
+hash = "ff3512d92d3d6e751fb7efafa00261f9d767fb771ef6cb9028bdc4481d421998"
 
 [[files]]
 file = "kubejs/config/client.json"
