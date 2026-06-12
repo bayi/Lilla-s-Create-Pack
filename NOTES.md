@@ -21,7 +21,6 @@
 - emi
 - emi-loot
 - emi-enchanting
-- jei
 - gravestone-mod
 - gravestone-x-curios-api-compat
 - immersive-paintings
@@ -92,3 +91,8 @@
 - toms peripherals
 
 ?? Power for AE2 ? -> Powah?
+
+# TODO KubeJS:
+- Rename create tab
+- Add magnet
+- ADd sync script into Makefile
