@@ -11,12 +11,12 @@
 - iris
 
 # QoL
-- almostunified
 - 3dskinlayers
 - advancement-plaques
 - ambient-environment
 - better-advancements
 - carry-on
+- chat-plus
 - curios
 - emi
 - emi-loot
@@ -28,12 +28,12 @@
 - inventory-essentials
 - item-borders
 - jade
-- kubejs (+kubejs-create)
 - legendary-tooltips
 - lootjs
 - mouse-tweaks
 - pick-up-notifier
 - shulkerboxtooltip
+- simple-voice-chat
 - sophisticated-backpacks
 - sound-physics-remastered
 - what-are-they-up-to
@@ -44,12 +44,51 @@
 - antiblocksrechiseled
 - supplementaries
 
+# Misc
+- almostunified
+- kubejs
+- easy-villagers
+- vanillabackport
+- backport-copper-age
 
 # Add
-    chatplus ?
-    voice chat
-    cc:tweaked
-    create
-    ae2
-    vanilla-backports
-    copper-age-backport
+    Patchouli ?
+    GeOre ?
+
+# Create
+- create
+- create deco
+- create encased
+- create liquid fuel
+- create mechanical extruder
+- create stuff & additions
+- create copycats+
+- create dragons plus
+- create enchantment industry
+- create extra gauges
+- create pattern schematics
+- create steam 'n rails
+- create vibrant vaults
+- create power loader
+- design n' decor
+- kubejs-create
+- create sifter?
+
+# Farmer's Delight
+- farmers delight
+- create slice & dice
+
+# AE2
+- ae2
+- advancedAE
+- ae2wtlib
+- megacells
+- merequester
+- guideme
+
+# CC
+- cc:tweaked
+- advancedperipherals
+- toms peripherals
+
+?? Power for AE2 ? -> Powah?
