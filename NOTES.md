@@ -91,10 +91,9 @@
 # Translation needed
 - Amendments
 - Carry On
-- Chat Plus
 - Easy Villagers
 - Jade
-- supplementaries
+- Supplementaries
 - Xaero's World Map
 
 # TODO
