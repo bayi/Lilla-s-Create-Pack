@@ -64,7 +64,7 @@
 + create-steam-n-rails-1.21.1
 + create-vibrant-vaults
 + create-design-n-decor
-+ create-aeronautics
+X create-aeronautics
 + kubejs-create
 - create mechanical extruder ?
 - create power loader ?
