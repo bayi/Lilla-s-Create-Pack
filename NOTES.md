@@ -21,6 +21,7 @@
 + emi
 + emi-loot
 + emi-enchanting
++ jei
 + gravestone-mod
 + gravestone-x-curios-api-compat
 + immersive-paintings

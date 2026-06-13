@@ -31,6 +31,7 @@ packwiz mr add gravestone-x-curios-api-compat
 packwiz mr add emi
 packwiz mr add emi-loot
 packwiz mr add emi-enchanting
+packwiz mr add jei
 packwiz mr add fzzy-config
 packwiz mr add item-borders
 packwiz mr add almostunified
