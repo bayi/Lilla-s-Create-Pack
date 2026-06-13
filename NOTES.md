@@ -105,6 +105,10 @@ X create sifter ?
 - design 'n' decor
 - create stuff additions
 - create enchantment industry
+- GeOre
+- Create Mechanical Extruder
+- Create Teleporters
+- Create Craft And Additions
 
 # TODO
 - KubeJS: Add magnet
