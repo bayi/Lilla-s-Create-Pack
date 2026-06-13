@@ -1,3 +1,4 @@
+INSTANCE_PATH="/data/Games/prism/instances/Lillas\ Create\ Pack-2.0.0/minecraft"
 
 refresh:
 	@cd pack; packwiz refresh
@@ -8,4 +9,9 @@ export:
 
 sync:
 	@echo "Syncing config with instance ..."
-	@cp -r pack/config/* instance/config/
+	@cp -r pack/config "${INSTANCE_PATH}/"
+	@cp -r pack/kubejs "${INSTANCE_PATH}/"
+
+sync-back:
+	@echo "Syncing config back to pack ..."
+	@cp -r "${INSTANCE_PATH}/kubejs" pack/
