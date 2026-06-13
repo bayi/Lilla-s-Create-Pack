@@ -93,11 +93,7 @@
 ?? Power for AE2 ? -> Powah?
 
 # TODO KubeJS:
-- Rename create tab
 - Add magnet
-- ADd sync script into Makefile
-
-Resource World!
 
 # Commands
 packwiz mr add lithium
