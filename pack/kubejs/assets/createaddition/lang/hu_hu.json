@@ -216,7 +216,7 @@
 
         "block.createaddition.redstone_relay": "Redstone-relé",
         "block.createaddition.redstone_relay.tooltip": "RELAY",
-        "block.createaddition.redstone_relay.tooltip.summary": "Lehetővé teszi az áramlás szabályozását redstone jellel.",
+        "block.createaddition.redstone_relay.tooltip.summary": "Lehetővé teszi az áramlás szabályozását redstone-jellel.",
         "block.createaddition.redstone_relay.tooltip.condition1": "Redstone jel",
         "block.createaddition.redstone_relay.tooltip.behaviour1": "Redstone jel hatására megszakítja az áramkört.",
 
