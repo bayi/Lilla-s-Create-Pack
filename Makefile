@@ -3,6 +3,9 @@ INSTANCE_PATH="/data/Games/prism/instances/Lillas\ Create\ Pack-2.0.0/minecraft"
 refresh:
 	@cd pack; packwiz refresh
 
+update:
+	@cd pack; packwiz update --all
+
 export:
 	@cd pack; packwiz modrinth export
 	@mv pack/*.mrpack ./ || true
