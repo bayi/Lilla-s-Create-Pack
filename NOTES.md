@@ -110,4 +110,4 @@ X create-aeronautics
 - KubeJS: Add magnet
 - Curios: Add helmet slot for googles, add alytra slot, add backpack slot
 - Is Patchouli needed ?
-- Supplementaries Wrench disable
+X Supplementaries Wrench disable -> Marad
