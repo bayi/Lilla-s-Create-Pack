@@ -1,9 +1,5 @@
 {
   "variants": {
-    "facing=west": { "model": "lillascreate:block/trophy" },
-    "facing=north":  { "model": "lillascreate:block/trophy", "y": 90 },
-    "facing=east": { "model": "lillascreate:block/trophy", "y": 180 },
-    "facing=south":  { "model": "lillascreate:block/trophy", "y": 270 },
     "waterlogged=true": { "model": "lillascreate:block/trophy", "weight": 1 }
   }
 }
