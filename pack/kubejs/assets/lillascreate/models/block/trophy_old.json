@@ -1,0 +1,76 @@
+{
+  "parent": "minecraft:block/block",
+  "textures": {
+    "particle": "minecraft:block/gold_block",
+    "gold": "minecraft:block/gold_block",
+    "netherite": "minecraft:block/netherite_block",
+    "diamond": "minecraft:block/diamond_block",
+    "emerald": "minecraft:block/emerald_block",
+    "trophy": "lillascreate:block/trophy"
+  },
+  "elements": [
+    {
+      "name": "trophy_base",
+      "from": [4, 0, 4],
+      "to": [12, 2, 12],
+      "faces": {
+        "north": { "uv": [0, 0, 8, 2], "texture": "#netherite" },
+        "south": { "uv": [0, 0, 8, 2], "texture": "#netherite" },
+        "east":  { "uv": [0, 0, 8, 2], "texture": "#netherite" },
+        "west":  { "uv": [0, 0, 8, 2], "texture": "#netherite" },
+        "up":    { "uv": [4, 4, 12, 12], "texture": "#netherite" },
+        "down":  { "uv": [4, 4, 12, 12], "texture": "#netherite" }
+      }
+    },
+    {
+      "name": "trophy_stem",
+      "from": [7, 2, 7],
+      "to": [9, 8, 9],
+      "faces": {
+        "north": { "uv": [7, 2, 9, 8], "texture": "#gold" },
+        "south": { "uv": [7, 2, 9, 8], "texture": "#gold" },
+        "east":  { "uv": [7, 2, 9, 8], "texture": "#gold" },
+        "west":  { "uv": [7, 2, 9, 8], "texture": "#gold" }
+      }
+    },
+    {
+      "name": "trophy_cup",
+      "from": [5, 8, 5],
+      "to": [11, 14, 11],
+      "faces": {
+        "north": { "uv": [0, 0, 6, 6], "texture": "#gold" },
+        "south": { "uv": [0, 0, 6, 6], "texture": "#gold" },
+        "east":  { "uv": [0, 0, 6, 6], "texture": "#gold" },
+        "west":  { "uv": [0, 0, 6, 6], "texture": "#gold" },
+        "up":    { "uv": [5, 5, 11, 11], "texture": "#trophy" },
+        "down":  { "uv": [5, 5, 11, 11], "texture": "#gold" }
+      }
+    },
+    {
+      "name": "diamond_gem",
+      "from": [4.5, 14, 7.5],
+      "to": [5.5, 15, 8.5],
+      "faces": {
+        "north": { "uv": [0, 0, 16, 16], "texture": "#diamond" },
+        "south": { "uv": [0, 0, 16, 16], "texture": "#diamond" },
+        "east":  { "uv": [0, 0, 16, 16], "texture": "#diamond" },
+        "west":  { "uv": [0, 0, 16, 16], "texture": "#diamond" },
+        "up":    { "uv": [0, 0, 16, 16], "texture": "#diamond" },
+        "down":  { "uv": [0, 0, 16, 16], "texture": "#diamond" }
+      }
+    },
+    {
+      "name": "emerald_gem",
+      "from": [10.5, 14, 7.5],
+      "to": [11.5, 15, 8.5],
+      "faces": {
+        "north": { "uv": [0, 0, 16, 16], "texture": "#emerald" },
+        "south": { "uv": [0, 0, 16, 16], "texture": "#emerald" },
+        "east":  { "uv": [0, 0, 16, 16], "texture": "#emerald" },
+        "west":  { "uv": [0, 0, 16, 16], "texture": "#emerald" },
+        "up":    { "uv": [0, 0, 16, 16], "texture": "#emerald" },
+        "down":  { "uv": [0, 0, 16, 16], "texture": "#emerald" }
+      }
+    }
+  ]
+}
