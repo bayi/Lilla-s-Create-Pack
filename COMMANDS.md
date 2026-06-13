@@ -3,7 +3,8 @@ packwiz mr add entityculling
 packwiz mr add ferrite-core
 packwiz mr add immediatelyfast
 packwiz mr add modernfix
-packwiz mr add iris
+packwiz mr add https://modrinth.com/mod/iris/version/t3ruzodq
+packwiz pin iris
 packwiz mr add https://modrinth.com/mod/sodium/version/Pb3OXVqC
 packwiz pin sodium
 packwiz mr add distanthorizons
@@ -55,7 +56,6 @@ packwiz mr add create-stuff-additions
 packwiz mr add create-design-n-decor
 packwiz mr add create-steam-n-rails-1.21.1
 packwiz mr add create-pattern-schematics
-packwiz mr add create-aeronautics
 packwiz mr add copycats
 packwiz mr add extra-gauges
 
