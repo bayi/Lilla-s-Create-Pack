@@ -51,7 +51,7 @@
 + backport-copper-age
 
 # Create
-- create
++ create
 - create deco
 - create encased
 - create liquid fuel
@@ -70,8 +70,8 @@
 - create sifter?
 
 # Farmer's Delight
-+ farmers delight
-- create slice & dice
++ farmers-delight
++ slice-and-dice
 
 # AE2
 - ae2
