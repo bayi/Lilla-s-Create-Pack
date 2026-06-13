@@ -50,10 +50,6 @@
 - vanillabackport
 - backport-copper-age
 
-# Add
-    Patchouli ?
-    GeOre ?
-
 # Create
 - create
 - create deco
@@ -92,8 +88,14 @@
 
 ?? Power for AE2 ? -> Powah?
 
-# TODO KubeJS:
-- Add magnet
+# TODO
+- KubeJS: Add magnet
+- Curios: Add helmet slot for googles, add alytra slot, add backpack slot
+- Checkout Create Aeronautics
+- Create Crafts & Additions vs Create The Factory must grow (Electricity)
+- Create Teleporters ?
+- GeOre? Or the create mining mod
+- Is Patchouli needed ?
 
 # Commands
 packwiz mr add lithium
