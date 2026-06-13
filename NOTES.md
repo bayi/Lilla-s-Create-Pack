@@ -96,9 +96,7 @@ X create sifter ?
 # Translation needed
 - Jade
 - Xaero's World Map
-- steam 'n' rails
 - vibrant vaults
-- create enchantment industry
 - GeOre
 
 # TODO
