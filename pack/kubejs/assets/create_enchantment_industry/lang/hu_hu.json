@@ -1,6 +1,6 @@
 {
     "advancement.create_enchantment_industry.a_shower_experience": "Zuhanyzó \"tapasztalat\"",
-    "advancement.create_enchantment_industry.a_shower_experience.desc": "Törj össze egy folyadékcsövet, és fürödj meg a kifolyt tapasztalatban\n§7(Rejtett teljesítmény)",
+    "advancement.create_enchantment_industry.a_shower_experience.desc": "Törj össze egy folyadékcsövet, és fürödj meg a kifolyt tapasztalatban\n§7(Rejtett előrelépés)",
     "advancement.create_enchantment_industry.assembly_aesthetics": "Összeszerelési esztétika",
     "advancement.create_enchantment_industry.assembly_aesthetics.desc": "Használj nyomtatót egy csomag mintájának megváltoztatásához",
     "advancement.create_enchantment_industry.blaze_enchantery": "Őrláng bűvölés",
@@ -40,7 +40,7 @@
     "advancement.create_enchantment_industry.omni_enchanter": "Omni-bűvölő",
     "advancement.create_enchantment_industry.omni_enchanter.desc": "Hihetetlen! 1000 alkalommal szuper-bűvöltél! Most már a számok magukért beszélnek",
     "advancement.create_enchantment_industry.osha_violation": "Munkavédelmi szabálysértés",
-    "advancement.create_enchantment_industry.osha_violation.desc": "NEM lett volna szabad hagynod, hogy ez megtörténjen!!!\n§7(Rejtett teljesítmény)",
+    "advancement.create_enchantment_industry.osha_violation.desc": "NEM lett volna szabad hagynod, hogy ez megtörténjen!!!\n§7(Rejtett előrelépés)",
     "advancement.create_enchantment_industry.paradox_fusion": "Paradox fúzió",
     "advancement.create_enchantment_industry.paradox_fusion.desc": "Hogyan lehetséges ez? Nem kellene egyszerre megjelenniük!",
     "advancement.create_enchantment_industry.probability_spike": "Valószínűségi tüske",
