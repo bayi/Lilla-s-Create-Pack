@@ -96,6 +96,14 @@ X create-aeronautics
 - Easy Villagers
 - Jade
 - Xaero's World Map
+- steam 'n' rails
+- vibrant vaults
+- extra gauges
+- create encased
+- create deco
+- design 'n' decor
+- create stuff additions
+- create enchantment industry
 
 # TODO
 - KubeJS: Add magnet
