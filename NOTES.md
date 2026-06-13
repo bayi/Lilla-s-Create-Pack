@@ -52,22 +52,26 @@
 
 # Create
 + create
-- create deco
-- create encased
-- create liquid fuel
-- create mechanical extruder
-- create stuff & additions
-- create copycats+
-- create dragons plus
-- create enchantment industry
-- create extra gauges
-- create pattern schematics
-- create steam 'n rails
-- create vibrant vaults
-- create power loader
-- design n' decor
-- kubejs-create
-- create sifter?
++ create-deco
++ create-encased
++ create-liquid-fuel
++ create-stuff-additions
++ copycats
++ create-dragons-plus
++ create-enchantment-industry
++ extra-gauges
++ create-pattern-schematics
++ create-steam-n-rails-1.21.1
++ create-vibrant-vaults
++ create-design-n-decor
++ kubejs-create
+- create aeronautics
+- create mechanical extruder ?
+- create power loader ?
+- create sifter ?
+- create teleporters ?
+- create-ore-excavation vs GeOre ?
+- create crafting & additions vs create the factory must grow (electricity)
 
 # Farmer's Delight
 + farmers-delight
@@ -96,9 +100,5 @@
 # TODO
 - KubeJS: Add magnet
 - Curios: Add helmet slot for googles, add alytra slot, add backpack slot
-- Checkout Create Aeronautics
-- Create Crafts & Additions vs Create The Factory must grow (Electricity)
-- Create Teleporters ?
-- GeOre? Or the create mining mod
 - Is Patchouli needed ?
 - Supplementaries Wrench disable
