@@ -89,10 +89,8 @@
 ?? Power for AE2 ? -> Powah?
 
 # Translation needed
-- Amendments
 - Easy Villagers
 - Jade
-- Supplementaries
 - Xaero's World Map
 
 # TODO
@@ -103,3 +101,4 @@
 - Create Teleporters ?
 - GeOre? Or the create mining mod
 - Is Patchouli needed ?
+- Supplementaries Wrench disable
