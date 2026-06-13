@@ -88,6 +88,17 @@
 
 ?? Power for AE2 ? -> Powah?
 
+# Translation needed
+- Amendments
+- Carry On
+- Chat Plus
+- Copper Age Backport
+- Easy Villagers
+- Sophisticated Backpacks
+- Jade
+- supplementaries
+- Xaero's World Map
+
 # TODO
 - KubeJS: Add magnet
 - Curios: Add helmet slot for googles, add alytra slot, add backpack slot
