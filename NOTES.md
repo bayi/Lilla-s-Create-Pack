@@ -111,3 +111,6 @@ X create sifter ?
 - Curios: add elytra slot
 - Is Patchouli needed ?
 X Supplementaries Wrench disable -> Marad
+
+# Hosting
+- https://pebblehost.com/
