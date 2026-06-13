@@ -10,6 +10,7 @@ RecipeViewerEvents.removeEntries('item', event => {
 	  'sophisticatedbackpacks:stack_downgrade_tier_3',
     'sophisticatedcore:xp_bucket',
     'moonlight:spawn_box',
+    /^geore:(allthemodium|aluminum|black_quartz|lead|monazite|nickel|osmium|platinum|ruby|sapphire|silver|tin|topaz|tungsten|unobtainium|uraninite|uranium|vibranium).*/,
   ]
 
   event.remove(itemsToHide)
