@@ -1,0 +1,244 @@
+{
+        "createaddition.tooltip.energy.stored": "Tárolt energia:",
+        "createaddition.tooltip.energy.capacity": "Kapacitás:",
+        "createaddition.tooltip.energy.consumption": "Energiafelhasználás:",
+        "createaddition.tooltip.energy.production": "Termelt energia:",
+        "createaddition.tooltip.energy.charged": "Feltöltve",
+        "createaddition.tooltip.energy.usage": "Hálózati használat:",
+        "createaddition.tooltip.energy.demand": "Hálózati fogyasztás:",
+        "createaddition.tooltip.energy.supply": "Hálózati termelés:",
+        "createaddition.tooltip.energy.selected": "Kijelölt csatlakozó:",
+        "createaddition.tooltip.energy.input": "Bemenet",
+        "createaddition.tooltip.energy.output": "Kimenet",
+
+        "createaddition.tooltip.energy.mode": "Mód:",
+        "createaddition.tooltip.energy.push": "Kiadás",
+        "createaddition.tooltip.energy.pull": "Felvétel",
+        "createaddition.tooltip.energy.passive": "Passzív",
+        "createaddition.tooltip.energy.none": "Nincs",
+
+        "createaddition.tooltip.liquid_burning.info": "Folyékony lángégő infó:",
+        "createaddition.tooltip.liquid_burning.time_remaining": "Hátralévő égési idő:",
+
+        "createaddition.tooltip.charging.info": "Tesla-tekercs infó:",
+        "createaddition.tooltip.charging.time_remaining": "Hátralévő töltési idő:",
+
+        "createaddition.tooltip.alternator.info": "Generátor infó:",
+        "createaddition.tooltip.accumulator.info": "Akkumulátor infó:",
+        "createaddition.tooltip.relay.info": "Relé infó:",
+        "createaddition.tooltip.connector.info": "Csatlakozó infó:",
+
+        "createaddition.recipe.rolling": "Hengerlés",
+        "createaddition.recipe.rolling.sequence": "Hengerlés hengerműben",
+        "createaddition.recipe.charging": "Töltés",
+        "createaddition.recipe.liquid_burning": "Folyadékégetés",
+
+        "createaddition.recipe.liquid_burning.burn_time": "Égési idő",
+
+        "createaddition.command.cca_api.link": "Kattints ide az API dokumentáció megnyitásához",
+
+        "desc.immersiveengineering.info.mineral.sphalerite": "Szfalerit",
+
+        "item.createaddition.capacitor": "Kondenzátor",
+
+        "item.createaddition.diamond_grit": "Gyémántszemcse",
+        "item.createaddition.diamond_grit_sandpaper": "Gyémántszemcsés csiszolópapír",
+        "item.createaddition.diamond_grit_sandpaper.tooltip.summary": "Használható _anyagok finomítására_. A folyamat automatizálható egy telepítővel.",
+        "item.createaddition.diamond_grit_sandpaper.tooltip.condition1": "Használatkor",
+        "item.createaddition.diamond_grit_sandpaper.tooltip.behaviour1": "Polírozást alkalmaz a _másik kézben_ tartott vagy a _földön_ heverő tárgyakra, amikor _rájuk nézel_",
+
+        "item.createaddition.zinc_sheet": "Cinklemez",
+
+        "item.createaddition.copper_spool": "Rézorsó",
+        "item.createaddition.copper_spool.tooltip": "ORSÓ",
+        "item.createaddition.copper_spool.tooltip.summary": "Huzalok tárolására szolgál.",
+        "item.createaddition.copper_spool.tooltip.condition1": "Gyengeáram",
+        "item.createaddition.copper_spool.tooltip.behaviour1": "_Gyengeáramú csatlakozókhoz_ csatlakozik.",
+        "item.createaddition.copper_spool.tooltip.condition2": "Két csatlakozóra való jobb klikkelés",
+        "item.createaddition.copper_spool.tooltip.behaviour2": "Huzalkapcsolatot hoz létre közöttük, miközben megtartja az _üres orsót_.",
+        "item.createaddition.copper_wire": "Rézhuzal",
+        "item.createaddition.copper_rod": "Rézrúd",
+
+        "item.createaddition.festive_spool": "Rézorsó ünnepi fényekkel",
+        "item.createaddition.festive_spool.tooltip": "ORSÓ",
+        "item.createaddition.festive_spool.tooltip.summary": "Huzalok tárolására szolgál.",
+        "item.createaddition.festive_spool.tooltip.condition1": "Gyengeáram",
+        "item.createaddition.festive_spool.tooltip.behaviour1": "_Gyengeáramú csatlakozókhoz_ csatlakozik.",
+        "item.createaddition.festive_spool.tooltip.condition2": "Két csatlakozóra való jobb klikkelés",
+        "item.createaddition.festive_spool.tooltip.behaviour2": "Huzalkapcsolatot hoz létre közöttük, és visszaad egy _üres orsót_.",
+
+        "item.createaddition.iron_wire": "Vashuzal",
+        "item.createaddition.iron_rod": "Vasrúd",
+
+        "item.createaddition.gold_spool": "Aranyorsó",
+        "item.createaddition.gold_spool.tooltip": "ORSÓ",
+        "item.createaddition.gold_spool.tooltip.summary": "Huzalok tárolására szolgál.",
+        "item.createaddition.gold_spool.tooltip.condition1": "Erősáram",
+        "item.createaddition.gold_spool.tooltip.behaviour1": "_Erősáramú csatlakozókhoz_ csatlakozik.",
+        "item.createaddition.gold_spool.tooltip.condition2": "Két csatlakozóra való jobb klikkelés",
+        "item.createaddition.gold_spool.tooltip.behaviour2": "Huzalkapcsolatot hoz létre közöttük, miközben megtartja az _üres orsót_.",
+        "item.createaddition.gold_wire": "Aranyhuzal",
+        "item.createaddition.gold_rod": "Aranyrúd",
+
+        "item.createaddition.electrum_ingot": "Elektrumtömb",
+        "item.createaddition.electrum_nugget": "Elektrumbög",
+        "item.createaddition.electrum_sheet": "Elektrumlemez",
+        "item.createaddition.electrum_spool": "Elektrumorsó",
+        "item.createaddition.electrum_spool.tooltip": "ORSÓ",
+        "item.createaddition.electrum_spool.tooltip.summary": "Huzalok tárolására szolgál.",
+        "item.createaddition.electrum_spool.tooltip.condition1": "Erősáram",
+        "item.createaddition.electrum_spool.tooltip.behaviour1": "_Erősáramú csatlakozókhoz_ csatlakozik.",
+        "item.createaddition.electrum_spool.tooltip.condition2": "Két csatlakozóra való jobb klikkelés",
+        "item.createaddition.electrum_spool.tooltip.behaviour2": "Huzalkapcsolatot hoz létre közöttük, miközben megtartja az _üres orsót_.",
+        "item.createaddition.electrum_wire": "Elektrumhuzal",
+        "item.createaddition.electrum_rod": "Elektrumrúd",
+
+        "item.createaddition.brass_rod": "Sárgaréz rúd",
+        "item.createaddition.bronze_rod": "Bronzrúd",
+
+        "item.createaddition.cake_base": "Tortaalap",
+        "item.createaddition.cake_base_baked": "Sült tortaalap",
+
+        "item.createaddition.straw": "Szalmaszál",
+
+        "item.createaddition.electrum_amulet": "Halványarany amulett",
+        "item.createaddition.electrum_amulet.tooltip": "ELECTRUM_AMULET",
+        "item.createaddition.electrum_amulet.tooltip.summary": "Ez az _amulett_ _SOKKOLÓ⚡_ hatással van az újratölthető tárgyaidra! Tartsd a kezedben, és időnként feltölti a másik kezedben lévő tárgyakat.",
+
+        "item.createaddition.brass_figurine": "Sárgaréz figura",
+        "item.createaddition.brass_figurine.tooltip": "BRASS_FIGURINE",
+        "item.createaddition.brass_figurine.tooltip.summary": ".",
+
+        "item.createaddition.copper_goblet": "Rézserleg",
+        "item.createaddition.copper_goblet.tooltip": "COPPER_GOBLET",
+        "item.createaddition.copper_goblet.tooltip.summary": "Ennek a _serlegnek_ a rendkívüli hőátadó képessége hűvösen tart, amikor a legnagyobb szükséged van rá.",
+
+        "item.createaddition.gold_goblet": "Díszes serleg",
+        "item.createaddition.gold_goblet.tooltip": "GOLD_GOBLET",
+        "item.createaddition.gold_goblet.tooltip.summary": "Ebből a _serlegből_ való ivás jobban kielégít, mint bármelyik sima palack.",
+
+        "item.createaddition.seed_oil_bucket": "Magolajos vödör",
+        "item.createaddition.seed_oil_bucket.tooltip": "SEED_OIL_BUCKET",
+        "item.createaddition.seed_oil_bucket.tooltip.summary": "Egyszerű _gyúlékony folyadék_.",
+        "fluid.createaddition.seed_oil": "Magolaj",
+
+        "item.createaddition.bioethanol_bucket": "Bioüzemanyagos vödör",
+        "item.createaddition.bioethanol_bucket.tooltip": "BIOETHANOL_BUCKET",
+        "item.createaddition.bioethanol_bucket.tooltip.summary": "Hatékony _gyúlékony folyadék_.",
+        "fluid.createaddition.bioethanol": "Bioüzemanyag",
+
+        "item.createaddition.biomass": "Biomassza",
+        "item.createaddition.biomass_pellet": "Biomassza-pellet",
+        "item.createaddition.biomass_pellet.tooltip": "BIOMASS_PELLET",
+        "item.createaddition.biomass_pellet.tooltip.summary": "Erőteljes _szilárd tüzelőanyag_.",
+
+        "item.createaddition.spool": "Üres orsó",
+        "item.createaddition.spool.nbt": "Tárolja a csatlakozási helyet.",
+        "item.createaddition.spool.tooltip.summary": "Huzalok tárolására szolgál.",
+        "item.createaddition.spool.tooltip.condition1": "Két összekapcsolt csatlakozóra való jobb klikkelés",
+        "item.createaddition.spool.tooltip.behaviour1": "Eltávolítja a huzalkapcsolatot és visszaad egy megtöltött _orsót_.",
+
+        "statusbar.createaddition.wire.linked": "Csomópontok összekapcsolva",
+        "statusbar.createaddition.wire.linked_in": "Huzal a bemenethez kapcsolva",
+        "statusbar.createaddition.wire.linked_out": "Huzal a kimenethez kapcsolva",
+
+        "statusbar.createaddition.wire.connect": "Huzalcsatlakozó kijelölve",
+        "statusbar.createaddition.wire.connect_in": "Huzalcsatlakozó bemenet kijelölve",
+        "statusbar.createaddition.wire.connect_out": "Huzalcsatlakozó kimenet kijelölve",
+
+        "statusbar.createaddition.wire.long": "A huzal túl hosszú",
+        "statusbar.createaddition.wire.count": "A huzalcsomópont megtelt",
+        "statusbar.createaddition.wire.removed": "Huzal eltávolítva",
+        "statusbar.createaddition.wire.exists": "A huzalkapcsolat már létezik",
+        "statusbar.createaddition.wire.no_connection": "Itt nincs huzalkapcsolat",
+        "statusbar.createaddition.wire.invalid": "Érvénytelen kapcsolat",
+        "statusbar.createaddition.wire.requires_high_current": "Ehhez a kapcsolathoz erősáramú huzal szükséges",
+
+        "block.createaddition.electric_motor": "Elektromotor",
+
+        "block.createaddition.alternator": "Generátor",
+
+        "block.createaddition.creative_energy": "Kreatív generátor",
+        "block.createaddition.creative_energy.tooltip": "CREATIVE_GENERATOR",
+        "block.createaddition.creative_energy.tooltip.summary": "Végtelen mennyiségű _⚡_-t termel.",
+
+        "block.createaddition.rolling_mill": "Hengermű",
+
+        "block.createaddition.accumulator": "Akkumulátor",
+        "block.createaddition.accumulator.tooltip": "ACCUMULATOR",
+        "block.createaddition.accumulator.tooltip.summary": "Elektromos töltést halmoz fel. _Elavult, a jövőbeni kiadásokból eltávolításra kerülhat_.",
+        "block.createaddition.accumulator.tooltip.condition1": "Felvétel",
+        "block.createaddition.accumulator.tooltip.behaviour1": "_⚡_-t biztosít a felfelé mutató nyíllal jelölt _csatlakozóhoz_ kapcsolt _huzaloknak_.",
+        "block.createaddition.accumulator.tooltip.condition2": "Kiadás",
+        "block.createaddition.accumulator.tooltip.behaviour2": "_⚡_-t fogad be a lefelé mutató nyíllal jelölt _csatlakozóhoz_ kapcsolt _huzaloknak_.",
+
+        "block.createaddition.modular_accumulator": "Akkumulátor",
+
+        "block.createaddition.portable_energy_interface": "Hordozható energia-interfész",
+
+        "block.createaddition.connector": "Kis csatlakozó",
+        "block.createaddition.connector.tooltip": "CONNECTOR",
+        "block.createaddition.connector.tooltip.summary": "_Forge Energy_-kompatibilis blokkokat köt össze _huzalokkal_ a _⚡_ átviteléhez.",
+        "block.createaddition.connector.tooltip.condition1": "Gyengeáram",
+        "block.createaddition.connector.tooltip.behaviour1": "_Gyengeáramú huzalokkal_ kapcsolódik.",
+        "block.createaddition.connector.tooltip.condition2": "Jobb klikk",
+        "block.createaddition.connector.tooltip.behaviour2": "Rézorsót, aranyorsót vagy elektrumorsót kézben tartva huzalkapcsolatot hoz létre akár 4 másik csatlakozóval.",
+        "block.createaddition.connector.tooltip.condition3": "Jobb klikk csavarkulccsal",
+        "block.createaddition.connector.tooltip.behaviour3": "Váltás a _Kiadás_, _Felvétel_ és _Nincs_ módok között.",
+
+        "block.createaddition.small_light_connector": "Kis csatlakozó lámpával",
+        "block.createaddition.small_light_connector.tooltip": "CONNECTOR",
+        "block.createaddition.small_light_connector.tooltip.summary": "_Forge Energy_-kompatibilis blokkokat köt össze _huzalokkal_ a _⚡_ átviteléhez, fényt ad, ha áramot kap.",
+        "block.createaddition.small_light_connector.tooltip.condition1": "Gyengeáram",
+        "block.createaddition.small_light_connector.tooltip.behaviour1": "_Gyengeáramú huzalokkal_ kapcsolódik.",
+        "block.createaddition.small_light_connector.tooltip.condition2": "Jobb klikk",
+        "block.createaddition.small_light_connector.tooltip.behaviour2": "Rézorsót, aranyorsót vagy elektrumorsót kézben tartva huzalkapcsolatot hoz létre akár 4 másik csatlakozóval.",
+        "block.createaddition.small_light_connector.tooltip.condition3": "Jobb klikk csavarkulccsal",
+        "block.createaddition.small_light_connector.tooltip.behaviour3": "Váltás a _Kiadás_, _Felvétel_ és _Nincs_ módok között.",
+
+        "block.createaddition.large_connector": "Nagy csatlakozó",
+        "block.createaddition.large_connector.tooltip": "CONNECTOR",
+        "block.createaddition.large_connector.tooltip.summary": "_Forge Energy_-kompatibilis blokkokat köt össze _huzalokkal_ a _⚡_ átviteléhez.",
+        "block.createaddition.large_connector.tooltip.condition1": "Erősáram",
+        "block.createaddition.large_connector.tooltip.behaviour1": "_Erősáramú huzalokkal_ kapcsolódik.",
+        "block.createaddition.large_connector.tooltip.condition2": "Jobb klikk",
+        "block.createaddition.large_connector.tooltip.behaviour2": "Aranyorsót vagy elektrumorsót kézben tartva huzalkapcsolatot hoz létre akár 8 másik csatlakozóval.",
+        "block.createaddition.large_connector.tooltip.condition3": "Jobb klikk csavarkulccsal",
+        "block.createaddition.large_connector.tooltip.behaviour3": "Váltás a _Kiadás_, _Felvétel_ és _Nincs_ módok között.",
+
+        "block.createaddition.tesla_coil": "Tesla-tekercs",
+        "block.createaddition.tesla_coil.tooltip": "TESLA_COIL",
+        "block.createaddition.tesla_coil.tooltip.summary": "Az elektromosság erejét használja a tárgyak _⚡_ töltésére.",
+        "block.createaddition.tesla_coil.tooltip.condition1": "Töltés",
+        "block.createaddition.tesla_coil.tooltip.behaviour1": "Feltölti a felette lévő _Depot_-on vagy _Belt_-en lévő tárgyakat.",
+        "block.createaddition.tesla_coil.tooltip.condition2": "Sokk",
+        "block.createaddition.tesla_coil.tooltip.behaviour2": "Megsokkollja a felette álló élőlényeket.",
+
+        "block.createaddition.redstone_relay": "Vöröskő-relé",
+        "block.createaddition.redstone_relay.tooltip": "RELAY",
+        "block.createaddition.redstone_relay.tooltip.summary": "Lehetővé teszi az áramlás szabályozását vöröskő jellel.",
+        "block.createaddition.redstone_relay.tooltip.condition1": "Vöröskő jel",
+        "block.createaddition.redstone_relay.tooltip.behaviour1": "Vöröskő jel hatására megszakítja az áramkört.",
+
+        "block.createaddition.digital_adapter": "Digitális adapter",
+        "block.createaddition.digital_adapter.tooltip": "DIGITAL_ADAPTER",
+        "block.createaddition.digital_adapter.tooltip.summary": "Lehetővé teszi a hálózat távoli monitorozását _ComputerCraft_ vagy más modok segítségével.",
+
+        "createaddition.ponder.electric_motor.header": "Az elektromotor használata",
+        "createaddition.ponder.electric_motor.text_1": "Az elektromotor a _⚡_ energiát forgási energiává alakítja.",
+        "createaddition.ponder.electric_motor.text_2": "A motor sebessége beállítható a rajta lévő panellel.",
+        "createaddition.ponder.electric_motor.text_3": "A motor nagyobb sebességen több energiát fogyaszt.",
+
+        "createaddition.ponder.alternator.header": "A generátor használata",
+        "createaddition.ponder.alternator.text_1": "A generátor a forgási energiát _⚡_ energiává alakítja.",
+        "createaddition.ponder.alternator.text_2": "A generált energia mennyisége a bemeneti sebességtől függ.",
+
+        "createaddition.ponder.rolling_mill.header": "A hengermű használata",
+        "createaddition.ponder.rolling_mill.text_1": "A hengermű fémrudak és huzalok készítésére szolgál.",
+        "createaddition.ponder.rolling_mill.text_2": "Helyezz be egy fémtömböt vagy lemezt a feldolgozáshoz.",
+
+        "createaddition.ponder.tesla_coil.header": "A Tesla-tekercs használata",
+        "createaddition.ponder.tesla_coil.text_1": "A Tesla-tekercs tárgyak elektromos töltésére szolgál.",
+        "createaddition.ponder.tesla_coil.text_2": "Helyezd a Tesla-tekercset egy Depot vagy Belt alá.",
+        "createaddition.ponder.tesla_coil.text_3": "A tekercsnek _⚡_ energiára van szüksége a működéshez."
+}
