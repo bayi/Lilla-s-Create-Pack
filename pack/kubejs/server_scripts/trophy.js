@@ -1,39 +1,17 @@
-
-ServerEvents.recipes((event) => {
-  event.shaped(
-    Item.of('lillascreate:trophy', 1),
-    [
-      'ABA',
-      'AAA',
-      'CAC'
-    ],
-    {
-      A: 'minecraft:gold_ingot',
-      B: 'minecraft:orange_dye',
-      C: 'minecraft:stick'
-    }
-  )
+ServerEvents.recipes(event => {
+  event.recipes.create.mechanical_crafting('lillascreate:trophy', [
+    'SG GS',
+    'AFCFA',
+    'AAAAA',
+    ' NBN ',
+    ' NBN '
+  ], {
+    S: 'minecraft:emerald',
+    G: 'minecraft:diamond',
+    C: 'minecraft:nether_star',
+    A: 'minecraft:gold_ingot',
+    F: 'minecraft:orange_dye',
+    N: 'minecraft:netherite_ingot',
+    B: 'create:brass_casing'
+  })
 })
-
-
-/*
-
- S G C G S
-      
- A F A F A
-
- A A A A A
-
-   N B N  
-
-   N B N
-
-N: Netherit
-B: Bot
-A: Arany
-F: Narancs Festék
-C: Nethercsillag
-G: Gyémánt
-S: Smaragd
-
-*/
