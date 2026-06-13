@@ -99,7 +99,7 @@ X create sifter ?
 - KubeJS: Add magnet
 - Curios: add elytra slot
 - Is Patchouli needed ?
-- Move GeOres
+? Move GeOres
 X Supplementaries Wrench disable -> Marad
 
 # Hosting
