@@ -11,13 +11,15 @@ StartupEvents.registry('block', event => {
     .renderType('cutout_mipped')
     .waterlogged()
     .noValidSpawns(true)
+    .property(BlockProperties.FACING)
+    .defaultState(state => {
+      state.setValue(BlockProperties.FACING, Direction.NORTH)
+    })
     .item((i) => {
       i
         .tooltip('§6§oA trophy for your achievements!') // @TODO: Translate
         .rarity("EPIC")
         .fireResistant(true)
-        .maxStackSize(1)
+        .unstackable()
     })
 })
-
-// @TODO: Add blockState
