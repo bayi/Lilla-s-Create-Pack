@@ -63,6 +63,7 @@ packwiz mr add create-teleporters
 packwiz mr add createaddition
 packwiz mr add copycats
 packwiz mr add extra-gauges
+packwiz mr add geore
 
 packwiz mr add farmers-delight
 packwiz mr add slice-and-dice
