@@ -223,6 +223,11 @@ hash = "d9225b81ab77d2d312cbce47d220fc342179d9081a6a4cf831f36184f6a62258"
 metafile = true
 
 [[files]]
+file = "mods/create-mechanical-teleporter.pw.toml"
+hash = "8d6eecd8694ab19ed8ee51eb7a1e9b0321fe2a76e93a743949b979c7787c2a3a"
+metafile = true
+
+[[files]]
 file = "mods/create-pattern-schematics.pw.toml"
 hash = "faddfa6807d11014c93bbfd8e543e8843e6d44e53f70d54e0b7e3e95766d2021"
 metafile = true

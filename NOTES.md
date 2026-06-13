@@ -69,7 +69,7 @@
 + kubejs-create
 + create-mechanical-extruder
 + create-power-loader
-+ create-teleporters
++ create-mechanical-teleporter
 + geore
 X create-aeronautics
 X create sifter ?
@@ -107,7 +107,7 @@ X create sifter ?
 - create enchantment industry
 - GeOre
 - Create Mechanical Extruder
-- Create Teleporters
+- Create Mechanical Teleporter
 - Create Craft And Additions
 
 # TODO
