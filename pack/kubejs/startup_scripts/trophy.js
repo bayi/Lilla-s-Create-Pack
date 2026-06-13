@@ -13,7 +13,7 @@ StartupEvents.registry('block', event => {
     .noValidSpawns(true)
     .item((i) => {
       i
-        .tooltip('§6§oA trophy for your achievements!') // @TODO: Translate
+        .tooltip(Text.translate('item.lillascreate.trophy.tooltip'))
         .rarity("EPIC")
         .fireResistant(true)
         .unstackable()
