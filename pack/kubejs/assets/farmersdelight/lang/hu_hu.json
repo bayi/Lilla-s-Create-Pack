@@ -437,7 +437,7 @@
   "tag.block.farmersdelight.terrain": "Terep",
   "tag.block.farmersdelight.tray_heat_sources": "Hőforrások tálcával",
   "tag.block.farmersdelight.unaffected_by_rich_soil": "Termékeny talaj által nem befolyásolt",
-  "tag.block.farmersdelight.wild_crops": "Vadon termő növények",
+  "tag.block.farmersdelight.wild_crops": "Vadnövények",
 
   "tag.item.farmersdelight.cabinets": "Szekrények",
   "tag.item.farmersdelight.cabinets.wooden": "Faszekrények",
@@ -455,7 +455,7 @@
   "tag.item.farmersdelight.straw_harvesters": "Szalmaararatók",
   "tag.item.farmersdelight.sweets": "Édességek",
   "tag.item.farmersdelight.tools.knives": "Kések",
-  "tag.item.farmersdelight.wild_crops": "Vadon termő növények",
+  "tag.item.farmersdelight.wild_crops": "Vadnövények",
 
   "farmersdelight.configuration.title": "Farmer's Delight — Beállítások",
 
