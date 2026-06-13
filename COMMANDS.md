@@ -58,6 +58,8 @@ packwiz mr add create-design-n-decor
 packwiz mr add create-steam-n-rails-1.21.1
 packwiz mr add create-pattern-schematics
 packwiz mr add create-mechanical-extruder
+packwiz mr add create-power-loader
+packwiz mr add create-teleporters
 packwiz mr add createaddition
 packwiz mr add copycats
 packwiz mr add extra-gauges
