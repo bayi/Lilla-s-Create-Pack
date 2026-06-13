@@ -90,7 +90,6 @@
 
 # Translation needed
 - Amendments
-- Carry On
 - Easy Villagers
 - Jade
 - Supplementaries
