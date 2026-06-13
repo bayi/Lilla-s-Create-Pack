@@ -72,7 +72,7 @@ X create-aeronautics
 - create sifter ?
 - create teleporters ?
 - create-ore-excavation vs GeOre ?
-- create crafting & additions vs create the factory must grow (electricity)
+- create craft & additions vs create the factory must grow (electricity)
 
 # Farmer's Delight
 + farmers-delight
