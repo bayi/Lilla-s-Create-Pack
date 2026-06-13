@@ -94,17 +94,6 @@ X create sifter ?
 ?? Power for AE2 ? -> Powah?
 
 # Translation needed
-- balm
-- create pattern schematics
-- curios
-- deployer
-- fzzy_config
-- inventory essentials
-- mechanicals
-- moonlight
-- sable
-- sodium
-- voicechat
 
 # TODO
 - KubeJS: Add magnet
