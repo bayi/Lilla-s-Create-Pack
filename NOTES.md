@@ -1,14 +1,14 @@
 # Core
 
 # Optimizations
-+ sodium
++ sodium (pinned: 0.6.13 -> Distant Horizons, Supplementaries)
 + lithium
 + entityculling
 + ferrite-core
 + immediatelyfast
 + modernfix
 + distanthorizons
-+ iris
++ iris (pinned: 1.8.12 -> Sodium)
 
 # QoL
 + 3dskinlayers
