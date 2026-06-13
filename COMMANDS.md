@@ -59,6 +59,10 @@ packwiz mr add create-steam-n-rails-1.21.1
 packwiz mr add create-pattern-schematics
 packwiz mr add create-mechanical-extruder
 packwiz mr add create-power-loader
+packwiz mr add https://modrinth.com/mod/sable/version/3FMsUjO4
+packwiz pin sable
+packwiz mr add https://modrinth.com/mod/create-aeronautics/version/YhZLrAFC
+packwiz pin create-aeronautics
 packwiz mr add createaddition
 packwiz mr add copycats
 packwiz mr add extra-gauges

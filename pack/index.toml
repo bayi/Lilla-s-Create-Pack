@@ -102,7 +102,7 @@ hash = "0856e4921178fcb5e9179e96d30791f44475f8df258092e4405d0a75b7080da4"
 
 [[files]]
 file = "kubejs/server_scripts/trophy.js"
-hash = "c38cfb68e7ada59b51d535b769b83060a2649dcda5ca0d0e2f7a175b1cdb9ffb"
+hash = "976c7abe9d7df7a498b5e588b6be1317dec487551fd927639bd0f00b877ddfef"
 
 [[files]]
 file = "kubejs/startup_scripts/modid.js"
@@ -185,6 +185,11 @@ metafile = true
 [[files]]
 file = "mods/coroutil.pw.toml"
 hash = "d901f874a1e09747b8d0d072c38c426eceead1f29c8ba36680f8f0082996b152"
+metafile = true
+
+[[files]]
+file = "mods/create-aeronautics.pw.toml"
+hash = "32548500b04557a7264708eff140238ee85b561d6902c890a33d311e16b3f3e7"
 metafile = true
 
 [[files]]
@@ -445,6 +450,11 @@ metafile = true
 [[files]]
 file = "mods/rhino.pw.toml"
 hash = "e55ca32b338a0e0540f4fec5170675d860566255ae0f45692a00cb4ebf2eb535"
+metafile = true
+
+[[files]]
+file = "mods/sable.pw.toml"
+hash = "a6693ee3db7b1c9026311096443fd898f1c52bb2b73efc2de964c37105d3ff81"
 metafile = true
 
 [[files]]

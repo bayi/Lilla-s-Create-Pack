@@ -70,7 +70,7 @@
 + create-mechanical-extruder
 + create-power-loader
 + geore
-! create-aeronautics
++ create-aeronautics (pinned: 1.2.1 -> Sodium) (+ Sable pinned: 1.2.2 -> Sodium)
 X create teleporters / create mechanical teleporter
 X create sifter ?
 
