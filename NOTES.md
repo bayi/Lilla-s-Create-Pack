@@ -67,7 +67,7 @@
 + create-design-n-decor
 + createaddition
 + kubejs-create
-- create mechanical extruder ?
++ create-mechanical-extruder
 - create power loader ?
 - create teleporters ?
 - create-ore-excavation vs GeOre ? -> GeOre
