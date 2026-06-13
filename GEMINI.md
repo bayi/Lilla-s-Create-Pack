@@ -18,5 +18,6 @@ For current progress, notes, etc see `NOTES.md`.
 
 Original upstream hungarian translations are found inside the `upstream-translations` folder. These are the translations that are provided by the mod authors themselves. These should be used as a guide for creating the Hungarian translations, but they may not be complete or accurate.
 Please use minecraft terms always as they appear in the file (e.g. "blokk", "entitás". Colors like "vörös" for "red" should be translated as "vörös", not "piros"). If you are unsure about a translation, please consult the original Hungarian file or ask for help.
+The same is true for Create related mods and addons, please use the original Hungarian translations provided by the mod authors as a guide.
 
 
