@@ -65,13 +65,13 @@
 + create-steam-n-rails-1.21.1
 + create-vibrant-vaults
 + create-design-n-decor
-X create-aeronautics
++ createaddition
 + kubejs-create
 - create mechanical extruder ?
 - create power loader ?
 - create teleporters ?
 - create-ore-excavation vs GeOre ? -> GeOre
-- create craft & additions vs create the factory must grow (electricity) -> Craft & Additions
+X create-aeronautics
 X create sifter ?
 
 # Farmer's Delight
