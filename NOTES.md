@@ -94,10 +94,7 @@ X create sifter ?
 ?? Power for AE2 ? -> Powah?
 
 # Translation needed
-- Jade
-- Xaero's World Map
-- vibrant vaults
-- GeOre
+-
 
 # TODO
 - KubeJS: Add magnet
