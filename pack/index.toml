@@ -25,6 +25,10 @@ file = "kubejs/README.txt"
 hash = "0c0358a21c23f97ce317a653740cc750f8dfa59d6948bf4cb3e6413e68def9b3"
 
 [[files]]
+file = "kubejs/assets/aeronautics/lang/hu_hu.json"
+hash = "38ee40c030e69065999bbd2b7c746d741f8c7cbadf194c2ea5298d5f17e8975b"
+
+[[files]]
 file = "kubejs/assets/amendments/lang/hu_hu.json"
 hash = "e9420a237433e6e18e6204b069a3bdb6396072ab1688bbab0f128d41739789c9"
 
@@ -55,6 +59,14 @@ hash = "d089e90b9184ab3f5ffad2af57fd611f90a98bc07326ead8978c1ee7ec87882a"
 [[files]]
 file = "kubejs/assets/minecraft/lang/hu_hu.json"
 hash = "2a258764fe0317d789372189ed5c1898707a4bc913517e830927127855adbeb7"
+
+[[files]]
+file = "kubejs/assets/offroad/lang/hu_hu.json"
+hash = "b473439db00fa29413813d13fc51bd33c99161b7df7e686c4258a8269f4adf5c"
+
+[[files]]
+file = "kubejs/assets/simulated/lang/hu_hu.json"
+hash = "fc1cd698a19bbf5ca6cd952beae3942d66bb7b58e048124eaef9b5ae5dc32dfc"
 
 [[files]]
 file = "kubejs/assets/sophisticatedbackpacks/lang/hu_hu.json"
