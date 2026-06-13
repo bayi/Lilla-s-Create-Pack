@@ -92,9 +92,7 @@
 - Amendments
 - Carry On
 - Chat Plus
-- Copper Age Backport
 - Easy Villagers
-- Sophisticated Backpacks
 - Jade
 - supplementaries
 - Xaero's World Map
