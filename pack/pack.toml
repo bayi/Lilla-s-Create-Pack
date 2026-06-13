@@ -1,4 +1,4 @@
-name = "Lilla's Create Pack"
+name = "Lillas Create Pack"
 author = "Bayi"
 version = "2.0.0"
 pack-format = "packwiz:1.1.0"
@@ -6,7 +6,7 @@ pack-format = "packwiz:1.1.0"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "9b982ea2dda2e3ee37ddea402ad50bf712341df22dabb8c18f4f3fcec8c5a3c2"
+hash = "402f8c78a9eb97ad62235fc8b4d85f48824db994acc01fbdb209ab7fb5c4b76e"
 
 [versions]
 minecraft = "1.21.1"

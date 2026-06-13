@@ -21,12 +21,32 @@ file = "config/jade/sort-order.json"
 hash = "f7c5c74625973db16b2567bc58e963379a6abaa70f197f0a187e30578f50e1e5"
 
 [[files]]
+file = "kubejs/assets/lillascreate/blockstates/trophy.json"
+hash = "bfc4448d07bab0893cc9cce1faa32dfd2094f3d098f6a0104b5b505f21e77090"
+
+[[files]]
+file = "kubejs/assets/lillascreate/models/block/trophy.json"
+hash = "3115b9cd2bfd1759039ee1e950a6efcdc0fd06c1902544bee1e834966878eaf3"
+
+[[files]]
+file = "kubejs/assets/lillascreate/models/item/trophy.json"
+hash = "c6b4dc4cebdcff69cd9b9912c413ec97592e9128fd5a54fec9ecfa09e88954f1"
+
+[[files]]
+file = "kubejs/assets/lillascreate/textures/item/trophy.png"
+hash = "d089e90b9184ab3f5ffad2af57fd611f90a98bc07326ead8978c1ee7ec87882a"
+
+[[files]]
 file = "kubejs/client_scripts/jei_hide.js"
 hash = "8740f695407e89a0dcc957de450ab62e709d2849685fa8a5496bb41671377e74"
 
 [[files]]
+file = "kubejs/client_scripts/trophy.js"
+hash = "c4ce673097cba7c315c22cc11bcaae811d968b9a141b51000fcfa20c2382c77e"
+
+[[files]]
 file = "kubejs/config/client.json"
-hash = "98838a9d22e78165ba1aeee9c4653ca40df0e522a7c2b767faab55c6485bbd90"
+hash = "b2031d106a4b402b74bf5d78952a0bee68f26c360dbf2e85f380a80204449106"
 
 [[files]]
 file = "kubejs/config/common.json"
@@ -49,8 +69,16 @@ file = "kubejs/server_scripts/recipes_remove.js"
 hash = "0856e4921178fcb5e9179e96d30791f44475f8df258092e4405d0a75b7080da4"
 
 [[files]]
+file = "kubejs/server_scripts/trophy.js"
+hash = "c38cfb68e7ada59b51d535b769b83060a2649dcda5ca0d0e2f7a175b1cdb9ffb"
+
+[[files]]
 file = "kubejs/startup_scripts/modid.js"
-hash = "806ccdd3dadd73fd02b799f81bd9440d176ee203e5346d5a2224f02035827b71"
+hash = "8d113b4d19f087857a28e384c2f42e4327c793b8eb38041a49d6d79b2fe79439"
+
+[[files]]
+file = "kubejs/startup_scripts/trophy.js"
+hash = "edf2cc8a19856924f9837ae57716d22eabb66a21afcbc8c80c21d96cea77eac9"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
