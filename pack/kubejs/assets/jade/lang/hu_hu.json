@@ -299,7 +299,7 @@
 	"config.jade.plugin_minecraft.furnace": "Kemence tartalma",
 	"config.jade.plugin_minecraft.mob_spawner": "Lényidéző típusa",
 	"config.jade.plugin_minecraft.crop_progress": "Termény állapota",
-	"config.jade.plugin_minecraft.redstone": "Vöröskő infó",
+	"config.jade.plugin_minecraft.redstone": "Redstone infó",
 	"config.jade.plugin_minecraft.jukebox": "Zenegép lemeze",
 	"config.jade.plugin_minecraft.villager_profession": "Falusi foglalkozása",
 	"jade.spawner": "%s (%s)",

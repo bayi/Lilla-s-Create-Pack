@@ -9,7 +9,7 @@
   "deployer.factory_panel.transferring": "Átvitel: %s",
   "deployer.factory_panel.no_connection_available": "Nem érhető el kapcsolat ezekhez a panelekhez",
   "panel_connection.deployer.stock_connection": "Rendelések",
-  "panel_connection.deployer.redstone": "Vöröskő",
+  "panel_connection.deployer.redstone": "Redstone",
   "panel_connection.deployer.numbers": "Számok",
   "panel_connection.deployer.string": "Szövegek",
   "panel_connection.deployer.display": "Kijelző adatok",
