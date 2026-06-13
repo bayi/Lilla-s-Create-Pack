@@ -69,10 +69,10 @@ X create-aeronautics
 + kubejs-create
 - create mechanical extruder ?
 - create power loader ?
-- create sifter ?
 - create teleporters ?
-- create-ore-excavation vs GeOre ?
-- create craft & additions vs create the factory must grow (electricity)
+- create-ore-excavation vs GeOre ? -> GeOre
+- create craft & additions vs create the factory must grow (electricity) -> Craft & Additions
+X create sifter ?
 
 # Farmer's Delight
 + farmers-delight
