@@ -21,6 +21,22 @@ file = "config/jade/sort-order.json"
 hash = "f7c5c74625973db16b2567bc58e963379a6abaa70f197f0a187e30578f50e1e5"
 
 [[files]]
+file = "kubejs/README.txt"
+hash = "0c0358a21c23f97ce317a653740cc750f8dfa59d6948bf4cb3e6413e68def9b3"
+
+[[files]]
+file = "kubejs/assets/amendments/lang/hu_hu.json"
+hash = "e9420a237433e6e18e6204b069a3bdb6396072ab1688bbab0f128d41739789c9"
+
+[[files]]
+file = "kubejs/assets/carryon/lang/hu_hu.json"
+hash = "cfd632a07d729c9d823b0d2ed08646c2f8df7db951f153d1f814c1c6655f602f"
+
+[[files]]
+file = "kubejs/assets/chatplus/lang/hu_hu.json"
+hash = "681e29f6943bcebb052a26be94efc16c77327547f4a25a079ccef3aeba8a6f53"
+
+[[files]]
 file = "kubejs/assets/lillascreate/blockstates/trophy.json"
 hash = "bfc4448d07bab0893cc9cce1faa32dfd2094f3d098f6a0104b5b505f21e77090"
 
@@ -37,6 +53,22 @@ file = "kubejs/assets/lillascreate/textures/item/trophy.png"
 hash = "d089e90b9184ab3f5ffad2af57fd611f90a98bc07326ead8978c1ee7ec87882a"
 
 [[files]]
+file = "kubejs/assets/minecraft/lang/hu_hu.json"
+hash = "2a258764fe0317d789372189ed5c1898707a4bc913517e830927127855adbeb7"
+
+[[files]]
+file = "kubejs/assets/sophisticatedbackpacks/lang/hu_hu.json"
+hash = "92046a3450c74d38c60f11c1efd7ca24254036edebe0f8704033fcc7ff97c587"
+
+[[files]]
+file = "kubejs/assets/sophisticatedcore/lang/hu_hu.json"
+hash = "af4d68866a5507ba948462c21238e733a894f063d8584945d3a8b2e2d97dcf76"
+
+[[files]]
+file = "kubejs/assets/supplementaries/lang/hu_hu.json"
+hash = "8722bb63faa5f852f9eb5ea239abb9127364e3043aa61ec42da70de79c874790"
+
+[[files]]
 file = "kubejs/client_scripts/jei_hide.js"
 hash = "8740f695407e89a0dcc957de450ab62e709d2849685fa8a5496bb41671377e74"
 
@@ -46,7 +78,7 @@ hash = "c4ce673097cba7c315c22cc11bcaae811d968b9a141b51000fcfa20c2382c77e"
 
 [[files]]
 file = "kubejs/config/client.json"
-hash = "b2031d106a4b402b74bf5d78952a0bee68f26c360dbf2e85f380a80204449106"
+hash = "98838a9d22e78165ba1aeee9c4653ca40df0e522a7c2b767faab55c6485bbd90"
 
 [[files]]
 file = "kubejs/config/common.json"
