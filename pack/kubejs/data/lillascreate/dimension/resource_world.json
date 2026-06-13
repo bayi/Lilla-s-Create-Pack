@@ -1,0 +1,11 @@
+{
+  "type": "lillascreate:resource_world_type",
+  "generator": {
+    "type": "minecraft:noise",
+    "settings": "lillascreate:resource_world_settings",
+    "biome_source": {
+      "type": "minecraft:multi_noise",
+      "preset": "minecraft:overworld"
+    }
+  }
+}
