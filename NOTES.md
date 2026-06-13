@@ -70,7 +70,8 @@
 + create-mechanical-extruder
 + create-power-loader
 + geore
-X create-aeronautics
+! create-aeronautics
+X create teleporters / create mechanical teleporter
 X create sifter ?
 
 # Farmer's Delight
@@ -112,6 +113,7 @@ X create sifter ?
 - KubeJS: Add magnet
 - Curios: add elytra slot
 - Is Patchouli needed ?
+- Move GeOres
 X Supplementaries Wrench disable -> Marad
 
 # Hosting
