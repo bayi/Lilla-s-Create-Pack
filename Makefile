@@ -1,4 +1,4 @@
-INSTANCE_PATH="/data/Games/prism/instances/Lillas\ Create\ Pack-2.0.0/minecraft"
+INSTANCE_PATH="./instance"
 
 refresh:
 	@cd pack; packwiz refresh
