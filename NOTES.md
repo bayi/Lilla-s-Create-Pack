@@ -94,20 +94,12 @@ X create sifter ?
 ?? Power for AE2 ? -> Powah?
 
 # Translation needed
-- Easy Villagers
 - Jade
 - Xaero's World Map
 - steam 'n' rails
 - vibrant vaults
-- extra gauges
-- create encased
-- create deco
-- design 'n' decor
-- create stuff additions
 - create enchantment industry
 - GeOre
-- Create Mechanical Extruder
-- Create Craft And Additions
 
 # TODO
 - KubeJS: Add magnet
