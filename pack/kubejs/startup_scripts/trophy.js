@@ -1,10 +1,3 @@
-
-/*
-StartupEvents.registry('item', event => {
-  event.create('lillascreate:trophy').texture('lillascreate:item/test').maxStackSize(64)
-})
-*/
-
 StartupEvents.registry('block', event => {
   event.create('lillascreate:trophy')
     .soundType('metal')
@@ -28,8 +21,3 @@ StartupEvents.registry('block', event => {
 })
 
 // @TODO: Add blockState
-
-// StartupEvents.modifyCreativeTab('kubejs:lillascreate', event => {
-//   event.add('lillascreate:trophy')
-// })
-
