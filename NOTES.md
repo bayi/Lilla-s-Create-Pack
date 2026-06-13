@@ -1,54 +1,54 @@
 # Core
 
 # Optimizations
-- sodium
-- lithium
-- entityculling
-- ferrite-core
-- immediatelyfast
-- modernfix
-- distanthorizons
-- iris
++ sodium
++ lithium
++ entityculling
++ ferrite-core
++ immediatelyfast
++ modernfix
++ distanthorizons
++ iris
 
 # QoL
-- 3dskinlayers
-- advancement-plaques
-- ambient-environment
-- better-advancements
-- carry-on
-- chat-plus
-- curios
-- emi
-- emi-loot
-- emi-enchanting
-- gravestone-mod
-- gravestone-x-curios-api-compat
-- immersive-paintings
-- inventory-essentials
-- item-borders
-- jade
-- legendary-tooltips
-- lootjs
-- mouse-tweaks
-- pick-up-notifier
-- shulkerboxtooltip
-- simple-voice-chat
-- sophisticated-backpacks
-- sound-physics-remastered
-- what-are-they-up-to
-- xaeros-world-map
++ 3dskinlayers
++ advancement-plaques
++ ambient-environment
++ better-advancements
++ carry-on
++ chat-plus
++ curios
++ emi
++ emi-loot
++ emi-enchanting
++ gravestone-mod
++ gravestone-x-curios-api-compat
++ immersive-paintings
++ inventory-essentials
++ item-borders
++ jade
++ legendary-tooltips
++ lootjs
++ mouse-tweaks
++ pick-up-notifier
++ shulkerboxtooltip
++ simple-voice-chat
++ sophisticated-backpacks
++ sound-physics-remastered
++ what-are-they-up-to
++ xaeros-world-map
 
 # Extra Blocks
-- amendments
-- antiblocksrechiseled
-- supplementaries
++ amendments
++ antiblocksrechiseled
++ supplementaries
 
 # Misc
-- almostunified
-- kubejs
-- easy-villagers
-- vanillabackport
-- backport-copper-age
++ almostunified
++ kubejs
++ easy-villagers
++ vanillabackport
++ backport-copper-age
 
 # Create
 - create
@@ -70,7 +70,7 @@
 - create sifter?
 
 # Farmer's Delight
-- farmers delight
++ farmers delight
 - create slice & dice
 
 # AE2
