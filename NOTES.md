@@ -100,6 +100,7 @@ X create sifter ?
 - Curios: add elytra slot
 - Is Patchouli needed ?
 - xy typing ... message translate
+- Remove recipe wheat + water = farmersdeligh:wheat_dough + Add 3xdough from flower + egg 
 X Supplementaries Wrench disable -> Marad
 
 # Hosting
