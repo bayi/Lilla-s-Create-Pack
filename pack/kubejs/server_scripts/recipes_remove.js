@@ -16,6 +16,15 @@ const byOutput = [
 	'sophisticatedbackpacks:stack_downgrade_tier_1',
 	'sophisticatedbackpacks:stack_downgrade_tier_2',
 	'sophisticatedbackpacks:stack_downgrade_tier_3',
+	'create_sa:copper_pickaxe',
+	'create_sa:copper_axe',
+	'create_sa:copper_shovel',
+	'create_sa:copper_hoe',
+	'create_sa:copper_sword',
+	'create_sa:copper_helmet',
+	'create_sa:copper_chestplate',
+	'create_sa:copper_leggings',
+	'create_sa:copper_boots',
 ]
 
 // Remove by ID
