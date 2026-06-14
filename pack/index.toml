@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/createaddition-common.toml"
+hash = "81ec1219404bc50e6f188b63e44e37939ab713c75495799791629d0876789727"
+
+[[files]]
 file = "config/emi.css"
 hash = "9fa24b9307a960428865fddf89bf18ad0659141055e918cd113a3e510a2d2b7f"
 
@@ -23,6 +27,14 @@ hash = "f7c5c74625973db16b2567bc58e963379a6abaa70f197f0a187e30578f50e1e5"
 [[files]]
 file = "kubejs/README.txt"
 hash = "0c0358a21c23f97ce317a653740cc750f8dfa59d6948bf4cb3e6413e68def9b3"
+
+[[files]]
+file = "kubejs/assets/advanced_ae/lang/hu_hu.json"
+hash = "621e35bb1c5ed8d85ae6c110cbc498252a855d6ca43dd93455e98a9350e22541"
+
+[[files]]
+file = "kubejs/assets/ae2/lang/hu_hu.json"
+hash = "c3c84a2780837966d67de56e9e21967522db18e4d314f4f0d399dccfc0c3518f"
 
 [[files]]
 file = "kubejs/assets/aeronautics/lang/hu_hu.json"
@@ -105,6 +117,10 @@ file = "kubejs/assets/emi_loot/lang/hu_hu.json"
 hash = "9f993df46947e4fd3ddfda04212daf4b22a3a038cbf7f4e071ec84ffdd4ee896"
 
 [[files]]
+file = "kubejs/assets/extendedae/lang/hu_hu.json"
+hash = "a7b0543c6916805d4f45ff6080c28cf01cb992108ae917a0b7700c2c31db3f1f"
+
+[[files]]
 file = "kubejs/assets/extra_gauges/lang/hu_hu.json"
 hash = "9c413420b80e84310ac35de85295655fb6b6210fd7b4f54bd2be2075adc86ad3"
 
@@ -151,6 +167,10 @@ hash = "d089e90b9184ab3f5ffad2af57fd611f90a98bc07326ead8978c1ee7ec87882a"
 [[files]]
 file = "kubejs/assets/mechanicals/lang/hu_hu.json"
 hash = "6eea64e760b9405ce4b218b6527afade31cb05b3fc32e39ceb2d26b7f34fcbe4"
+
+[[files]]
+file = "kubejs/assets/merequester/lang/hu_hu.json"
+hash = "effad13b6d821c2660c32e99c63f6a6d9f05bbb424a9d122b5f4cbdc44bd1411"
 
 [[files]]
 file = "kubejs/assets/minecraft/lang/hu_hu.json"
