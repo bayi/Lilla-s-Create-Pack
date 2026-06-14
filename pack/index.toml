@@ -513,6 +513,11 @@ hash = "af5b227b56eb612aa3d1975bde5827bf294c64407b375ff2d4d21749493b488d"
 metafile = true
 
 [[files]]
+file = "mods/glodium.pw.toml"
+hash = "8b30d03470cc27030f42b6719cdb8975f163ed336fc8592f0277a4291bb08aec"
+metafile = true
+
+[[files]]
 file = "mods/gravestone-mod.pw.toml"
 hash = "e88253c3633274c212b2c4628a26ba03ceba6afff561eb6f9488689fad4cad06"
 metafile = true
