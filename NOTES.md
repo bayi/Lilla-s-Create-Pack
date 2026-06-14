@@ -104,6 +104,8 @@ X create sifter ?
 - xy typing ... message translate
 - Remove recipe wheat + water = farmersdeligh:wheat_dough + Add 3xdough from flower + egg 
 X Supplementaries Wrench disable -> Marad
+- io.netty.handler.codec.EncoderException: Failed to encode packet 'clientbound/minecraft:custom_payload'
+  Caused by: java.lang.RuntimeException: Failed encoding custom payload carryon:sync_carry_data: java.lang.NullPointerException
 
 # Hosting
 - https://pebblehost.com/
