@@ -79,7 +79,7 @@ X create sifter ?
 + slice-and-dice
 
 # AE2
-- ae2
++ ae2
 - advancedAE
 - ae2wtlib
 - megacells

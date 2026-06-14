@@ -26,11 +26,19 @@ hash = "0c0358a21c23f97ce317a653740cc750f8dfa59d6948bf4cb3e6413e68def9b3"
 
 [[files]]
 file = "kubejs/assets/aeronautics/lang/hu_hu.json"
-hash = "38ee40c030e69065999bbd2b7c746d741f8c7cbadf194c2ea5298d5f17e8975b"
+hash = "3b7d4864f7706550492aab5bc5fd105256dc3010c0a81acc9bcce779d464ee02"
 
 [[files]]
 file = "kubejs/assets/amendments/lang/hu_hu.json"
-hash = "e9420a237433e6e18e6204b069a3bdb6396072ab1688bbab0f128d41739789c9"
+hash = "cbd767ef2c21061efe9a842a37c33dbcbf39eb711dd79df86e45b891bc86d79e"
+
+[[files]]
+file = "kubejs/assets/balm/lang/hu_hu.json"
+hash = "492f829a96457353ca2f014b16839b57ba4ceb2393430ab0120ff6c08d8f58d7"
+
+[[files]]
+file = "kubejs/assets/betteradvancements/lang/hu_hu.json"
+hash = "68cc0018940ed945228984f92be699476878ca9ff1087dd80e276c8df563dd57"
 
 [[files]]
 file = "kubejs/assets/carryon/lang/hu_hu.json"
@@ -39,6 +47,90 @@ hash = "cfd632a07d729c9d823b0d2ed08646c2f8df7db951f153d1f814c1c6655f602f"
 [[files]]
 file = "kubejs/assets/chatplus/lang/hu_hu.json"
 hash = "681e29f6943bcebb052a26be94efc16c77327547f4a25a079ccef3aeba8a6f53"
+
+[[files]]
+file = "kubejs/assets/create_enchantment_industry/lang/hu_hu.json"
+hash = "e802242ef9db2c8b2240b716cf7656068358e5c69d1fef6baccad6370a5f9601"
+
+[[files]]
+file = "kubejs/assets/create_mechanical_extruder/lang/hu_hu.json"
+hash = "6cce5fd042c766351bc3a69e8c04cb23d8e83f351e535711f0d6cf3fd8d3bb5a"
+
+[[files]]
+file = "kubejs/assets/create_pattern_schematics/lang/hu_hu.json"
+hash = "dabd9d17847b6d2785d0839af278277a1cf1ed3160050a506c9288535402efcc"
+
+[[files]]
+file = "kubejs/assets/create_sa/lang/hu_hu.json"
+hash = "dc8618074044deecb337fbf876088ef85adbec7472d464d30294f87b52df452f"
+
+[[files]]
+file = "kubejs/assets/create_vibrant_vaults/lang/hu_hu.json"
+hash = "1994e4145be2615dccd14eb95e3fe21f720d0f5a87540546125aff1d1fbb334f"
+
+[[files]]
+file = "kubejs/assets/createaddition/lang/hu_hu.json"
+hash = "b003f788ddababca8abaaaaa168773bbb861d1a1b69791d8f9d1f53adaef7779"
+
+[[files]]
+file = "kubejs/assets/createcasing/lang/hu_hu.json"
+hash = "bbe92436882e54acf02e60f415db4f2c35a47090f167a6013d422e3961a56f31"
+
+[[files]]
+file = "kubejs/assets/createdeco/lang/hu_hu.json"
+hash = "03d2128ae2390f714d8622ae5365d6a50d3936b46eeaca3f04b81b635c23358b"
+
+[[files]]
+file = "kubejs/assets/curios/lang/hu_hu.json"
+hash = "569af961129bf3ac56e64542d32fb75099f90a81668a08c6c48feb3b9693b54c"
+
+[[files]]
+file = "kubejs/assets/deployer/lang/hu_hu.json"
+hash = "3f5fd39d8a483ed62718157efcb89a7e6c7a1f2a982254013c3f8aec1560a84e"
+
+[[files]]
+file = "kubejs/assets/dndecor/lang/hu_hu.json"
+hash = "f026e6f663bb1599834a2d718306e14703f13cb392e37b94dbe2f174f5a7bfad"
+
+[[files]]
+file = "kubejs/assets/emi/lang/hu_hu.json"
+hash = "d63a3e0484af22475a740941a6da9c6ebfb50ff63ef9b31a37490549d1055c20"
+
+[[files]]
+file = "kubejs/assets/emi_enchanting/lang/hu_hu.json"
+hash = "8955f74b8beb96781ce6a226db8b6300a00ace19ce33cda89c1afd2bfc1d5001"
+
+[[files]]
+file = "kubejs/assets/emi_loot/lang/hu_hu.json"
+hash = "9f993df46947e4fd3ddfda04212daf4b22a3a038cbf7f4e071ec84ffdd4ee896"
+
+[[files]]
+file = "kubejs/assets/extra_gauges/lang/hu_hu.json"
+hash = "9c413420b80e84310ac35de85295655fb6b6210fd7b4f54bd2be2075adc86ad3"
+
+[[files]]
+file = "kubejs/assets/farmersdelight/lang/hu_hu.json"
+hash = "60f6d55959728b45023a5e4089d1eb1c0720b4609abb629c4f9debabc3a910d5"
+
+[[files]]
+file = "kubejs/assets/fzzy_config/lang/hu_hu.json"
+hash = "3ab1d17557c312311835f09a988a8d7a7d49bca7175992a3bf82aa4608e462c9"
+
+[[files]]
+file = "kubejs/assets/geore/lang/hu_hu.json"
+hash = "fd197e493be95d67e10208b2ba6bdcc8f309a62360ba2d216fe56a0cccf4129c"
+
+[[files]]
+file = "kubejs/assets/inventoryessentials/lang/hu_hu.json"
+hash = "67b93cb6f4c4a303e299e6ceb806a8ecf4aef688ec5512cd6945e239a1061759"
+
+[[files]]
+file = "kubejs/assets/jade/lang/hu_hu.json"
+hash = "3edfe185844de882dfc1d93f95f515f9213a1bf79d59813d5e78ccd38062fae3"
+
+[[files]]
+file = "kubejs/assets/legendarytooltips/lang/hu_hu.json"
+hash = "470a98d6d78576d892ddc2c15a14570dd432fc778343249cceb360dafbcb9d37"
 
 [[files]]
 file = "kubejs/assets/lillascreate/blockstates/trophy.json"
@@ -57,16 +149,40 @@ file = "kubejs/assets/lillascreate/textures/item/trophy.png"
 hash = "d089e90b9184ab3f5ffad2af57fd611f90a98bc07326ead8978c1ee7ec87882a"
 
 [[files]]
+file = "kubejs/assets/mechanicals/lang/hu_hu.json"
+hash = "6eea64e760b9405ce4b218b6527afade31cb05b3fc32e39ceb2d26b7f34fcbe4"
+
+[[files]]
 file = "kubejs/assets/minecraft/lang/hu_hu.json"
-hash = "2a258764fe0317d789372189ed5c1898707a4bc913517e830927127855adbeb7"
+hash = "26e479ba1162efedc2310d3c579d2d82e764557f42011490d3f08b743e17a406"
+
+[[files]]
+file = "kubejs/assets/moonlight/lang/hu_hu.json"
+hash = "8c9e095e00cfeb9cdbb06fbca80171b7843c58d2d1687041596cdb93bda248f0"
 
 [[files]]
 file = "kubejs/assets/offroad/lang/hu_hu.json"
 hash = "b473439db00fa29413813d13fc51bd33c99161b7df7e686c4258a8269f4adf5c"
 
 [[files]]
+file = "kubejs/assets/railways/lang/hu_hu.json"
+hash = "4ef8abbaa7132bb2d17b9e609bf202f0464a4fd8cf418aa215c857a1ff6f781c"
+
+[[files]]
+file = "kubejs/assets/sable/lang/hu_hu.json"
+hash = "eb2e8fe459c59fce9073b1354d2cf3a86a3083cb5d5c7ec0ba5048466866ab0e"
+
+[[files]]
+file = "kubejs/assets/shulkerboxtooltip/lang/hu_hu.json"
+hash = "9e064a2a7ea09600e51d93a9a6353d4b83c145946030bfd09c95f53872843318"
+
+[[files]]
 file = "kubejs/assets/simulated/lang/hu_hu.json"
-hash = "fc1cd698a19bbf5ca6cd952beae3942d66bb7b58e048124eaef9b5ae5dc32dfc"
+hash = "794906716b3ef5bddd47455e87fd313b4820079cd87eae68a213d2a986a777c9"
+
+[[files]]
+file = "kubejs/assets/sodium/lang/hu_hu.json"
+hash = "905f14d7c0641faf63778d5276556172eb350b9bc3b9c8c1f37a5056f0928ba4"
 
 [[files]]
 file = "kubejs/assets/sophisticatedbackpacks/lang/hu_hu.json"
@@ -78,15 +194,23 @@ hash = "af4d68866a5507ba948462c21238e733a894f063d8584945d3a8b2e2d97dcf76"
 
 [[files]]
 file = "kubejs/assets/supplementaries/lang/hu_hu.json"
-hash = "8722bb63faa5f852f9eb5ea239abb9127364e3043aa61ec42da70de79c874790"
+hash = "9bbe7837b4c87c340bb8015c9664b7e9abcfbd26ef8c8dce3e29b3f827c1c1ab"
+
+[[files]]
+file = "kubejs/assets/voicechat/lang/hu_hu.json"
+hash = "544bfc8a86e56d76846ea848cc7dd6e03090393e1480b5b91ff48df2255842b1"
+
+[[files]]
+file = "kubejs/assets/xaeroworldmap/lang/hu_hu.json"
+hash = "ca53813deb067b13ea13a8e649fe82a717b72f3e7b6ba179a2f1ba2281fb214e"
 
 [[files]]
 file = "kubejs/client_scripts/jei_hide.js"
-hash = "8740f695407e89a0dcc957de450ab62e709d2849685fa8a5496bb41671377e74"
+hash = "7b25db78e2e5bdc7b91381757bf4967ea2f72e4ce0ba42755b43717e198603c6"
 
 [[files]]
 file = "kubejs/client_scripts/trophy.js"
-hash = "c4ce673097cba7c315c22cc11bcaae811d968b9a141b51000fcfa20c2382c77e"
+hash = "cc4a6a3bdd07e91c29525fa72f1479c40a2de6e5ad28e10b28ae82d26e54e23b"
 
 [[files]]
 file = "kubejs/config/client.json"
@@ -105,12 +229,16 @@ file = "kubejs/config/web_server.json"
 hash = "bd46a4677935351bf47db4fd26667064d4ccbbdfad21554888649b28d29b3044"
 
 [[files]]
+file = "kubejs/data/geore/tags/block/budding_geore.json"
+hash = "bef4d172fc1bfb34d342e79090726c4a0c272dd404783c3ea022b992e0e0415e"
+
+[[files]]
 file = "kubejs/server_scripts/endermen_tamer.js"
 hash = "f8e08f6eea6eb70605316de95f41ac4211a13b2500c1905f2ef2993c883c0e4b"
 
 [[files]]
 file = "kubejs/server_scripts/recipes_remove.js"
-hash = "0856e4921178fcb5e9179e96d30791f44475f8df258092e4405d0a75b7080da4"
+hash = "40dd3f326788d6b191601f838ded0c32c25aad958b514b0120ae4a2b26b28283"
 
 [[files]]
 file = "kubejs/server_scripts/trophy.js"
@@ -122,7 +250,7 @@ hash = "8d113b4d19f087857a28e384c2f42e4327c793b8eb38041a49d6d79b2fe79439"
 
 [[files]]
 file = "kubejs/startup_scripts/trophy.js"
-hash = "edf2cc8a19856924f9837ae57716d22eabb66a21afcbc8c80c21d96cea77eac9"
+hash = "dafe9b8541f251550fbf47d21b82ba312d8b1cfc0444489e306c83f45b594799"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
@@ -132,6 +260,11 @@ metafile = true
 [[files]]
 file = "mods/advancement-plaques.pw.toml"
 hash = "2b02594380f31aa857c89d296afb53bec67621b491956be09a54ab6845552e2a"
+metafile = true
+
+[[files]]
+file = "mods/ae2.pw.toml"
+hash = "ed45c352a49b65c7221e57d979d0c6935522dfef4968aa5b7421f4d3e670ce40"
 metafile = true
 
 [[files]]
@@ -347,6 +480,11 @@ metafile = true
 [[files]]
 file = "mods/gravestone-x-curios-api-compat.pw.toml"
 hash = "89321cbcc8789aca2ba0e70cbd3e498de493a5f2b9db51f9c72d65d99c7afee7"
+metafile = true
+
+[[files]]
+file = "mods/guideme.pw.toml"
+hash = "012e69931380a8d5b73776d255292d7d4c2cd12089273807dda56f944568eba0"
 metafile = true
 
 [[files]]
