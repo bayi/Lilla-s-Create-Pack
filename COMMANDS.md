@@ -72,3 +72,7 @@ packwiz mr add farmers-delight
 packwiz mr add slice-and-dice
 
 packwiz mr add ae2
+packwiz mr add applied-energistics-2-wireless-terminals
+packwiz mr add mega
+packwiz mr add advancedae
+packwiz mr add merequester

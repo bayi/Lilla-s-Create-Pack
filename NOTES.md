@@ -80,11 +80,11 @@ X create sifter ?
 
 # AE2
 + ae2
-- advancedAE
-- ae2wtlib
-- megacells
-- merequester
-- guideme
++ advancedAE
++ applied-energistics-2-wireless-terminals
++ mega
++ merequester
++ guideme
 
 # CC
 - cc:tweaked
