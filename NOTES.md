@@ -99,6 +99,7 @@ X create sifter ?
 - KubeJS: Add magnet
 - Curios: add elytra slot
 - Is Patchouli needed ?
+- xy typing ... message translate
 X Supplementaries Wrench disable -> Marad
 
 # Hosting
