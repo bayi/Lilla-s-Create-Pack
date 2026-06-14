@@ -37,7 +37,7 @@
 	#Alternator max input in FE (Energy transfer, not generation).
 	# Default: 5000
 	# Range: > 0
-	generator_max_output = 5000
+	generator_max_output = 10000
 	#Alternator internal capacity in FE.
 	# Default: 5000
 	# Range: > 0
