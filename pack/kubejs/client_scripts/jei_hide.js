@@ -1,7 +1,9 @@
 RecipeViewerEvents.removeEntries('item', event => {
 
   const itemsToHide = [
+    /^geore:.*(allthemodium|aluminum|black_quartz|lead|monazite|nickel|osmium|platinum|ruby|sapphire|silver|tin|topaz|tungsten|unobtainium|uraninite|uranium|vibranium).*/,
     /^sophisticatedbackpacks:(?!upgrade_base|crafting_upgrade|stonecutter_upgrade|anvil_upgrade|smithing_upgrade|stack_upgrade_(starter_tier|tier_1|tier_2|tier_3|tier_4)).*upgrade.*/,
+    /^createcasing:(.*creative|chorium_ingot)/,
     /^.*:.*incomplete.*/,
     /^.*:.*_spawn_egg$/,
     'sophisticatedbackpacks:stack_upgrade_tier_4',
@@ -25,7 +27,6 @@ RecipeViewerEvents.removeEntries('item', event => {
     'create_sa:drone_controller',
     'create_sa:creative_filling_tank',
     'moonlight:spawn_box',
-    /^geore:.*(allthemodium|aluminum|black_quartz|lead|monazite|nickel|osmium|platinum|ruby|sapphire|silver|tin|topaz|tungsten|unobtainium|uraninite|uranium|vibranium).*/,
     'easy_villagers:auto_trader',
     'easy_villagers:farmer',
     'easy_villagers:breeder',
