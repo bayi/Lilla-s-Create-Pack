@@ -25,6 +25,18 @@ const byOutput = [
 	'create_sa:copper_chestplate',
 	'create_sa:copper_leggings',
 	'create_sa:copper_boots',
+  'create_sa:flamethrower',
+  'create_sa:vault_component',
+  'create_sa:fan_component',
+  'create_sa:brass_drone_item',
+  'create_sa:drone_controller',
+  'create_sa:creative_filling_tank',
+  'easy_villagers:farmer',
+  'easy_villagers:breeder',
+  'easy_villagers:converter',
+  'easy_villagers:iron_farm',
+  'easy_villagers:incubator',
+  'easy_villagers:inventory_viewer',
 ]
 
 // Remove by ID
