@@ -99,7 +99,6 @@ X create sifter ?
 - KubeJS: Add magnet
 - Curios: add elytra slot
 - Is Patchouli needed ?
-? Move GeOres
 - CreateSA / Copper Backport conflict (copper pickaxe etc)
 X Supplementaries Wrench disable -> Marad
 
