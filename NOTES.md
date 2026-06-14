@@ -81,6 +81,7 @@ X create sifter ?
 # AE2
 + ae2
 + advancedAE
++ extended-ae
 + applied-energistics-2-wireless-terminals
 + mega
 + merequester
