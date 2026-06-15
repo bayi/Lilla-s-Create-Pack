@@ -87,4 +87,10 @@ ServerEvents.recipes(event => {
     [BlockPredicate.of('minecraft:gold_block'),BlockPredicate.of('minecraft:lava')]
   )
 
+  // Veridium
+  event.recipes.create_mechanical_extruder.extruding(
+    Item.of('create:veridium'),
+    [BlockPredicate.of('minecraft:prismarine'),BlockPredicate.of('minecraft:lava')]
+  )
+
 })
