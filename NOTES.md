@@ -94,11 +94,11 @@ X toms peripherals
 
 # TODO
 - KubeJS: Add magnet
-- Curios: add elytra slot ?
 - Is Patchouli needed ?
 - xy typing ... message translate
 - Remove recipe wheat + water = farmersdeligh:wheat_dough + Add 3xdough from flower + egg 
-X Supplementaries Wrench disable -> Marad
+X Curios: add elytra slot -> Nope
+X Supplementaries Wrench disable -> Stays
 
 # Hosting
 - https://pebblehost.com/
