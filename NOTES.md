@@ -72,7 +72,7 @@ X carry-on (Removed because of crashes with aeronautics in multiplayer)
 + geore
 + create-aeronautics (pinned: 1.2.1 -> Sodium) (+ Sable pinned: 1.2.2 -> Sodium)
 X create teleporters / create mechanical teleporter
-X create sifter ?
+X create sifter
 
 # Farmer's Delight
 + farmers-delight
@@ -99,9 +99,6 @@ X create sifter ?
 - xy typing ... message translate
 - Remove recipe wheat + water = farmersdeligh:wheat_dough + Add 3xdough from flower + egg 
 X Supplementaries Wrench disable -> Marad
-X Carry on crash: 
-    - io.netty.handler.codec.EncoderException: Failed to encode packet 'clientbound/minecraft:custom_payload'
-    - Caused by: java.lang.RuntimeException: Failed encoding custom payload carryon:sync_carry_data: java.lang.NullPointerException
 
 # Hosting
 - https://pebblehost.com/
