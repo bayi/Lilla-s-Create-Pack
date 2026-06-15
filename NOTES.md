@@ -94,7 +94,6 @@ X toms peripherals
 
 # TODO
 - Chat Plus config migrate
-- GeOre: Cluster Crushing
 X KubeJS: Add magnet (Not needed, advancedAE)
 X Is Patchouli needed ?
 X xy typing ... message translate (Its in watut config)
