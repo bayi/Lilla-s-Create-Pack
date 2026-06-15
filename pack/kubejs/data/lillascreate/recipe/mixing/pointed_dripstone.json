@@ -1,0 +1,20 @@
+{
+  "type": "create:mixing",
+  "heatRequirement": "none",
+  "ingredients": [
+    {
+      "item": "minecraft:calcite"
+    },
+    {
+      "type": "fluid_stack",
+      "amount": 125,
+      "fluid": "minecraft:water"
+    }
+  ],
+  "results": [
+    {
+      "count": 4,
+      "id": "minecraft:pointed_dripstone"
+    }
+  ]
+}
