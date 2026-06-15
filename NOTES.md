@@ -92,11 +92,6 @@ X create sifter ?
 - advancedperipherals
 - toms peripherals
 
-?? Power for AE2 ? -> Powah?
-
-# Translation needed
-- offroad fix
-
 # TODO
 - KubeJS: Add magnet
 - Curios: add elytra slot ?

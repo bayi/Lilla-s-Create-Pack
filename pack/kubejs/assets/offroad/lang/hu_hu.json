@@ -1,55 +1,51 @@
 {
+  "block.offroad.borehead_bearing": "Kővágó csapágy",
+  "block.offroad.rockcutting_wheel": "Kővágó kerék",
+  "block.offroad.wheel_mount": "Kerékrögzítő",
+  "block.offroad.wheel_mount.tooltip.behaviour1": "_Lefékezi_ a rögzített kereket, _növelve a súrlódást_.",
+  "block.offroad.wheel_mount.tooltip.behaviour2": "_Kormányozza_ a kereket a _jel irányába_.",
+  "block.offroad.wheel_mount.tooltip.condition1": "Ha felülről van megtáplálva",
+  "block.offroad.wheel_mount.tooltip.condition2": "Ha oldalról van megtáplálva",
+  "block.offroad.wheel_mount.tooltip.summary": "Kerék-szerű tárgyakat rögzít a földi közlekedéshez.",
+  "entity.offroad.borehead_contraption_entity": "Kővágó szerkezet entitás",
+  "item.offroad.large_tire": "Nagy kerék",
+  "item.offroad.large_tire.tooltip.behaviour1": "_Ráhelyezi_ az abroncsot a rögzítőre.",
+  "item.offroad.large_tire.tooltip.condition1": "Jobb klikkelésnél a kerékrögzítőn",
+  "item.offroad.large_tire.tooltip.summary": "Egy nagy _terepjáró kerék_.",
+  "item.offroad.monstrous_tire": "Hatalmas kerék",
+  "item.offroad.monstrous_tire.tooltip.behaviour1": "_Ráhelyezi_ az abroncsot a rögzítőre.",
+  "item.offroad.monstrous_tire.tooltip.condition1": "Jobb klikkelésnél a kerékrögzítőn",
+  "item.offroad.monstrous_tire.tooltip.summary": "Egy hatalmas _terepjáró kerék_.",
+  "item.offroad.small_tire": "Kis kerék",
+  "item.offroad.small_tire.tooltip.behaviour1": "_Ráhelyezi_ az abroncsot a rögzítőre.",
+  "item.offroad.small_tire.tooltip.condition1": "Jobb klikkelésnél a kerékrögzítőn",
+  "item.offroad.small_tire.tooltip.summary": "Egy _kis terepkerék_.",
+  "item.offroad.tire": "Kerék",
   "item.offroad.tire.placement_error": "Egy kerékrögzítő elejére kell helyezni!",
-
-  "block.offroad.wheel_mount.tooltip": {
-    "summary": "Kerék-szerű tárgyakat rögzít a földi közlekedéshez.",
-    "condition1": "Ha felülről van megtáplálva",
-    "behaviour1": "_Lefékezi_ a rögzített kereket, _növelve a súrlódást_.",
-    "condition2": "Ha oldalról van megtáplálva",
-    "behaviour2": "_Kormányozza_ a kereket a _jel irányába_."
-  },
-
-  "item.offroad.small_tire.tooltip": {
-    "summary": "Egy _kis terepkerék_.",
-    "condition1": "Jobb klikkelésnél a kerékrögzítőn",
-    "behaviour1": "_Ráhelyezi_ az abroncsot a rögzítőre."
-  },
-
-  "item.offroad.tire.tooltip": {
-    "summary": "Egy szabványos _terepjáró kerék_.",
-    "condition1": "Jobb klikkelésnél a kerékrögzítőn",
-    "behaviour1": "_Ráhelyezi_ az abroncsot a rögzítőre."
-  },
-
-  "item.offroad.large_tire.tooltip": {
-    "summary": "Egy nagy _terepjáró kerék_.",
-    "condition1": "Jobb klikkelésnél a kerékrögzítőn",
-    "behaviour1": "_Ráhelyezi_ az abroncsot a rögzítőre."
-  },
-
-  "item.offroad.monstrous_tire.tooltip": {
-    "summary": "Egy hatalmas _terepjáró kerék_.",
-    "condition1": "Jobb klikkelésnél a kerékrögzítőn",
-    "behaviour1": "_Ráhelyezi_ az abroncsot a rögzítőre."
-  },
-
-  "offroad": {
-    "simulated_section.offroad": "Offroad",
-    "tooltip.borehead_bearing_stress" : "Kővágó kerekek",
-
-    "scroll_option": {
-      "suspension_strength": "Felfüggesztés erőssége",
-      "suspension_strength_label": "Erősség"
-    },
-
-    "exceptions": {
-      "borehead_bearing" : {
-        "insuffecient_rockcutting_wheels": "A csatolt szerkezet nem tartalmaz _Kővágó_ _kerekeket_:\nLegalább _egy_ szükséges.",
-        "insuffecient_inventory_blocks": "A csatolt szerkezet nem tartalmaz _tároló_ blokkokat.",
-
-        "too_many_items" : "Ez a szerkezet nem tud ásni.",
-        "too_many_items_description" : "Nincs _elég_ _tárhely_ több blokk gyűjtéséhez. _Távolítsa el_ a felesleges tárgyakat az ásás folytatásához."
-      }
-    }
-  }
+  "item.offroad.tire.tooltip.behaviour1": "_Ráhelyezi_ az abroncsot a rögzítőre.",
+  "item.offroad.tire.tooltip.condition1": "Jobb klikkelésnél a kerékrögzítőn",
+  "item.offroad.tire.tooltip.summary": "Egy szabványos _terepjáró kerék_.",
+  "offroad.exceptions.borehead_bearing.insuffecient_inventory_blocks": "A csatolt szerkezet nem tartalmaz _tároló_ blokkokat.",
+  "offroad.exceptions.borehead_bearing.insuffecient_rockcutting_wheels": "A csatolt szerkezet nem tartalmaz _Kővágó_ _kerekeket_:\nLegalább _egy_ szükséges.",
+  "offroad.exceptions.borehead_bearing.too_many_items" : "Ez a szerkezet nem tud ásni.",
+  "offroad.exceptions.borehead_bearing.too_many_items_description" : "Nincs _elég_ _tárhely_ több blokk gyűjtéséhez. _Távolítsa el_ a felesleges tárgyakat az ásás folytatásához.",
+  "offroad.ponder.borehead_bearing_efficiency.header": "Borehead Bearing Efficiency",
+  "offroad.ponder.borehead_bearing_efficiency.text_1": "The more blocks a Borehead Bearing attempts to break, the slower it will operate",
+  "offroad.ponder.borehead_bearing_efficiency.text_2": "Using multiple Borehead Bearings can offset this",
+  "offroad.ponder.borehead_bearing_excavating.header": "Excavating Using Rock Cutting Wheels",
+  "offroad.ponder.borehead_bearing_excavating.text_1": "Unlike regular Drills, Rock Cutting Wheels break blocks in a range around themselves",
+  "offroad.ponder.borehead_bearing_intro.header": "Using Borehead Bearings and Rock Cutting Wheels",
+  "offroad.ponder.borehead_bearing_intro.text_1": "Borehead Bearings attach to the block in front of them",
+  "offroad.ponder.borehead_bearing_intro.text_2": "When a Storage Container and Rock Cutting Wheels are present, it can be used as a Drill",
+  "offroad.ponder.borehead_bearing_intro.text_3": "Rock Cutting Wheels will automatically attach to blocks and each other without need of Super Glue",
+  "offroad.ponder.borehead_bearing_intro.text_4": "The Borehead Bearing reverses the direction of Rotation...",
+  "offroad.ponder.borehead_bearing_intro.text_5": "...and spins at 0.25x the provided Rotational Speed",
+  "offroad.ponder.borehead_bearing_intro.text_6": "The mining speed depends on the Rotational Input...",
+  "offroad.ponder.borehead_bearing_intro.text_7": "...and drops are collected into the drill Storage automatically",
+  "offroad.ponder.borehead_bearing_intro.text_8": "When the drill Storage is full, it will be unable to continue breaking blocks",
+  "offroad.ponder.borehead_bearing_intro.text_9": "To remedy this, items can be extracted directly from the Borehead Bearing",
+  "offroad.scroll_option.suspension_strength": "Felfüggesztés erőssége",
+  "offroad.scroll_option.suspension_strength_label": "Erősség",
+  "offroad.simulated_section.offroad": "Offroad",
+  "offroad.tooltip.borehead_bearing_stress": "Kővágó kerekek"
 }
