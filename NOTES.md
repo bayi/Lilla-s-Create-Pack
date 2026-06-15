@@ -94,9 +94,11 @@ X toms peripherals
 
 # TODO
 - KubeJS: Add magnet
-- Is Patchouli needed ?
 - Remove recipe wheat + water = farmersdeligh:wheat_dough + Add 3xdough from flower + egg 
 - Check for renewable Tuff
+- Chat Plus config migrate
+- Add Obsidian from mixing laval and water
+X Is Patchouli needed ?
 X xy typing ... message translate (Its in watut config)
 X Curios: add elytra slot -> Nope
 X Supplementaries Wrench disable -> Stays
