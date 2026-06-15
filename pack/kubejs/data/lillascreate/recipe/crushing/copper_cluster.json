@@ -1,0 +1,24 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "geore:copper_cluster"
+    }
+  ], 
+  "results": [
+    {
+      "id": "geore:copper_shard",
+      "count": 2
+    },
+    {
+      "id": "geore:copper_shard",
+      "count": 1,
+      "chance": 0.5
+    },
+    {
+      "id": "geore:copper_shard",
+      "count": 1,
+      "chance": 0.25
+    }
+  ]
+}

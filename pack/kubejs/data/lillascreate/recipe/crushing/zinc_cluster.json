@@ -1,0 +1,24 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "geore:zinc_cluster"
+    }
+  ], 
+  "results": [
+    {
+      "id": "geore:zinc_shard",
+      "count": 2
+    },
+    {
+      "id": "geore:zinc_shard",
+      "count": 1,
+      "chance": 0.5
+    },
+    {
+      "id": "geore:zinc_shard",
+      "count": 1,
+      "chance": 0.25
+    }
+  ]
+}

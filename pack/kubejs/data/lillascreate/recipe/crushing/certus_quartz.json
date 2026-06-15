@@ -1,0 +1,24 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "ae2:quartz_cluster"
+    }
+  ], 
+  "results": [
+    {
+      "id": "ae2:certus_quartz_crystal",
+      "count": 4
+    },
+    {
+      "id": "ae2:certus_quartz_crystal",
+      "count": 1,
+      "chance": 0.5
+    },
+    {
+      "id": "ae2:certus_quartz_crystal",
+      "count": 1,
+      "chance": 0.25
+    }
+  ]
+}

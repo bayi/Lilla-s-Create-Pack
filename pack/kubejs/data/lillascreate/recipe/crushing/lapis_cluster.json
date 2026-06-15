@@ -1,0 +1,24 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "geore:lapis_cluster"
+    }
+  ], 
+  "results": [
+    {
+      "id": "geore:lapis_shard",
+      "count": 2
+    },
+    {
+      "id": "geore:lapis_shard",
+      "count": 1,
+      "chance": 0.5
+    },
+    {
+      "id": "geore:lapis_shard",
+      "count": 1,
+      "chance": 0.25
+    }
+  ]
+}
