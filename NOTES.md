@@ -96,6 +96,7 @@ X toms peripherals
 - KubeJS: Add magnet
 - Is Patchouli needed ?
 - Remove recipe wheat + water = farmersdeligh:wheat_dough + Add 3xdough from flower + egg 
+- Check for renewable Tuff
 X xy typing ... message translate (Its in watut config)
 X Curios: add elytra slot -> Nope
 X Supplementaries Wrench disable -> Stays
