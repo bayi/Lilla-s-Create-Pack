@@ -5,11 +5,11 @@
 	#Forge Energy conversion rate (in FE/t at 256 RPM, value is the FE/t generated and consumed is at 256rpm).
 	# Default: 480
 	# Range: > 0
-	fe_at_max_rpm = 480
+	fe_at_max_rpm = 1024
 	#Max stress for the Alternator and Electric Motor (in SU at 256 RPM).
 	# Default: 16384
 	# Range: > 0
-	max_stress = 32768
+	max_stress = 36804
 	#If audio should be enabled or not.
 	audio_enabled = true
 
@@ -37,11 +37,11 @@
 	#Alternator max input in FE (Energy transfer, not generation).
 	# Default: 5000
 	# Range: > 0
-	generator_max_output = 10000
+	generator_max_output = 4096
 	#Alternator internal capacity in FE.
 	# Default: 5000
 	# Range: > 0
-	generator_capacity = 5000
+	generator_capacity = 16384
 	#Alternator efficiency relative to base conversion rate.
 	# Default: 0.75
 	# Range: 0.01 ~ 1.0
@@ -67,11 +67,11 @@
 	#Small Connector max input in FE/t (Energy transfer).
 	# Default: 1000
 	# Range: > 0
-	small_connector_max_input = 1000
+	small_connector_max_input = 5000
 	#Small Connector max output in FE/t (Energy transfer).
 	# Default: 1000
 	# Range: > 0
-	small_connector_max_output = 1000
+	small_connector_max_output = 5000
 	#Small Connector max wire length in blocks.
 	# Default: 16
 	# Range: 0 ~ 256
@@ -83,11 +83,11 @@
 	#Large Connector max input in FE/t (Energy transfer).
 	# Default: 5000
 	# Range: > 0
-	large_connector_max_input = 5000
+	large_connector_max_input = 10000
 	#Large Connector max output in FE/t (Energy transfer).
 	# Default: 5000
 	# Range: > 0
-	large_connector_max_output = 5000
+	large_connector_max_output = 10000
 	#Large Connector max wire length in blocks.
 	# Default: 32
 	# Range: 0 ~ 256
@@ -102,11 +102,11 @@
 	#Accumulator max input in FE/t (Energy transfer).
 	# Default: 5000
 	# Range: > 0
-	accumulator_max_input = 5000
+	accumulator_max_input = 100000
 	#Accumulator max output in FE/t (Energy transfer).
 	# Default: 5000
 	# Range: > 0
-	accumulator_max_output = 5000
+	accumulator_max_output = 100000
 	#Accumulator internal capacity per block in FE.
 	# Default: 2000000
 	# Range: > 0
