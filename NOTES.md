@@ -102,3 +102,8 @@ X Supplementaries Wrench disable -> Marad
 
 # Hosting
 - https://pebblehost.com/
+
+# Mistranslations
+- Create: "Stress" -> "Nyomaték" (instead of "Feszültség" In create casing)
+- Create: "Vault" -> "Konténer" (Instead of "Boltozat" in create Stuff 'N' Additions). Note: Minecraft "Vaults" are called "Széf"
+
