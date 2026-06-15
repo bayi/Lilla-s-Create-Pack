@@ -310,12 +310,12 @@
 	/**
 	 * Toggle the visibility of EMI.
 	 */
-	toggle-visibility: "ctrl key.keyboard.o";
+	toggle-visibility: "key.keyboard.unknown";
 
 	/**
 	 * Focuses the search bar.
 	 */
-	focus-search: "ctrl key.keyboard.f";
+	focus-search: "key.keyboard.unknown";
 
 	/**
 	 * Clears the search bar.
