@@ -93,8 +93,9 @@ X advancedperipherals
 X toms peripherals
 
 # TODO
-- KubeJS: Add magnet
 - Chat Plus config migrate
+- GeOre: Crushing
+X KubeJS: Add magnet (Not needed, advancedAE)
 X Is Patchouli needed ?
 X xy typing ... message translate (Its in watut config)
 X Curios: add elytra slot -> Nope
