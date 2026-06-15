@@ -88,9 +88,9 @@ X create sifter
 + guideme
 
 # CC
-- cc:tweaked
-- advancedperipherals
-- toms peripherals
+X cc:tweaked
+X advancedperipherals
+X toms peripherals
 
 # TODO
 - KubeJS: Add magnet
