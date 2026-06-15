@@ -99,7 +99,7 @@ X create sifter ?
 
 # TODO
 - KubeJS: Add magnet
-- Curios: add elytra slot
+- Curios: add elytra slot ?
 - Is Patchouli needed ?
 - xy typing ... message translate
 - Remove recipe wheat + water = farmersdeligh:wheat_dough + Add 3xdough from flower + egg 
