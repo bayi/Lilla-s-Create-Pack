@@ -1,0 +1,24 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "extendedae:entro_cluster"
+    }
+  ], 
+  "results": [
+    {
+      "id": "extendedae:entro_crystal",
+      "count": 1
+    },
+    {
+      "id": "extendedae:entro_crystal",
+      "count": 1,
+      "chance": 0.5
+    },
+    {
+      "id": "extendedae:entro_crystal",
+      "count": 1,
+      "chance": 0.25
+    }
+  ]
+}
