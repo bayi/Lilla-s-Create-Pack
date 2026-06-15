@@ -104,6 +104,6 @@ X Supplementaries Wrench disable -> Marad
 - https://pebblehost.com/
 
 # Mistranslations
-- Create: "Stress" -> "Nyomaték" (instead of "Feszültség" In create casing)
+- Create: "Stress" -> "Kinetikus Feszültség" or "Nyomaték" depending on usage. (instead of "Feszültség" In create casing) Keep SU as it is.
 - Create: "Vault" -> "Konténer" (Instead of "Boltozat" in create Stuff 'N' Additions). Note: Minecraft "Vaults" are called "Széf"
 

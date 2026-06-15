@@ -78,7 +78,7 @@
 	wirelessBaseCost = 1.0
 	# Default: 1.0
 	# Range: 4.9E-324 ~ 1.7976931348623157E308
-	wirelessCostMultiplier = 0.5
+	wirelessCostMultiplier = 0.25
 	# Default: 16.0
 	# Range: 4.9E-324 ~ 1.7976931348623157E308
 	wirelessBaseRange = 16.0
