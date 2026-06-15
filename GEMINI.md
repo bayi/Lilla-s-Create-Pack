@@ -2,7 +2,7 @@
 
 ## General Information
 
-This is a modpack centered around Create, Farmer's Delight, AE2 and Computer Craft. It is designed to be a fun and challenging experience for players who enjoy automation, farming, and exploration. The modpack includes a variety of mods that enhance the gameplay experience, including new machines, tools, and resources.
+This is a modpack centered around Create, Farmer's Delight and AE2. It is designed to be a fun and challenging experience for players who enjoy automation, farming, and exploration. The modpack includes a variety of mods that enhance the gameplay experience, including new machines, tools, and resources.
 
 The mode files and dependencies are managed through `packwiz`. A Makefile is provided to automate the process of updating, exporting the modpack.
 
