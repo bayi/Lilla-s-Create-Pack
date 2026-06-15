@@ -1,12 +1,32 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/ae2-common.toml"
+hash = "e45e02b36ebd9d89ce2de2f5a817d3e54d8d1702127ae6cff6c73bc05cc25a87"
+
+[[files]]
+file = "config/copycats-common.toml"
+hash = "a19aaebcbdd510383499be16fcc7974a2ac898efad6f1030700c22c0f7112417"
+
+[[files]]
+file = "config/create-server.toml"
+hash = "d60148da5e9d1d7de5a2d0a907610555b272362c55be538df18337d9738d0273"
+
+[[files]]
+file = "config/create-stuff-additions.toml"
+hash = "514c5a5e4bc14ea6b5d513e31d2854b626301700ab17f981e182ca3a0341c367"
+
+[[files]]
 file = "config/createaddition-common.toml"
-hash = "81ec1219404bc50e6f188b63e44e37939ab713c75495799791629d0876789727"
+hash = "530858c8cef88763ce5533147b5e505005124e7451d401915e8844adcd1bb520"
 
 [[files]]
 file = "config/emi.css"
-hash = "9fa24b9307a960428865fddf89bf18ad0659141055e918cd113a3e510a2d2b7f"
+hash = "f632e121e45e988bc2ed400386c1b0e8d9d4fa2fe878f74013cf4e6ad68cc258"
+
+[[files]]
+file = "config/gravestone-server.toml"
+hash = "988716181a7da42501e3a2cb300914062658d0b62744b631c852bb0cd9509429"
 
 [[files]]
 file = "config/jade/hide-blocks.json"
@@ -23,6 +43,10 @@ hash = "24b29c9c1de0b7feb916d8671881d43858e037149b5925143786c63df3b21b2f"
 [[files]]
 file = "config/jade/sort-order.json"
 hash = "f7c5c74625973db16b2567bc58e963379a6abaa70f197f0a187e30578f50e1e5"
+
+[[files]]
+file = "config/sophisticatedcore-common.toml"
+hash = "f4acdbf3ffac6dd2c8b5141045e98bdfd8c181665d76a33b9a850c2af2c6acf0"
 
 [[files]]
 file = "kubejs/README.txt"
@@ -238,7 +262,7 @@ hash = "e00a67922942660d77c213379b5128a46c5abc894178b0be04006d325ff5f6b3"
 
 [[files]]
 file = "kubejs/config/defaultoptions.txt"
-hash = "72c3d547e2152cf8a183cec2e111749f9f6cf3a60ff3430091431e328f645e28"
+hash = "97d9631ba41fca132eb3dd47dc3b9b29c9afa75bb93d61932a4e4941a6fd74b0"
 
 [[files]]
 file = "kubejs/config/web_server.json"
