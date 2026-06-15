@@ -94,7 +94,6 @@ X toms peripherals
 
 # TODO
 - KubeJS: Add magnet
-- Remove recipe wheat + water = farmersdeligh:wheat_dough + Add 3xdough from flower + egg 
 - Chat Plus config migrate
 X Is Patchouli needed ?
 X xy typing ... message translate (Its in watut config)
