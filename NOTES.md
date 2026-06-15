@@ -15,7 +15,6 @@
 + advancement-plaques
 + ambient-environment
 + better-advancements
-+ carry-on
 + chat-plus
 + curios
 + emi
@@ -38,6 +37,7 @@
 + sound-physics-remastered
 + what-are-they-up-to
 + xaeros-world-map
+X carry-on (Removed because of crashes with aeronautics in multiplayer)
 
 # Extra Blocks
 + amendments
@@ -104,8 +104,9 @@ X create sifter ?
 - xy typing ... message translate
 - Remove recipe wheat + water = farmersdeligh:wheat_dough + Add 3xdough from flower + egg 
 X Supplementaries Wrench disable -> Marad
-- io.netty.handler.codec.EncoderException: Failed to encode packet 'clientbound/minecraft:custom_payload'
-  Caused by: java.lang.RuntimeException: Failed encoding custom payload carryon:sync_carry_data: java.lang.NullPointerException
+X Carry on crash: 
+    - io.netty.handler.codec.EncoderException: Failed to encode packet 'clientbound/minecraft:custom_payload'
+    - Caused by: java.lang.RuntimeException: Failed encoding custom payload carryon:sync_carry_data: java.lang.NullPointerException
 
 # Hosting
 - https://pebblehost.com/

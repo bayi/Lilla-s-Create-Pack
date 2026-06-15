@@ -53,10 +53,6 @@ file = "kubejs/assets/betteradvancements/lang/hu_hu.json"
 hash = "68cc0018940ed945228984f92be699476878ca9ff1087dd80e276c8df563dd57"
 
 [[files]]
-file = "kubejs/assets/carryon/lang/hu_hu.json"
-hash = "cfd632a07d729c9d823b0d2ed08646c2f8df7db951f153d1f814c1c6655f602f"
-
-[[files]]
 file = "kubejs/assets/chatplus/lang/hu_hu.json"
 hash = "681e29f6943bcebb052a26be94efc16c77327547f4a25a079ccef3aeba8a6f53"
 
@@ -335,11 +331,6 @@ metafile = true
 [[files]]
 file = "mods/better-advancements.pw.toml"
 hash = "93c4acd165a291c6d1e69c27b05b2747afc926b38a414712263fbc95f42da323"
-metafile = true
-
-[[files]]
-file = "mods/carry-on.pw.toml"
-hash = "c5e47d922e39c1556dc2e8c94bfe852cf16de14f65b99eb3e054e41745dddad0"
 metafile = true
 
 [[files]]
