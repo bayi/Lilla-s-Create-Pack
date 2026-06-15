@@ -18,3 +18,6 @@ key_key.sophisticatedbackpacks.toggle_upgrade_2:key.keyboard.unknown
 key_key.sophisticatedbackpacks.toggle_upgrade_1:key.keyboard.unknown
 key_key.sophisticatedbackpacks.toggle_upgrade_5:key.keyboard.unknown
 key_key.entityculling.toggle:key.keyboard.unknown
+key_key.easy_villagers.cycle_trades:key.keyboard.unknown
+key_key.advanced_ae.quantum_armor_config:key.keyboard.c
+key_key.ae2.wireless_terminal:key.keyboard.e:CONTROL

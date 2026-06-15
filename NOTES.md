@@ -108,3 +108,4 @@ X Supplementaries Wrench disable -> Marad
 - Create: "Vault" -> "Konténer" (Instead of "Boltozat" in create Stuff 'N' Additions). Note: Minecraft "Vaults" are called "Széf"
 - Create: "Blaze Cake" -> "Őrlángtorta"
 - Create: "Blaze Burner" -> "Őrlángégő"
+- Sophisticated Backpacks keybindings shorten: "1. helyen lévő fejlesztés be-/kikapcsolása" -> "1. fejlesztés be/ki"
