@@ -242,7 +242,7 @@ hash = "ca53813deb067b13ea13a8e649fe82a717b72f3e7b6ba179a2f1ba2281fb214e"
 
 [[files]]
 file = "kubejs/client_scripts/jei_hide.js"
-hash = "7b25db78e2e5bdc7b91381757bf4967ea2f72e4ce0ba42755b43717e198603c6"
+hash = "46751293d13926dd1693037446a3927f2988ffe8cacc473ee14cfaa403ac84a0"
 
 [[files]]
 file = "kubejs/client_scripts/trophy.js"

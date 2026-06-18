@@ -94,9 +94,10 @@ X toms peripherals
 
 # TODO
 - Chat Plus config migrate
-- Diamond energy generator ?
-- Create: Power Grid ?
 - Weather mod ? Project: Atmosphere vs Weather Storms & Tornades vs Angel's Weather (resource pack)
+- Create Liquid Fuel not working
++ Create: Power Grid ?
+X Diamond energy generator ?
 X KubeJS: Add magnet (Not needed, advancedAE)
 X Is Patchouli needed ?
 X xy typing ... message translate (Its in watut config)
