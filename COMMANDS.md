@@ -49,7 +49,6 @@ packwiz mr add create
 packwiz mr add kubejs-create
 packwiz mr add create-deco
 packwiz mr add create-encased
-packwiz mr add create-liquid-fuel
 packwiz mr add create-dragons-plus
 packwiz mr add create-enchantment-industry
 packwiz mr add create-vibrant-vaults

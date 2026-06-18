@@ -55,7 +55,6 @@ X carry-on (Removed because of crashes with aeronautics in multiplayer)
 + create
 + create-deco
 + create-encased
-+ create-liquid-fuel
 + create-stuff-additions
 + copycats
 + create-dragons-plus
@@ -95,7 +94,6 @@ X toms peripherals
 # TODO
 - Chat Plus config migrate
 - Weather mod ? Project: Atmosphere vs Weather Storms & Tornades vs Angel's Weather (resource pack)
-- Create Liquid Fuel not working
 + Create: Power Grid ?
 X Diamond energy generator ?
 X KubeJS: Add magnet (Not needed, advancedAE)
