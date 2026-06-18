@@ -1,5 +1,5 @@
 {
-  "item.create_sa.vault_component": "Boltozat-alkatrész",
+  "item.create_sa.vault_component": "Konténer-alkatrész",
   "item.create_sa.portable_drill.description_0": "",
   "item_desc.jetpack.spacewater": "§7Tér a vízben",
   "item_desc.andesite_exoskeleton.desc": "Növeli a viselő §dfizikai képességeit. §5Sokkal gyorsabban bányászik §düzemanyag §5fogyasztása mellett. Újratölthető §dÜzemanyagtartállyal §5vagy szénnel (tárgy a másik kézben, és dobd le az üzemanyagot).",
@@ -198,5 +198,5 @@
   "item.create_sa.blazing_axe.description_0": "",
   "enchantment.create_sa.hellfire": "Pokoltűz",
   "entity.create_sa.brass_drone": "Sárgaréz drón",
-  "entity.create_sa.vault_module": "Boltozat-modul"
+  "entity.create_sa.vault_module": "Konténer-modul"
 }
