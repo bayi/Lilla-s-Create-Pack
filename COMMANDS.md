@@ -76,3 +76,4 @@ packwiz mr add advancedae
 packwiz mr add extended-ae
 packwiz mr add mega
 packwiz mr add merequester
+packwiz mr add glodium
