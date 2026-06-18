@@ -496,11 +496,6 @@ hash = "9632e3a695f69473d879e285e46007fd5037cb5abc8db02a8bec79689864d0fc"
 metafile = true
 
 [[files]]
-file = "mods/create-liquid-fuel.pw.toml"
-hash = "2af9229718d9edb1eaa4b88fac0063ab2f5f7ba7650a4efa5f0a8e6ce25549cd"
-metafile = true
-
-[[files]]
 file = "mods/create-mechanical-extruder.pw.toml"
 hash = "d9225b81ab77d2d312cbce47d220fc342179d9081a6a4cf831f36184f6a62258"
 metafile = true
