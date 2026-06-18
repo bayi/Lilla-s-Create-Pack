@@ -65,11 +65,11 @@ X carry-on (Removed because of crashes with aeronautics in multiplayer)
 + create-steam-n-rails-1.21.1
 + create-vibrant-vaults
 + create-design-n-decor
-+ createaddition
 + kubejs-create
 + create-mechanical-extruder
 + create-power-loader
 + geore
++ power-grid
 + create-aeronautics (pinned: 1.2.1 -> Sodium) (+ Sable pinned: 1.2.2 -> Sodium)
 X create teleporters / create mechanical teleporter
 X create sifter

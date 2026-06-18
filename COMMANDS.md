@@ -63,10 +63,10 @@ packwiz mr add https://modrinth.com/mod/sable/version/3FMsUjO4
 packwiz pin sable
 packwiz mr add https://modrinth.com/mod/create-aeronautics/version/YhZLrAFC
 packwiz pin create-aeronautics
-packwiz mr add createaddition
 packwiz mr add copycats
 packwiz mr add extra-gauges
 packwiz mr add geore
+packwiz mr add power-grid
 
 packwiz mr add farmers-delight
 packwiz mr add slice-and-dice
