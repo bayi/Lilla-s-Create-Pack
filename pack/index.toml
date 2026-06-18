@@ -17,10 +17,6 @@ file = "config/create-stuff-additions.toml"
 hash = "514c5a5e4bc14ea6b5d513e31d2854b626301700ab17f981e182ca3a0341c367"
 
 [[files]]
-file = "config/createaddition-common.toml"
-hash = "530858c8cef88763ce5533147b5e505005124e7451d401915e8844adcd1bb520"
-
-[[files]]
 file = "config/emi.css"
 hash = "f632e121e45e988bc2ed400386c1b0e8d9d4fa2fe878f74013cf4e6ad68cc258"
 
@@ -45,6 +41,10 @@ file = "config/jade/sort-order.json"
 hash = "f7c5c74625973db16b2567bc58e963379a6abaa70f197f0a187e30578f50e1e5"
 
 [[files]]
+file = "config/powergrid-server.toml"
+hash = "fdb4e75c7b488b022ec72a5f5d9eb954cc0150ec019ba82e7f601db9f76400d0"
+
+[[files]]
 file = "config/sophisticatedcore-common.toml"
 hash = "f4acdbf3ffac6dd2c8b5141045e98bdfd8c181665d76a33b9a850c2af2c6acf0"
 
@@ -54,7 +54,7 @@ hash = "0c0358a21c23f97ce317a653740cc750f8dfa59d6948bf4cb3e6413e68def9b3"
 
 [[files]]
 file = "kubejs/assets/advanced_ae/lang/hu_hu.json"
-hash = "621e35bb1c5ed8d85ae6c110cbc498252a855d6ca43dd93455e98a9350e22541"
+hash = "40aaedf94e2518d56ce7b76918f671e0a461f80d0c75dd3fca191835b9d10a47"
 
 [[files]]
 file = "kubejs/assets/ae2/lang/hu_hu.json"
@@ -101,10 +101,6 @@ file = "kubejs/assets/create_vibrant_vaults/lang/hu_hu.json"
 hash = "1994e4145be2615dccd14eb95e3fe21f720d0f5a87540546125aff1d1fbb334f"
 
 [[files]]
-file = "kubejs/assets/createaddition/lang/hu_hu.json"
-hash = "b003f788ddababca8abaaaaa168773bbb861d1a1b69791d8f9d1f53adaef7779"
-
-[[files]]
 file = "kubejs/assets/createcasing/lang/hu_hu.json"
 hash = "bbe92436882e54acf02e60f415db4f2c35a47090f167a6013d422e3961a56f31"
 
@@ -138,7 +134,7 @@ hash = "9f993df46947e4fd3ddfda04212daf4b22a3a038cbf7f4e071ec84ffdd4ee896"
 
 [[files]]
 file = "kubejs/assets/extendedae/lang/hu_hu.json"
-hash = "a7b0543c6916805d4f45ff6080c28cf01cb992108ae917a0b7700c2c31db3f1f"
+hash = "c6f2e66056d11e8868b8e548b7ebe62e628c233613646ade6f043f6c08cfff04"
 
 [[files]]
 file = "kubejs/assets/extra_gauges/lang/hu_hu.json"
@@ -226,7 +222,7 @@ hash = "905f14d7c0641faf63778d5276556172eb350b9bc3b9c8c1f37a5056f0928ba4"
 
 [[files]]
 file = "kubejs/assets/sophisticatedbackpacks/lang/hu_hu.json"
-hash = "92046a3450c74d38c60f11c1efd7ca24254036edebe0f8704033fcc7ff97c587"
+hash = "c56356d1a03eb85819ab207dc4d47de046c68aa0472b2e26f3ac48c491c772ee"
 
 [[files]]
 file = "kubejs/assets/sophisticatedcore/lang/hu_hu.json"
@@ -273,8 +269,100 @@ file = "kubejs/data/geore/tags/block/budding_geore.json"
 hash = "bef4d172fc1bfb34d342e79090726c4a0c272dd404783c3ea022b992e0e0415e"
 
 [[files]]
+file = "kubejs/data/lillascreate/recipe/compacting/calcite.json"
+hash = "220b4780ca408e392c2ffbfe73b05aaec52fe401b8329ca7b6120bdfa83b9f81"
+
+[[files]]
+file = "kubejs/data/lillascreate/recipe/compacting/ink_sac.json"
+hash = "63d732a61b94a79c89b8ad10662ad8453f7321bf0fd959c5cdfba47fae076934"
+
+[[files]]
+file = "kubejs/data/lillascreate/recipe/compacting/tuff.json"
+hash = "c1c2061256a0a9d66b28a8012d37f30670323386f233bca92abe9f5ce6316378"
+
+[[files]]
+file = "kubejs/data/lillascreate/recipe/crushing/ancient_debris_cluster.json"
+hash = "eb94f6947b1590c61c50eed455dd27563becc122fd112e57c5ae276969107435"
+
+[[files]]
+file = "kubejs/data/lillascreate/recipe/crushing/certus_quartz.json"
+hash = "ed61016b6b9640f9f285418be3d5bcdebd48e6a8c573d94ae02e3d3108711493"
+
+[[files]]
+file = "kubejs/data/lillascreate/recipe/crushing/coal_cluster.json"
+hash = "20a88dc0cfd7eeb1a2c2ae6015d70c2bf7876adaf35486e39b1a89c0ff6049f2"
+
+[[files]]
+file = "kubejs/data/lillascreate/recipe/crushing/copper_cluster.json"
+hash = "44dec5b85c9e08a0e8ec7d0bca65ed49a6be19e75fb25d4b53b6d0c5c265ae91"
+
+[[files]]
+file = "kubejs/data/lillascreate/recipe/crushing/diamond_cluster.json"
+hash = "99a64a885a8d3ed211d6cb50d7c07a2db5e1fcbc84dd0c4ef077441f4e9845e9"
+
+[[files]]
+file = "kubejs/data/lillascreate/recipe/crushing/emerald_cluster.json"
+hash = "ed0a5cb11d677ee7089aa070a1028235483e15335a9cbd2cec686a862ed620b2"
+
+[[files]]
+file = "kubejs/data/lillascreate/recipe/crushing/entro_cluster.json"
+hash = "044064d4b4655ad27c177a18917037812e95ea4395f8c3146e0eab53e9f727c4"
+
+[[files]]
+file = "kubejs/data/lillascreate/recipe/crushing/gold_cluster.json"
+hash = "dd9d924885438ee4ac348382fa86565b88b722ed11cca0f3862a905893025475"
+
+[[files]]
+file = "kubejs/data/lillascreate/recipe/crushing/infested_stone.json"
+hash = "4dfb3d067918ff4e18675f8d957807e80dd50ff7c9e01df274a484275ad156a0"
+
+[[files]]
+file = "kubejs/data/lillascreate/recipe/crushing/iron_cluster.json"
+hash = "48cb2dc2ad61f7eb024c3f285e710394f5b95daeeb0fc6bbeb9b34abb446b688"
+
+[[files]]
+file = "kubejs/data/lillascreate/recipe/crushing/lapis_cluster.json"
+hash = "85968dae258958e0c224afb321974703c5f82c518472f0850faadcc00f3f6d73"
+
+[[files]]
+file = "kubejs/data/lillascreate/recipe/crushing/quartz_cluster.json"
+hash = "36d4442ac9d03c66bef583be43b9d523a4e9624274707cefb5740cdff023f6fe"
+
+[[files]]
+file = "kubejs/data/lillascreate/recipe/crushing/redstone_cluster.json"
+hash = "421ddb187491618f2dc8fbdb8cbc960a9df75b7c7718a501ee6a3cc32b3fc676"
+
+[[files]]
+file = "kubejs/data/lillascreate/recipe/crushing/zinc_cluster.json"
+hash = "78f26d909fc7a99c8cac11de75d046bf8eafb6f9c0f7bdeb87ca44b74fa767d3"
+
+[[files]]
+file = "kubejs/data/lillascreate/recipe/mixing/lapis_lazuli.json"
+hash = "cdada32c336cd3ded980f8a869442d19598f65613f34f8491c4977e7f6719151"
+
+[[files]]
+file = "kubejs/data/lillascreate/recipe/mixing/obsidian.json"
+hash = "1ca5b1083e81346387cc246e33941fd99a2d69cbacd6867e6e826fe112e3cd01"
+
+[[files]]
+file = "kubejs/data/lillascreate/recipe/mixing/pointed_dripstone.json"
+hash = "8b0b6f9bee1a27f856ab4f80dc09f6c0541b3a5b6c60dba8814a6c21b267fb79"
+
+[[files]]
+file = "kubejs/data/lillascreate/recipe/pressing/coal.json"
+hash = "1613798820f658eaa31a64cb6ab76acd28d771fc0e410de11dfc11d28cc6a2dd"
+
+[[files]]
+file = "kubejs/server_scripts/dough.js"
+hash = "d98d23c1105cb6e7eecb82ff14acf05352c4206b2ac2f586375a7d242700b584"
+
+[[files]]
 file = "kubejs/server_scripts/endermen_tamer.js"
 hash = "f8e08f6eea6eb70605316de95f41ac4211a13b2500c1905f2ef2993c883c0e4b"
+
+[[files]]
+file = "kubejs/server_scripts/extruding.js"
+hash = "45372340c53ebdfa16e19c8a90bb03291c7a2fea3e1362ef5608dd9bb5cb3967"
 
 [[files]]
 file = "kubejs/server_scripts/recipes_remove.js"
@@ -445,11 +533,6 @@ metafile = true
 [[files]]
 file = "mods/create.pw.toml"
 hash = "dcaf5f2e28db0b9a127d0167456832341045ddc9aec058c3d9fcf53f618d2404"
-metafile = true
-
-[[files]]
-file = "mods/createaddition.pw.toml"
-hash = "350357b34feae2f0971d114ba856e4915e508efec110eea5ebdeac419d515e08"
 metafile = true
 
 [[files]]
@@ -655,6 +738,11 @@ metafile = true
 [[files]]
 file = "mods/platform.pw.toml"
 hash = "00887452f4c902a5f98fc42875d522e59948b60c20d887855a183c0f7235c641"
+metafile = true
+
+[[files]]
+file = "mods/power-grid.pw.toml"
+hash = "1c5522db3b8327e889b0ec6fe8569c4f864b8515a5f1cf439c4bae86a86234e2"
 metafile = true
 
 [[files]]
