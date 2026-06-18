@@ -6,7 +6,6 @@ RecipeViewerEvents.removeEntries('item', event => {
     /^createcasing:(.*creative|chorium_ingot)/,
     /^create:creative_.*/,
     /^simulated:creative_.*/,
-    /^createaddition:creative_.*/,
     /^.*:.*incomplete.*/,
     /^.*:.*_spawn_egg$/,
     'create:handheld_worldshaper',
