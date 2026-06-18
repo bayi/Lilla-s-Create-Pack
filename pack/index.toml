@@ -94,7 +94,7 @@ hash = "dabd9d17847b6d2785d0839af278277a1cf1ed3160050a506c9288535402efcc"
 
 [[files]]
 file = "kubejs/assets/create_sa/lang/hu_hu.json"
-hash = "dc8618074044deecb337fbf876088ef85adbec7472d464d30294f87b52df452f"
+hash = "d47c9ff9342c649b9e53323df1e64c9b71689b9285a4989187a34c8c16d29589"
 
 [[files]]
 file = "kubejs/assets/create_vibrant_vaults/lang/hu_hu.json"
@@ -102,7 +102,7 @@ hash = "1994e4145be2615dccd14eb95e3fe21f720d0f5a87540546125aff1d1fbb334f"
 
 [[files]]
 file = "kubejs/assets/createcasing/lang/hu_hu.json"
-hash = "bbe92436882e54acf02e60f415db4f2c35a47090f167a6013d422e3961a56f31"
+hash = "8c47b8b996076666d41bf9dd8e2c0771dc3362c26c1bfb0b05a4bfc2f9255f0b"
 
 [[files]]
 file = "kubejs/assets/createdeco/lang/hu_hu.json"
@@ -199,6 +199,10 @@ hash = "8c9e095e00cfeb9cdbb06fbca80171b7843c58d2d1687041596cdb93bda248f0"
 [[files]]
 file = "kubejs/assets/offroad/lang/hu_hu.json"
 hash = "8f6162f7492158e72bc3a136c380fffc649b1927f5327b12e69280c65c91ca23"
+
+[[files]]
+file = "kubejs/assets/powergrid/lang/hu_hu.json"
+hash = "117842c38724de4f881616dbbb2b6c099ff1e30e5939906be458f1501d06abe3"
 
 [[files]]
 file = "kubejs/assets/railways/lang/hu_hu.json"
