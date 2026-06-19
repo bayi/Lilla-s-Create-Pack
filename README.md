@@ -33,17 +33,17 @@ To top it all off, a custom resource pack is included to provide Hungarian trans
 - [Create: Steam 'n' Rails](https://modrinth.com/mod/create-steam-n-rails) - Adds more train features, tracks, and customization.
 - [Create: Copycats+](https://modrinth.com/mod/copycats) - Adds versatile copycat blocks for seamless decoration.
 - [Create Deco](https://modrinth.com/mod/create-deco) - More decorative blocks for stylish builds.
-- [Create Encased](https://modrinth.com/mod/create-encased) - Expands encased shafts, cogs, and piping.
+- [Create Encased](https://modrinth.com/mod/create-encased) - Allos to use all casing on shafts, cogs, and piping.
 - [Create: Design n' Decor](https://modrinth.com/mod/create-design-n-decor) - More industrial blocks and decorative options.
-- [Create Stuff 'N Additions](https://modrinth.com/mod/aq9qUUQG) - Adds more gadgets, tools, and materials.
-- [Create: Dragons Plus](https://modrinth.com/mod/dzb1a5WV) - Integrate dragon-themed components.
+- [Create Stuff 'N Additions](https://modrinth.com/mod/aq9qUUQG) - Adds more gadgets, tools, and materials, including Jetpacks!
+- [Create: Dragons Plus](https://modrinth.com/mod/dzb1a5WV) - Convenient features including bulk coloring, freezing, ending, sanding.
 - [Create: Enchantment Industry](https://modrinth.com/mod/create-enchantment-industry) - Automated enchanting and liquid XP.
 - [Create Mechanical Extruder](https://modrinth.com/mod/create_mechanical_extruder) - Adds a mechanical extruder for custom block generation.
 - [Create: Power Loader](https://modrinth.com/mod/create-power-loader) - Chunk loading the Create way.
-- [Create: Power Grid](https://modrinth.com/mod/eWiBLJ9R) - Power transmission grids for Create.
+- [Create: Power Grid](https://modrinth.com/mod/eWiBLJ9R) - Power with Create.
 - [Create: Vibrant Vaults](https://modrinth.com/mod/create_vibrant_vaults) - Colorful item vaults.
-- [Create: Pattern Schematics](https://modrinth.com/mod/create-pattern-schematics) - Adds more pattern-based schematic options.
-- [Extra Gauges](https://modrinth.com/mod/extra-gauges) - Gauges and meters for your machinery.
+- [Create: Pattern Schematics](https://modrinth.com/mod/create-pattern-schematics) - Maks schematics placeable on trains, gantries or any other contraption to infinitely build them.
+- [Extra Gauges](https://modrinth.com/mod/extra-gauges) - New gauges and smart logic tools. 
 </details>
 
 ## Storage & Applied Energistics 2
@@ -51,12 +51,12 @@ To top it all off, a custom resource pack is included to provide Hungarian trans
   <summary>All your high-tech storage and auto-crafting needs covered by AE2, advanced cells, and wireless terminals.</summary>
 
 - [Applied Energistics 2](https://modrinth.com/mod/ae2) - The ultimate storage and auto-crafting system.
-- [AdvancedAE](https://modrinth.com/mod/advancedae) - Advanced Applied Energistics tools and accessories.
+- [AdvancedAE](https://modrinth.com/mod/advancedae) - Extends automation with quantum computers, adds quantum armor, and more. 
 - [Extended AE](https://modrinth.com/mod/extended-ae) - Expands AE2 with new patterns, panels, and machinery.
 - [Applied Energistics 2 Wireless Terminals](https://modrinth.com/mod/applied-energistics-2-wireless-terminals) - Adds wireless (cross-dimensional) access to AE2 networks.
 - [MEGA Cells](https://modrinth.com/mod/mega) - Mega-sized storage cells for high-capacity setups.
-- [ME Requester](https://modrinth.com/mod/merequester) - Automates requesting items in AE2.
-- [Sophisticated Backpacks](https://modrinth.com/mod/sophisticated-backpacks) - Upgradeable backpacks with automation features.
+- [ME Requester](https://modrinth.com/mod/merequester) - Automates requesting items in AE2 to keep them in stock.
+- [Sophisticated Backpacks](https://modrinth.com/mod/sophisticated-backpacks) - Upgradeable backpacks.
 </details>
 
 ## Farming & Cooking
@@ -64,22 +64,22 @@ To top it all off, a custom resource pack is included to provide Hungarian trans
   <summary>Enrich the survival experience with expanded food mechanics, cooking, and crop management.</summary>
 
 - [Farmer's Delight](https://modrinth.com/mod/farmers-delight) - Expanded farming, cooking, and food mechanics.
-- [Create Slice & Dice](https://modrinth.com/mod/slice-and-dice) - Connects Create automation with cooking and slicing.
+- [Create Slice & Dice](https://modrinth.com/mod/slice-and-dice) - Connects Create automation with Farmer's Delight.
 </details>
 
 ## World, Misc & Customizations
 <details>
   <summary>World features, backports, and script integration for general gameplay enhancements.</summary>
 
-- [Easy Villagers](https://modrinth.com/mod/easy-villagers) - Convenient villager management, breeding, and trading blocks.
-- [Geore](https://modrinth.com/mod/geore) - Generates underground ore veins.
-- [Vanilla Backport](https://modrinth.com/mod/vanillabackport) - Backports features from newer Minecraft versions.
-- [Copper Age Backport](https://modrinth.com/mod/backport-copper-age) - Backports copper items and mechanics.
-- [KubeJS](https://modrinth.com/mod/kubejs) - Custom scripting and recipe integration.
+- [Easy Villagers](https://modrinth.com/mod/easy-villagers) - Convenient villager management and trading.
+- [Geore](https://modrinth.com/mod/geore) - Generates underground geodes for all ores inspired by vanilla amethyst geodes.
+- [Vanilla Backport](https://modrinth.com/mod/vanillabackport) - Backports features from newer Minecraft versions (Sulfur cubes, Pale oak, etc.).
+- [Copper Age Backport](https://modrinth.com/mod/backport-copper-age) - Brings the complete Copper Age experience including Copper Golems.
+- [KubeJS](https://modrinth.com/mod/kubejs) - Custom scripting and recipe integration. (Glue logic for the modpack.)
 - [KubeJS Create](https://modrinth.com/mod/kubejs-create) - KubeJS integration for the Create mod.
 - [LootJS](https://modrinth.com/mod/lootjs) - KubeJS integration for loot tables and drops.
 - [Almost Unified](https://modrinth.com/mod/almost-unified) - Unifies duplicate ores and materials across mods.
-- [GuideME](https://modrinth.com/mod/guideme) - In-game guide and tutorial helper.
+- [GuideME](https://modrinth.com/mod/guideme) - In-game guide and tutorial helper for AE2 and its extensions.
 </details>
 
 ## Building & Deco
@@ -104,7 +104,7 @@ To top it all off, a custom resource pack is included to provide Hungarian trans
 - [EMI](https://modrinth.com/mod/emi) - Clean recipe and item viewer.
 - [EMI Loot](https://modrinth.com/mod/emi-loot) - Loot tables inside EMI.
 - [EMI Enchanting](https://modrinth.com/mod/emi-enchanting) - Enchanting guide inside EMI.
-- [JEI](https://modrinth.com/mod/jei) - Just Enough Items recipe viewer.
+- [JEI](https://modrinth.com/mod/jei) - For compatibility with mods that don't support EMI. 
 - [GraveStone Mod](https://modrinth.com/mod/gravestone-mod) - Keeps items safe on death in a grave block.
 - [Gravestone x Curios API Compat](https://modrinth.com/mod/gravestone-x-curios-api-compat) - Keeps curios items in the grave.
 - [Immersive Paintings](https://modrinth.com/mod/immersive-paintings) - Custom paintings.
@@ -117,7 +117,7 @@ To top it all off, a custom resource pack is included to provide Hungarian trans
 - [Shulker Box Tooltip](https://modrinth.com/mod/shulkerboxtooltip) - View shulker inventory without opening it.
 - [Simple Voice Chat](https://modrinth.com/plugin/simple-voice-chat) - In-game proximity voice chat.
 - [Sound Physics Remastered](https://modrinth.com/mod/sound-physics-remastered) - Realistic sound reverb and attenuation.
-- [What Are They Up To](https://modrinth.com/mod/what-are-they-up-to) - Shows what other players are doing.
+- [What Are They Up To](https://modrinth.com/mod/what-are-they-up-to) - Shows what other players are doing in their UI (like crafting, etc)
 - [Xaero's World Map](https://modrinth.com/mod/xaeros-world-map) - Fullscreen map.
 </details>
 
@@ -131,7 +131,7 @@ To top it all off, a custom resource pack is included to provide Hungarian trans
 - [FerriteCore](https://modrinth.com/mod/ferrite-core) - Memory optimization.
 - [ImmediatelyFast](https://modrinth.com/mod/immediatelyfast) - Performance improvement for rendering.
 - [ModernFix](https://modrinth.com/mod/modernfix) - General performance/bug fixes and memory optimization.
-- [Distant Horizons](https://modrinth.com/mod/distanthorizons) - High performance level-of-detail (LOD) rendering for far-off terrain.
+- [Distant Horizons](https://modrinth.com/mod/distanthorizons) - High performance level-of-detail (LOD) rendering for far-off terrain with insane view distances.
 - [Iris Shaders](https://modrinth.com/mod/iris) - High performance shader loader compatible with Sodium.
 </details>
 
