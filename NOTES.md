@@ -1,14 +1,14 @@
 # Core
 
 # Optimizations
-+ sodium (pinned: 0.6.13 -> Distant Horizons, Supplementaries)
++ sodium
 + lithium
 + entityculling
 + ferrite-core
 + immediatelyfast
 + modernfix
 + distanthorizons
-+ iris (pinned: 1.8.12 -> Sodium)
++ iris
 
 # QoL
 + 3dskinlayers
@@ -69,7 +69,7 @@ X carry-on (Removed because of crashes with aeronautics in multiplayer)
 + create-power-loader
 + geore
 + power-grid
-+ create-aeronautics (pinned: 1.2.1 -> Sodium) (+ Sable pinned: 1.2.2 -> Sodium)
++ create-aeronautics
 X create teleporters / create mechanical teleporter
 X create sifter
 
