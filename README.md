@@ -6,7 +6,7 @@ At its core, the modpack revolves around the powerful **Create** mod and its man
 
 Beyond Create, the modpack features a carefully curated selection of mods. Storage and automation are handled by **Applied Energistics 2** and its advanced extensions, providing high-tech inventory systems and auto-crafting. Farming and cooking are enriched with **Farmer’s Delight** and its expansions, adding a delightful layer of depth to survival.
 
-To top it all off, a custom resource pack is included to provide Hungarian translations for most included mods, making the experience more accessible to Hungarian-speaking players.
+To top it all off, a custom resource pack is included to provide Hungarian translations for all included mods, making the experience more accessible to Hungarian-speaking players.
 
 ---
 
