@@ -152,6 +152,6 @@ For dedicated servers, ensure that the client-side only mods (like rendering, sh
 
 # Feedback
 
-I've done my best to balance everything, but feedback is always welcome! If you have suggestions or adjustments, feel free to use the issue tracker or contact me directly on Discord. (Username: `bayi`)
+I've done my best to balance everything, but feedback is always welcome! If you have suggestions or adjustments, feel free to use the [issue tracker](https://github.com/bayi/Lilla-s-Create-Pack/issues) or contact me directly on Discord. (Username: `bayi`)
 
 Happy automating and building!
