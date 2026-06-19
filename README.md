@@ -11,7 +11,7 @@ To top it all off, a custom resource pack is included to provide Hungarian trans
 ---
 
 > ⚠️ **Incompatibility Warning**: Lilla's Create Pack v2.x is **not compatible** with v1.x worlds!
-> - **v1** was built for Minecraft **1.20.1** (using Fabric, then Forge).
+> - **v1** was built for Minecraft **1.20.1** (using Fabric, later Forge).
 > - **v2** is built for Minecraft **1.21.1** (using **NeoForge**).
 > Attempting to load a v1 world in v2 will result in data corruption. Please start a new world!
 
