@@ -39,6 +39,7 @@ RecipeViewerEvents.removeEntries('item', event => {
     'easy_villagers:iron_farm',
     'easy_villagers:incubator',
     'easy_villagers:inventory_viewer',
+    'powergrid:debug',
   ]
 
   event.remove(itemsToHide)
