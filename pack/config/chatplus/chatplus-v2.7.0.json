@@ -13,8 +13,8 @@
     "selectChatColor": -4533252,
     "timestampSettings": {
         "enabled": true,
-        "timestampFormat": "&7Sent at &e{hh:mm:ss a}&7.",
-        "chatTimestampModeType": "HOVER"
+        "timestampFormat": "&8[{HH:mm}]",
+        "chatTimestampModeType": "PREPEND"
     },
     "inputOverFlowAutoFillSettings": {
         "enabled": true,
@@ -202,7 +202,7 @@
     "screenshotChatTextBarElementEnabled": true,
     "playerHeadChatDisplayEnabled": true,
     "playerHeadChatDisplayShowOnWrapped": false,
-    "playerHeadChatDisplayOffsetNonHeadMessages": false,
+    "playerHeadChatDisplayOffsetNonHeadMessages": true,
     "playerHeadChatDisplayOffsetNonHeadMessagesShowOnWrapped": true,
     "translatorEnabled": true,
     "translatorTextBarElementEnabled": true,
@@ -221,7 +221,7 @@
         "modifier": 2
     },
     "translateClickEnabled": true,
-    "speechToTextEnabled": true,
+    "speechToTextEnabled": false,
     "speechToTextToInputBox": true,
     "speechToTextCharset": "UTF-8",
     "speechToTextMicrophoneKey": "key.keyboard.b",
@@ -269,8 +269,8 @@
             "renderer": {
                 "x": 0,
                 "y": -29,
-                "width": 318,
-                "height": 180
+                "width": 320,
+                "height": 126
             },
             "tabSettings": {
                 "selectedTabIndex": 0,
