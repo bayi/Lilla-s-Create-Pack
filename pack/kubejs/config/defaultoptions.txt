@@ -1,5 +1,5 @@
 fov:0.5
-guiScale:2
+guiScale:3
 enableVsync:false
 maxFps:260
 soundCategory_master:0.3
