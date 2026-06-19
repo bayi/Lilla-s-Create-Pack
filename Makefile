@@ -1,4 +1,7 @@
+MAKEFLAGS += --no-print-directory
 INSTANCE_PATH="./instance"
+
+all: export
 
 refresh:
 	@cd pack; packwiz refresh
