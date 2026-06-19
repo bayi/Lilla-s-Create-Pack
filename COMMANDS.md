@@ -1,79 +1,78 @@
-packwiz mr add lithium
-packwiz mr add entityculling
-packwiz mr add ferrite-core
-packwiz mr add immediatelyfast
-packwiz mr add modernfix
-packwiz mr add https://modrinth.com/mod/iris/version/t3ruzodq
+packwiz mr add -y https://modrinth.com/mod/iris/version/t3ruzodq
 packwiz pin iris
-packwiz mr add https://modrinth.com/mod/sodium/version/Pb3OXVqC
+packwiz mr add -y https://modrinth.com/mod/sodium/version/Pb3OXVqC
 packwiz pin sodium
-packwiz mr add distanthorizons
-packwiz mr add 3dskinlayers
-packwiz mr add advancement-plaques
-packwiz mr add better-advancements
-packwiz mr add ambient-environment
-packwiz mr add carry-on
-packwiz mr add curios
-packwiz mr add inventory-essentials
-packwiz mr add jade
-packwiz mr add kubejs
-packwiz mr add legendary-tooltips
-packwiz mr add lootjs
-packwiz mr add mouse-tweaks
-packwiz mr add sophisticated-backpacks
-packwiz mr add sound-physics-remastered
-packwiz mr add what-are-they-up-to
-packwiz mr add xaeros-world-map
-packwiz mr add shulkerboxtooltip
-packwiz mr add pick-up-notifier
-packwiz mr add gravestone-mod
-packwiz mr add gravestone-x-curios-api-compat
-packwiz mr add emi
-packwiz mr add emi-loot
-packwiz mr add emi-enchanting
-packwiz mr add jei
-packwiz mr add fzzy-config
-packwiz mr add item-borders
-packwiz mr add almostunified
-packwiz mr add amendments
-packwiz mr add antiblocksrechiseled
-packwiz mr add immersive-paintings
-packwiz mr add supplementaries
-packwiz mr add chat-plus
-packwiz mr add simple-voice-chat
-packwiz mr add easy-villagers
-packwiz mr add vanillabackport
-packwiz mr add backport-copper-age
+packwiz mr add -y lithium
+packwiz mr add -y entityculling
+packwiz mr add -y ferrite-core
+packwiz mr add -y immediatelyfast
+packwiz mr add -y modernfix
+packwiz mr add -y distanthorizons
+packwiz mr add -y 3dskinlayers
+packwiz mr add -y advancement-plaques
+packwiz mr add -y better-advancements
+packwiz mr add -y ambient-environment
+packwiz mr add -y curios
+packwiz mr add -y inventory-essentials
+packwiz mr add -y jade
+packwiz mr add -y kubejs
+packwiz mr add -y legendary-tooltips
+packwiz mr add -y lootjs
+packwiz mr add -y mouse-tweaks
+packwiz mr add -y sophisticated-backpacks
+packwiz mr add -y sound-physics-remastered
+packwiz mr add -y what-are-they-up-to
+packwiz mr add -y xaeros-world-map
+packwiz mr add -y shulkerboxtooltip
+packwiz mr add -y pick-up-notifier
+packwiz mr add -y gravestone-mod
+packwiz mr add -y gravestone-x-curios-api-compat
+packwiz mr add -y emi
+packwiz mr add -y emi-loot
+packwiz mr add -y emi-enchanting
+packwiz mr add -y jei
+packwiz mr add -y fzzy-config
+packwiz mr add -y item-borders
+packwiz mr add -y almostunified
+packwiz mr add -y amendments
+packwiz mr add -y antiblocksrechiseled
+packwiz mr add -y immersive-paintings
+packwiz mr add -y supplementaries
+packwiz mr add -y chat-plus
+packwiz mr add -y simple-voice-chat
+packwiz mr add -y easy-villagers
+packwiz mr add -y vanillabackport
+packwiz mr add -y backport-copper-age
 
-packwiz mr add create
-packwiz mr add kubejs-create
-packwiz mr add create-deco
-packwiz mr add create-encased
-packwiz mr add create-dragons-plus
-packwiz mr add create-enchantment-industry
-packwiz mr add create-vibrant-vaults
-packwiz mr add create-stuff-additions
-packwiz mr add create-design-n-decor
-packwiz mr add create-steam-n-rails-1.21.1
-packwiz mr add create-pattern-schematics
-packwiz mr add create-mechanical-extruder
-packwiz mr add create-power-loader
-packwiz mr add https://modrinth.com/mod/sable/version/3FMsUjO4
+packwiz mr add -y create
+packwiz mr add -y kubejs-create
+packwiz mr add -y create-deco
+packwiz mr add -y create-encased
+packwiz mr add -y create-dragons-plus
+packwiz mr add -y create-enchantment-industry
+packwiz mr add -y create-vibrant-vaults
+packwiz mr add -y create-stuff-additions
+packwiz mr add -y create-design-n-decor
+packwiz mr add -y create-steam-n-rails-1.21.1
+packwiz mr add -y create-pattern-schematics
+packwiz mr add -y create-mechanical-extruder
+packwiz mr add -y create-power-loader
+packwiz mr add -y https://modrinth.com/mod/sable/version/3FMsUjO4
 packwiz pin sable
-packwiz mr add https://modrinth.com/mod/create-aeronautics/version/YhZLrAFC
+packwiz mr add -y https://modrinth.com/mod/create-aeronautics/version/YhZLrAFC
 packwiz pin create-aeronautics
-packwiz mr add copycats
-packwiz mr add extra-gauges
-packwiz mr add geore
-packwiz mr add power-grid
+packwiz mr add -y copycats
+packwiz mr add -y extra-gauges
+packwiz mr add -y geore
+packwiz mr add -y power-grid
 
-packwiz mr add farmers-delight
-packwiz mr add slice-and-dice
+packwiz mr add -y farmers-delight
+packwiz mr add -y slice-and-dice
 
-packwiz mr add ae2
-packwiz mr add applied-energistics-2-wireless-terminals
-packwiz mr add advancedae
-packwiz mr add extended-ae
-packwiz mr add mega
-packwiz mr add merequester
-packwiz mr add glodium
+packwiz mr add -y ae2
+packwiz mr add -y applied-energistics-2-wireless-terminals
+packwiz mr add -y advancedae
+packwiz mr add -y extended-ae
+packwiz mr add -y mega
+packwiz mr add -y merequester
+packwiz mr add -y glodium

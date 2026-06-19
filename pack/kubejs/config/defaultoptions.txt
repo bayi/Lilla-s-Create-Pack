@@ -3,7 +3,7 @@ guiScale:2
 enableVsync:false
 maxFps:260
 soundCategory_master:0.3
-soundCategory_music:0.5
+soundCategory_music:0.25
 key_key.curios.open.desc:key.keyboard.unknown
 key_gui.xaero_open_settings:key.keyboard.unknown
 key_gui.xaero_world_map_server_settings:key.keyboard.unknown
