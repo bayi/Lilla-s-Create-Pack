@@ -8,7 +8,7 @@ update:
 
 export:
 	@cd pack; packwiz modrinth export
-	@mv pack/*.mrpack ./ || true
+	@mv pack/*.mrpack ./dist/ || true
 
 sync:
 	@echo "Syncing config with instance ..."
