@@ -1,6 +1,6 @@
-# Core
+# Mods List
 
-# Optimizations
+## Optimizations
 + sodium
 + lithium
 + entityculling
@@ -10,7 +10,7 @@
 + distanthorizons
 + iris
 
-# QoL
+## QoL
 + 3dskinlayers
 + advancement-plaques
 + ambient-environment
@@ -33,25 +33,24 @@
 + pick-up-notifier
 + shulkerboxtooltip
 + simple-voice-chat
-+ sophisticated-backpacks
 + sound-physics-remastered
 + what-are-they-up-to
 + xaeros-world-map
 X carry-on (Removed because of crashes with aeronautics in multiplayer)
 
-# Extra Blocks
+## Extra Blocks
 + amendments
 + antiblocksrechiseled
 + supplementaries
 
-# Misc
+## Misc
 + almostunified
 + kubejs
 + easy-villagers
 + vanillabackport
 + backport-copper-age
 
-# Create
+## Create
 + create
 + create-deco
 + create-encased
@@ -73,11 +72,11 @@ X carry-on (Removed because of crashes with aeronautics in multiplayer)
 X create teleporters / create mechanical teleporter
 X create sifter
 
-# Farmer's Delight
+## Farmer's Delight
 + farmers-delight
 + slice-and-dice
 
-# AE2
+## AE2 & Storage
 + ae2
 + advancedAE
 + extended-ae
@@ -85,8 +84,9 @@ X create sifter
 + mega
 + merequester
 + guideme
++ sophisticated-backpacks
 
-# CC
+## CC
 X cc:tweaked
 X advancedperipherals
 X toms peripherals
