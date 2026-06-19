@@ -29,7 +29,6 @@ To top it all off, a custom resource pack is included to provide Hungarian trans
 
 - [Create](https://modrinth.com/mod/create) - The foundation of automation and kinetic power.
 - [Create Aeronautics](https://modrinth.com/mod/create-aeronautics) - Build fully functional flying ships and moving structures!
-- [Sable](https://modrinth.com/mod/sable) - Physics API required by Create Aeronautics.
 - [Create: Steam 'n' Rails](https://modrinth.com/mod/create-steam-n-rails) - Adds more train features, tracks, and customization.
 - [Create: Copycats+](https://modrinth.com/mod/copycats) - Adds versatile copycat blocks for seamless decoration.
 - [Create Deco](https://modrinth.com/mod/create-deco) - More decorative blocks for stylish builds.
