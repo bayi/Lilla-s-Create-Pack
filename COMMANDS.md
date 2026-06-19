@@ -1,7 +1,5 @@
-packwiz mr add -y https://modrinth.com/mod/iris/version/t3ruzodq
-packwiz pin iris
-packwiz mr add -y https://modrinth.com/mod/sodium/version/Pb3OXVqC
-packwiz pin sodium
+packwiz mr add -y iris
+packwiz mr add -y sodium
 packwiz mr add -y lithium
 packwiz mr add -y entityculling
 packwiz mr add -y ferrite-core
@@ -57,10 +55,8 @@ packwiz mr add -y create-steam-n-rails-1.21.1
 packwiz mr add -y create-pattern-schematics
 packwiz mr add -y create-mechanical-extruder
 packwiz mr add -y create-power-loader
-packwiz mr add -y https://modrinth.com/mod/sable/version/3FMsUjO4
-packwiz pin sable
-packwiz mr add -y https://modrinth.com/mod/create-aeronautics/version/YhZLrAFC
-packwiz pin create-aeronautics
+packwiz mr add -y sable
+packwiz mr add -y create-aeronautics
 packwiz mr add -y copycats
 packwiz mr add -y extra-gauges
 packwiz mr add -y geore
