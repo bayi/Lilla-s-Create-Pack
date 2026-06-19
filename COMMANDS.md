@@ -55,7 +55,6 @@ packwiz mr add -y create-steam-n-rails-1.21.1
 packwiz mr add -y create-pattern-schematics
 packwiz mr add -y create-mechanical-extruder
 packwiz mr add -y create-power-loader
-packwiz mr add -y sable
 packwiz mr add -y create-aeronautics
 packwiz mr add -y copycats
 packwiz mr add -y extra-gauges
