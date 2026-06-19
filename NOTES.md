@@ -93,7 +93,7 @@ X toms peripherals
 
 # TODO
 - Chat Plus config migrate
-- Weather mod ? Project: Atmosphere vs Weather Storms & Tornades vs Angel's Weather (resource pack)
+X Weather mod ? Project: Atmosphere vs Weather Storms & Tornades vs Angel's Weather (resource pack)
 X Diamond energy generator ?
 X KubeJS: Add magnet (Not needed, advancedAE)
 X Is Patchouli needed ?
