@@ -44,7 +44,6 @@ To top it all off, a custom resource pack is included to provide Hungarian trans
 - [Create: Vibrant Vaults](https://modrinth.com/mod/create_vibrant_vaults) - Colorful item vaults.
 - [Create: Pattern Schematics](https://modrinth.com/mod/create-pattern-schematics) - Adds more pattern-based schematic options.
 - [Extra Gauges](https://modrinth.com/mod/extra-gauges) - Gauges and meters for your machinery.
-- [Geore](https://modrinth.com/mod/geore) - Generates underground ore veins.
 </details>
 
 ## Storage & Applied Energistics 2
@@ -73,10 +72,12 @@ To top it all off, a custom resource pack is included to provide Hungarian trans
   <summary>World features, backports, and script integration for general gameplay enhancements.</summary>
 
 - [Easy Villagers](https://modrinth.com/mod/easy-villagers) - Convenient villager management, breeding, and trading blocks.
+- [Geore](https://modrinth.com/mod/geore) - Generates underground ore veins.
 - [Vanilla Backport](https://modrinth.com/mod/vanillabackport) - Backports features from newer Minecraft versions.
 - [Copper Age Backport](https://modrinth.com/mod/backport-copper-age) - Backports copper items and mechanics.
 - [KubeJS](https://modrinth.com/mod/kubejs) - Custom scripting and recipe integration.
 - [KubeJS Create](https://modrinth.com/mod/kubejs-create) - KubeJS integration for the Create mod.
+- [LootJS](https://modrinth.com/mod/lootjs) - KubeJS integration for loot tables and drops.
 - [Almost Unified](https://modrinth.com/mod/almost-unified) - Unifies duplicate ores and materials across mods.
 - [GuideME](https://modrinth.com/mod/guideme) - In-game guide and tutorial helper.
 </details>
@@ -111,7 +112,6 @@ To top it all off, a custom resource pack is included to provide Hungarian trans
 - [Item Borders](https://modrinth.com/mod/item-borders) - Colored borders based on rarity.
 - [Jade](https://modrinth.com/mod/jade) - Tooltips showing what block you are looking at.
 - [Legendary Tooltips](https://modrinth.com/mod/legendary-tooltips) - Fancy item tooltip frames.
-- [LootJS](https://modrinth.com/mod/lootjs) - Custom loot tables scripting.
 - [Mouse Tweaks](https://modrinth.com/mod/mouse-tweaks) - Better inventory dragging controls.
 - [Pick Up Notifier](https://modrinth.com/mod/pick-up-notifier) - Shows popup when picking up items.
 - [Shulker Box Tooltip](https://modrinth.com/mod/shulkerboxtooltip) - View shulker inventory without opening it.
