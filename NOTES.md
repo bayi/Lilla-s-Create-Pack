@@ -94,6 +94,8 @@ X toms peripherals
 # TODO
 - Check advancements
 - Create enchantment industry translations missing
+- Jade: Coordinates
+- Protection system
 X Weather mod ? Project: Atmosphere vs Weather Storms & Tornades vs Angel's Weather (resource pack)
 X Diamond energy generator ?
 X KubeJS: Add magnet (Not needed, advancedAE)
