@@ -2,7 +2,7 @@
   "minecraft": {
     "item_storage.show_name_amount": 5,
     "furnace": true,
-    "harvest_tool.show_unbreakable": false,
+    "harvest_tool.show_unbreakable": true,
     "animal_owner": true,
     "harvest_tool.effective_tool": true,
     "energy_storage.style": "PROGRESS_BAR",
@@ -38,7 +38,7 @@
     "player_head": true,
     "lectern": true,
     "entity_armor": true,
-    "harvest_tool.creative": false,
+    "harvest_tool.creative": true,
     "horse_stats": true,
     "item_tooltip": true,
     "entity_health": true,
@@ -64,13 +64,16 @@
     "converter": true,
     "breeder": true
   },
+  "supplementaries": {
+    "hat_stand": true
+  },
   "jade": {
     "coordinates.rel": false,
     "registry_name.special": false,
     "block_states": false,
-    "distance": false,
-    "block_face": false,
-    "coordinates": false,
+    "distance": true,
+    "block_face": true,
+    "coordinates": true,
     "registry_name": "OFF",
     "block_properties": false,
     "mod_name": true
@@ -78,7 +81,23 @@
   "gravestone": {
     "grave": true
   },
+  "extendedae": {
+    "jade_chamber": true,
+    "jade_wireless": true
+  },
   "balm": {
     "jade": true
+  },
+  "ae2": {
+    "part_icon": true,
+    "charger": true,
+    "debug": true,
+    "part_tooltip": true,
+    "grid_node_state": true,
+    "pattern_provider": true,
+    "part_mod_name": true,
+    "power_storage": true,
+    "crafting_monitor": true,
+    "part_name": true
   }
 }
